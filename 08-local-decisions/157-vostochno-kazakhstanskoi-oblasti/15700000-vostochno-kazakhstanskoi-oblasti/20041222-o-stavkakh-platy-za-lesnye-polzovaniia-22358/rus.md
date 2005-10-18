@@ -1,5 +1,5 @@
 ---
-version_id: AI22358_1
+version_id: AI22358_3
 act_code: '22358'
 language: rus
 title: О ставках платы за лесные пользования
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '157000000002'
 approval_date: 2004-12-22
-version_date: 2004-12-22
+version_date: 2005-10-18
 registry_number: '22358'
-source: https://zan.gov.kz/client/#!/doc/22358/rus/22.12.2004
+caused_by:
+  code: '25678'
+  title: О внесении изменений в решение от 22 декабря 2004 года № 9/118-III "О ставках платы за лесные пользования"
+  link: https://zan.gov.kz/client/#!/doc/25678/rus
+source: https://zan.gov.kz/client/#!/doc/22358/rus/18.10.2005
 ---
 
 # О ставках платы за лесные пользования
@@ -635,12 +639,17 @@ source: https://zan.gov.kz/client/#!/doc/22358/rus/22.12.2004
 <td colspan="2">30</td>
 </tr>
 <tr>
-<th colspan="6">5. Размещение ульев и пасек</th>
+<th colspan="6">5. Размещение ульев и пасек &lt;*&gt;</th>
 </tr>
 <tr>
-<td colspan="2">Установка пчелосемей</td>
-<td colspan="2">Пчелосемья</td>
-<td colspan="2">50</td>
+<td colspan="2">Размещение ульев при краткосрочном лесопользовании</td>
+<td colspan="2">100 кв.м</td>
+<td colspan="2">44</td>
+</tr>
+<tr>
+<td colspan="2">Размещение пасек при долгосрочном лесопользовании</td>
+<td colspan="2">га</td>
+<td colspan="2">4350</td>
 </tr>
 <tr>
 <th colspan="6">6. Мараловодство</th>
@@ -670,6 +679,8 @@ source: https://zan.gov.kz/client/#!/doc/22358/rus/22.12.2004
 <td colspan="2">9764</td>
 </tr>
 </table>
+
+> *Сноска. Раздел 5 в новой редакции решения ВКО маслихата от 18 октября 2005 года N 13/196-III.*
 
 Примечание: 1. В зависимости от удаленности сенокосных участков от пунктов потребления продукции к установленной ставке применяются следующие коэффициенты:
 
