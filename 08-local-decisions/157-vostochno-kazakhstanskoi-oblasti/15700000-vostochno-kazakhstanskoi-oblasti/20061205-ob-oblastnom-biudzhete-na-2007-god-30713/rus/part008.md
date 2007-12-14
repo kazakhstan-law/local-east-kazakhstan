@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/30713/rus/16.10.2007
+source: https://zan.gov.kz/client/#!/doc/30713/rus/14.12.2007
 ---
 
 ## Трансферты из областного бюджета бюджетам районов (городов областного значения)
