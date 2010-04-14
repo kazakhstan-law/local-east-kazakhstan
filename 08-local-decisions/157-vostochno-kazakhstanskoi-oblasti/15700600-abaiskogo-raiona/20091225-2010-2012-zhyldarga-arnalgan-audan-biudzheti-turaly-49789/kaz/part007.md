@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49789/kaz/25.01.2010
+source: https://zan.gov.kz/client/#!/doc/49789/kaz/14.04.2010
 ---
 
 ## 2012 жылға арналған аудандық бюджет
@@ -776,22 +776,22 @@ source: https://zan.gov.kz/client/#!/doc/49789/kaz/25.01.2010
 <td>1 354 848</td>
 </tr>
 <tr>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Жалпы сипаттағы мемлекеттiк қызметтер</th>
-<th>153 546</th>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>153 546</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</th>
-<th>130 651</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td>130 651</td>
 </tr>
 <tr>
 <th></th>
@@ -866,13 +866,13 @@ source: https://zan.gov.kz/client/#!/doc/49789/kaz/25.01.2010
 <td>68 971</td>
 </tr>
 <tr>
-<th></th>
-<th>2</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қаржылық қызмет</th>
-<th>13 008</th>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қаржылық қызмет</td>
+<td>13 008</td>
 </tr>
 <tr>
 <td></td>
@@ -920,13 +920,13 @@ source: https://zan.gov.kz/client/#!/doc/49789/kaz/25.01.2010
 <td>240</td>
 </tr>
 <tr>
-<th></th>
-<th>5</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Жоспарлау және статистикалық қызмет</th>
-<th>9 887</th>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жоспарлау және статистикалық қызмет</td>
+<td>9 887</td>
 </tr>
 <tr>
 <td></td>
@@ -947,13 +947,13 @@ source: https://zan.gov.kz/client/#!/doc/49789/kaz/25.01.2010
 <td>9 887</td>
 </tr>
 <tr>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қорғаныс</th>
-<th>4 348</th>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қорғаныс</td>
+<td>4 348</td>
 </tr>
 <tr>
 <td></td>
@@ -983,22 +983,22 @@ source: https://zan.gov.kz/client/#!/doc/49789/kaz/25.01.2010
 <td>4 348</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Бiлiм беру</th>
-<th>838 601</th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бiлiм беру</td>
+<td>838 601</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Мектепке дейiнгi тәрбие және оқыту</th>
-<th>18 623</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мектепке дейiнгi тәрбие және оқыту</td>
+<td>18 623</td>
 </tr>
 <tr>
 <td></td>
@@ -1019,13 +1019,13 @@ source: https://zan.gov.kz/client/#!/doc/49789/kaz/25.01.2010
 <td>18 623</td>
 </tr>
 <tr>
-<th></th>
-<th>2</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Бастауыш, негізгі орта және жалпы орта білім беру</th>
-<th>749 404</th>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
+<td>749 404</td>
 </tr>
 <tr>
 <th></th>
@@ -1055,13 +1055,13 @@ source: https://zan.gov.kz/client/#!/doc/49789/kaz/25.01.2010
 <td>51 965</td>
 </tr>
 <tr>
-<th></th>
-<th>9</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Бiлiм беру саласындағы өзге де қызметтер</th>
-<th>70 575</th>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бiлiм беру саласындағы өзге де қызметтер</td>
+<td>70 575</td>
 </tr>
 <tr>
 <td></td>
@@ -1163,13 +1163,13 @@ source: https://zan.gov.kz/client/#!/doc/49789/kaz/25.01.2010
 <td>6 120</td>
 </tr>
 <tr>
-<th>06</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</th>
-<th>151 298</th>
+<td>06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
+<td>151 298</td>
 </tr>
 <tr>
 <td></td>
@@ -2171,22 +2171,22 @@ source: https://zan.gov.kz/client/#!/doc/49789/kaz/25.01.2010
 <td>7 566</td>
 </tr>
 <tr>
-<th>15</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Трансферттер</th>
-<th></th>
+<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Трансферттер</th>
-<th></th>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Трансферттер</td>
+<td></td>
 </tr>
 <tr>
 <th></th>
@@ -2270,20 +2270,20 @@ source: https://zan.gov.kz/client/#!/doc/49789/kaz/25.01.2010
 <th>Инвестициялық жобалар</th>
 </tr>
 <tr>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Жалпы сипаттағы мемлекеттік қызметтер</th>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жалпы сипаттағы мемлекеттік қызметтер</td>
 </tr>
 <tr>
-<th></th>
-<th>1</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</th>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
 </tr>
 <tr>
 <td></td>
@@ -2302,20 +2302,20 @@ source: https://zan.gov.kz/client/#!/doc/49789/kaz/25.01.2010
 <td>Ақпараттық жүйелер құру</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Бiлiм беру</th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бiлiм беру</td>
 </tr>
 <tr>
-<th></th>
-<th>9</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Бiлiм беру саласындағы өзге де қызметтер</th>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бiлiм беру саласындағы өзге де қызметтер</td>
 </tr>
 <tr>
 <th></th>
