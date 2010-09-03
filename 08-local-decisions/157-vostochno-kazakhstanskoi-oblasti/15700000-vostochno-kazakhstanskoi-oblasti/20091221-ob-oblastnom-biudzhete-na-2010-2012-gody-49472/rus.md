@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49472/rus/20.07.2010
+source: https://zan.gov.kz/client/#!/doc/49472/rus/03.09.2010
 ---
 
 # Об областном бюджете на 2010-2012 годы

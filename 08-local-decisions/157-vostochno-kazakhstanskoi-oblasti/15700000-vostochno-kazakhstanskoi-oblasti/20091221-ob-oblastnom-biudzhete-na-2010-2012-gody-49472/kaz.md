@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49472/kaz/20.07.2010
+source: https://zan.gov.kz/client/#!/doc/49472/kaz/03.09.2010
 ---
 
 # 2010-2012 жылдарға арналған облыстық бюджет туралы
