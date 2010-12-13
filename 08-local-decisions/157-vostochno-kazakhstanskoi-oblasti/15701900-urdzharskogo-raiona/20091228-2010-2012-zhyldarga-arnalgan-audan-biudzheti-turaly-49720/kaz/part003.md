@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49720/kaz/01.11.2010
+source: https://zan.gov.kz/client/#!/doc/49720/kaz/13.12.2010
 ---
 
 ## 2012 жылға арналған Үржар ауданы бюджеті
