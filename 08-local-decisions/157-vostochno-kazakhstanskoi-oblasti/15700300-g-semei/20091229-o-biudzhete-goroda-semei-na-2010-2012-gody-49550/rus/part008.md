@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49550/rus/02.11.2010
+source: https://zan.gov.kz/client/#!/doc/49550/rus/14.12.2010
 ---
 
 ## Бюджетные программы сельских округов, поселков в бюджете на 2012 год
@@ -192,12 +192,12 @@ source: https://zan.gov.kz/client/#!/doc/49550/rus/02.11.2010
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Всего по бюджету</td>
-<td>105 439</td>
-<td>99 530</td>
-<td>5 360</td>
-<td>549</td>
+<th></th>
+<th colspan="2">Всего по бюджету</th>
+<th>105 439</th>
+<th>99 530</th>
+<th>5 360</th>
+<th>549</th>
 </tr>
 </table>
 
