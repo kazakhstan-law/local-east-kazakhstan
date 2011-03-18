@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56421/rus/28.12.2010
+source: https://zan.gov.kz/client/#!/doc/56421/rus/18.03.2011
 ---
 
 ## Утвержденный бюджет города Курчатов на 2013 год

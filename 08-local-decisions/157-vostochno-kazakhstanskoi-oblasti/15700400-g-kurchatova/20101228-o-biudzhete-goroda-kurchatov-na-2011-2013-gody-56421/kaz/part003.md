@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56421/kaz/28.12.2010
+source: https://zan.gov.kz/client/#!/doc/56421/kaz/18.03.2011
 ---
 
 ## Курчатов қаласының 2013 жылға арналған бекітілген бюджеті
