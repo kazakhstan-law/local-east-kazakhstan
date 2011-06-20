@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56446/kaz/17.03.2011
+source: https://zan.gov.kz/client/#!/doc/56446/kaz/20.06.2011
 ---
 
 ## 2012 жылға арналған аудандық бюджет
@@ -616,7 +616,10 @@ source: https://zan.gov.kz/client/#!/doc/56446/kaz/17.03.2011
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td rowspan="6">Сомасы (мың теңге)</td>
+<td rowspan="6">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
 <td></td>
