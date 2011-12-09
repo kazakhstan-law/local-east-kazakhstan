@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56319/kaz/10.11.2011
+source: https://zan.gov.kz/client/#!/doc/56319/kaz/09.12.2011
 ---
 
 ## Семей қаласының 2013 жылға арналған бюджеті
