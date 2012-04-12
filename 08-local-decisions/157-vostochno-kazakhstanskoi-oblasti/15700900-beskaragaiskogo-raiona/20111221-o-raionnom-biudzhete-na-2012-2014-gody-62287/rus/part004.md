@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62287/rus/21.12.2011
+source: https://zan.gov.kz/client/#!/doc/62287/rus/12.04.2012
 ---
 
 > *Приложение 4 к решению*  
@@ -17,10 +17,7 @@ source: https://zan.gov.kz/client/#!/doc/62287/rus/21.12.2011
 <td>Под класс</td>
 <td>Специфика</td>
 <td>Наименование доходов</td>
-<td>
-Сумма
-(тысяч тенге)
-</td>
+<td>Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -655,10 +652,7 @@ source: https://zan.gov.kz/client/#!/doc/62287/rus/21.12.2011
 <td>Администратор</td>
 <td>Программа</td>
 <td>Наименование</td>
-<td>
-Сумма
-(тысяч тенге)
-</td>
+<td>Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>

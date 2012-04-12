@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62287/kaz/21.12.2011
+source: https://zan.gov.kz/client/#!/doc/62287/kaz/12.04.2012
 ---
 
 > *Бесқарағай аудандық мәслихатының*  
@@ -17,10 +17,7 @@ source: https://zan.gov.kz/client/#!/doc/62287/kaz/21.12.2011
 <td>ішкі сынып</td>
 <td>ерекшелік</td>
 <td>А Т А У Ы</td>
-<td>
-Сома
-(мың теңге)
-</td>
+<td>Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -655,10 +652,7 @@ source: https://zan.gov.kz/client/#!/doc/62287/kaz/21.12.2011
 <td>Мекемесі</td>
 <td>бағдарлама</td>
 <td>А Т А У Ы</td>
-<td>
-Сома
-(мың теңге)
-</td>
+<td>Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
