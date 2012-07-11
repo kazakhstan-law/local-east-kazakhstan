@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62287/kaz/18.06.2012
+source: https://zan.gov.kz/client/#!/doc/62287/kaz/11.07.2012
 ---
 
 > *Бесқарағай аудандық мәслихатының*  
