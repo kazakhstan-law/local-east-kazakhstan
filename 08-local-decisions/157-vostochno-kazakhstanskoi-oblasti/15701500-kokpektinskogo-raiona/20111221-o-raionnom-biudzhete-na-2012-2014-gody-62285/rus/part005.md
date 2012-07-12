@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62285/rus/10.04.2012
+source: https://zan.gov.kz/client/#!/doc/62285/rus/12.07.2012
 ---
 
 ## Районный бюджет на 2013 год
@@ -12,7 +12,7 @@ source: https://zan.gov.kz/client/#!/doc/62285/rus/10.04.2012
 <td colspan="4">Категория</td>
 <td rowspan="4">
 Сумма
-(тыс. тенге)
+(тысяч тенге)
 </td>
 </tr>
 <tr>
@@ -366,7 +366,7 @@ source: https://zan.gov.kz/client/#!/doc/62285/rus/10.04.2012
 <td colspan="4">Функциональная группа</td>
 <td rowspan="4">
 Сумма
-(тыс. тенге)
+(тысяч тенге)
 </td>
 </tr>
 <tr>
@@ -1426,7 +1426,7 @@ source: https://zan.gov.kz/client/#!/doc/62285/rus/10.04.2012
 <td colspan="4">Категория</td>
 <td rowspan="4">
 Сумма
-(тыс. тенге)
+(тысяч тенге)
 </td>
 </tr>
 <tr>
@@ -1752,7 +1752,7 @@ source: https://zan.gov.kz/client/#!/doc/62285/rus/10.04.2012
 <td colspan="4">Функциональная группа</td>
 <td rowspan="4">
 Сумма
-(тыс. тенге)
+(тысяч тенге)
 </td>
 </tr>
 <tr>
