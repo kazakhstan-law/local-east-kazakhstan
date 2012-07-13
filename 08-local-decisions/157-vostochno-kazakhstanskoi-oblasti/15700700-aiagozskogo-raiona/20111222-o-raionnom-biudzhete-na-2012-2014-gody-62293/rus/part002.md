@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62293/rus/11.04.2012
+source: https://zan.gov.kz/client/#!/doc/62293/rus/13.07.2012
 ---
 
 ## Утвержденный бюджет Аягозского района на 2013 год
@@ -2894,7 +2894,7 @@ source: https://zan.gov.kz/client/#!/doc/62293/rus/11.04.2012
 <td></td>
 <td></td>
 <td></td>
-<td>Ү. Дефицит (профицит) бюджета</td>
+<td>Ү. Дефицит ( профицит) бюджета</td>
 <td>0</td>
 </tr>
 <tr>
