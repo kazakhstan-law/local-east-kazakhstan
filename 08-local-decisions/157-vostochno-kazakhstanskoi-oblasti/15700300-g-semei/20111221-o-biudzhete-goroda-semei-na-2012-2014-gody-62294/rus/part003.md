@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
+source: https://zan.gov.kz/client/#!/doc/62294/rus/18.07.2012
 ---
 
 ## Бюджет города Семей на 2014 год
@@ -1625,7 +1625,7 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 
 ## Бюджетные программы сельских округов, поселков в бюджете на 2012 год
 
-> *Сноска. Приложение 6 в редакции решения маслихата города Семей Восточно-Казахстанской области от 18.04.2012 N 4/27-V (вводится в действие с 01.01.2012).*
+> *Сноска. Приложение 6 в редакции решения маслихата города Семей Восточно-Казахстанской области от 18.07.2012 N 6/40-V (вводится в действие с 01.01.2012).*
 
 тысяч тенге
 
@@ -1634,7 +1634,7 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 <td rowspan="2">№</td>
 <td rowspan="2">Наименование сельского округа, поселка</td>
 <td rowspan="2">Всего</td>
-<td colspan="6">В том числе по программам</td>
+<td colspan="7">В том числе по программам</td>
 </tr>
 <tr>
 <td>001 &quot;Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа&quot;</td>
@@ -1643,23 +1643,26 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 <td>008 &quot;Освещение улиц населенных пунктов&quot;</td>
 <td>011 &quot;Благоустройство и озеленение населенных пунктов&quot;</td>
 <td>013 &quot;Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, аулах (селах), аульных (сельских) округах&quot;</td>
+<td>022 &quot;Капитальные расходы государственного органа&quot;</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Абралинский</td>
-<td>7 835</td>
-<td>6 901</td>
+<td>7924</td>
+<td>6 990</td>
 <td></td>
 <td></td>
 <td>934</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>2</td>
 <td>Айнабулакский</td>
-<td>6 760</td>
-<td>6 760</td>
+<td>6763</td>
+<td>6 763</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1669,8 +1672,9 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 <tr>
 <td>3</td>
 <td>Акбулакский</td>
-<td>6 056</td>
-<td>6 056</td>
+<td>6128</td>
+<td>6 128</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1680,8 +1684,9 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 <tr>
 <td>4</td>
 <td>Алгабасский</td>
+<td>6920</td>
 <td>6 920</td>
-<td>6 920</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1691,8 +1696,9 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 <tr>
 <td>5</td>
 <td>Достыкский</td>
+<td>7188</td>
 <td>7 188</td>
-<td>7 188</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1702,10 +1708,11 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 <tr>
 <td>6</td>
 <td>Жазыксий</td>
-<td>5 934</td>
+<td>5934</td>
 <td>5 385</td>
 <td></td>
 <td>549</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1713,30 +1720,33 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 <tr>
 <td>7</td>
 <td>Жиеналинский</td>
-<td>7 177</td>
-<td>7 177</td>
+<td>7309</td>
+<td>7 249</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td>60</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Знаменский</td>
-<td>24 039</td>
-<td>7 885</td>
+<td>24242</td>
+<td>8 088</td>
 <td></td>
 <td></td>
 <td>2 626</td>
 <td></td>
-<td>13 528</td>
+<td>13528</td>
+<td></td>
 </tr>
 <tr>
 <td>9</td>
 <td>Иртышский</td>
-<td>7 335</td>
-<td>7 335</td>
+<td>7587</td>
+<td>7 587</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1746,30 +1756,33 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 <tr>
 <td>10</td>
 <td>Караоленский</td>
-<td>12 593</td>
+<td>12593</td>
 <td>9 688</td>
 <td></td>
 <td></td>
 <td></td>
-<td>2 905</td>
+<td>2905</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>11</td>
 <td>Новобаженовский</td>
-<td>21 678</td>
+<td>21678</td>
 <td>8 309</td>
 <td></td>
 <td></td>
 <td></td>
 <td>13 369</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>12</td>
 <td>Озерский</td>
+<td>7701</td>
 <td>7 701</td>
-<td>7 701</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1779,9 +1792,10 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 <tr>
 <td>13</td>
 <td>Приречный</td>
-<td>6 008</td>
+<td>6008</td>
 <td>5 908</td>
 <td>100</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1790,8 +1804,9 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 <tr>
 <td>14</td>
 <td>Танатский</td>
+<td>5830</td>
 <td>5 830</td>
-<td>5 830</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1801,8 +1816,9 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 <tr>
 <td>15</td>
 <td>поселок Шульбинск</td>
+<td>7619</td>
 <td>7 619</td>
-<td>7 619</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1812,8 +1828,9 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 <tr>
 <td>16</td>
 <td>поселок Чаган</td>
-<td>6 278</td>
-<td>6 278</td>
+<td>6507</td>
+<td>6 507</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1823,13 +1840,14 @@ source: https://zan.gov.kz/client/#!/doc/62294/rus/18.04.2012
 <tr>
 <td></td>
 <td>Всего по бюджету</td>
-<td>146 951</td>
-<td>112 940</td>
+<td>147931</td>
+<td>113 860</td>
 <td>100</td>
 <td>549</td>
 <td>3 560</td>
 <td>16 274</td>
 <td>13 528</td>
+<td>60</td>
 </tr>
 </table>
 
