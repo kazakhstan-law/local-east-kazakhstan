@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62285/kaz/12.07.2012
+source: https://zan.gov.kz/client/#!/doc/62285/kaz/21.09.2012
 ---
 
 # 2012-2014 жылдарға арналған аудандық бюджет туралы
