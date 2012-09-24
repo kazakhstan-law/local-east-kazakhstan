@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62295/rus/13.07.2012
+source: https://zan.gov.kz/client/#!/doc/62295/rus/24.09.2012
 ---
 
 ## Расходы на освещение улиц населенных пунктов

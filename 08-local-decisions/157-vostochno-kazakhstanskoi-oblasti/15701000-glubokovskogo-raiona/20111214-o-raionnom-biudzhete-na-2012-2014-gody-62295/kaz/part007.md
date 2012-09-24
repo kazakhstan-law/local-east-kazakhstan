@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62295/kaz/13.07.2012
+source: https://zan.gov.kz/client/#!/doc/62295/kaz/24.09.2012
 ---
 
 ## Елді мекендердің көшелерін жарықтандыруға шығындар
