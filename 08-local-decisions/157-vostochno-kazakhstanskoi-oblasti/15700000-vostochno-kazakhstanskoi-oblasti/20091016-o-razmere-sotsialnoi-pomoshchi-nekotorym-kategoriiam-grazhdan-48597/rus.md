@@ -1,5 +1,5 @@
 ---
-version_id: '48597_131132'
+version_id: '48597_130250'
 act_code: '48597'
 language: rus
 title: О размере социальной помощи некоторым категориям граждан
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '157000000002'
 approval_date: 2009-10-16
-version_date: 2011-12-08
+version_date: 2012-11-14
 registry_number: '48597'
 caused_by:
-  code: '62226'
+  code: '68739'
   title: О внесении изменения в решение от 16 октября 2009 года № 15/209-IV "О размере социальной помощи некоторым категориям граждан"
-  link: https://zan.gov.kz/client/#!/doc/62226/rus
-source: https://zan.gov.kz/client/#!/doc/48597/rus/08.12.2011
+  link: https://zan.gov.kz/client/#!/doc/68739/rus
+source: https://zan.gov.kz/client/#!/doc/48597/rus/14.11.2012
 ---
 
 # О размере социальной помощи некоторым категориям граждан
