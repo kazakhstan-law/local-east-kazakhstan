@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/48597/rus/08.12.2011
+source: https://zan.gov.kz/client/#!/doc/48597/rus/14.11.2012
 ---
 
 # О размере социальной помощи некоторым категориям граждан
