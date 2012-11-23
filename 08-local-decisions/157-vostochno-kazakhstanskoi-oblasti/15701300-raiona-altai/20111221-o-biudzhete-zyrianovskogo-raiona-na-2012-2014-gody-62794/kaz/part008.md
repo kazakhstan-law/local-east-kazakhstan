@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62794/kaz/12.10.2012
+source: https://zan.gov.kz/client/#!/doc/62794/kaz/23.11.2012
 ---
 
 ## Елді мекендердің санитариясын қамтамасыз ету 2012 жыл
