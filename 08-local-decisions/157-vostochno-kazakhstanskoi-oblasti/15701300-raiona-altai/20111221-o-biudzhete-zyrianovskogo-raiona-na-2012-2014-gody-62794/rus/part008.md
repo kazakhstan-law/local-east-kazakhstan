@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62794/rus/23.11.2012
+source: https://zan.gov.kz/client/#!/doc/62794/rus/06.12.2012
 ---
 
 ## Расходы на обеспечение санитарии населенных пунктов на 2012 год
