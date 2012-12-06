@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62287/rus/22.11.2012
+source: https://zan.gov.kz/client/#!/doc/62287/rus/06.12.2012
 ---
 
 > *Приложение 4 к решению Бескарагайского районного маслихата от 21 декабря 2011 года № 38/1-IV*

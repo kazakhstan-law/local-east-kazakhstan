@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62287/kaz/22.11.2012
+source: https://zan.gov.kz/client/#!/doc/62287/kaz/06.12.2012
 ---
 
 > *Бесқарағай аудандық мәслихатының 2011 жылғы 21 желтоқсандағы № 38/1-IV шешіміне 4 қосымша*
