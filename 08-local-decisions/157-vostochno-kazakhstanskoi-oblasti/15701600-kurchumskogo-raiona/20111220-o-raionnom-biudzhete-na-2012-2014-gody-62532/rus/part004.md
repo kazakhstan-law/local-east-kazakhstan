@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62532/rus/21.11.2012
+source: https://zan.gov.kz/client/#!/doc/62532/rus/07.12.2012
 ---
 
 ## Районный бюджет на 2014 год
