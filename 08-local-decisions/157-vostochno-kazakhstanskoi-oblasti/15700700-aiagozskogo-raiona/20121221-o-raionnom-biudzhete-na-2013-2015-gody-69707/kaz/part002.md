@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69707/kaz/21.12.2012
+source: https://zan.gov.kz/client/#!/doc/69707/kaz/23.02.2013
 ---
 
 ## 2014 жылға арналған Аягөз ауданының бюджеті
