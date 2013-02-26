@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69754/rus/26.12.2012
+source: https://zan.gov.kz/client/#!/doc/69754/rus/26.02.2013
 ---
 
 ## Бюджет района на 2015 год
@@ -2348,7 +2348,7 @@ source: https://zan.gov.kz/client/#!/doc/69754/rus/26.12.2012
 
 <table>
 <tr>
-<td>№ пп</td>
+<td>№ п/п</td>
 <td>Наименование сельских округов и поселков</td>
 <td colspan="4">Коды бюджетных программ</td>
 <td rowspan="2">
