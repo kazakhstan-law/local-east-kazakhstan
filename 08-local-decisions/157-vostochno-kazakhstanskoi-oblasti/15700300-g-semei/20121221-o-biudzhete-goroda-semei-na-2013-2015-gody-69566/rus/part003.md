@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69566/rus/21.12.2012
+source: https://zan.gov.kz/client/#!/doc/69566/rus/01.03.2013
 ---
 
 ## Бюджет города Семей на 2015 год
@@ -1690,6 +1690,8 @@ source: https://zan.gov.kz/client/#!/doc/69566/rus/21.12.2012
 
 ## Бюджетные программы сельских округов, поселков в бюджете на 2013 год
 
+> *Сноска. Приложение 6 в редакции решения маслихата города Семей Восточно-Казахстанской области от 01.03.2013 № 14/79-V (вводится в действие с 01.01.2013).*
+
 тысяч тенге
 
 <table>
@@ -1697,19 +1699,21 @@ source: https://zan.gov.kz/client/#!/doc/69566/rus/21.12.2012
 <td rowspan="2">№</td>
 <td rowspan="2">Наименование сельского округа, поселка</td>
 <td rowspan="2">Всего</td>
-<td colspan="4">В том числе по программам</td>
+<td colspan="5">В том числе по программам</td>
 </tr>
 <tr>
 <td>001 &quot;Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа&quot;</td>
 <td>008 &quot;Освещение улиц населенных пунктов&quot;</td>
 <td>009 &quot;Обеспечение санитарии населенных пунктах&quot;</td>
 <td>014 &quot;Организация водоснабжения населенных пунктов&quot;</td>
+<td>022 &quot;Капитальные расходы государственного органа&quot;</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Абралинский</td>
 <td>7 037</td>
 <td>7 037</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1722,12 +1726,14 @@ source: https://zan.gov.kz/client/#!/doc/69566/rus/21.12.2012
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>Акбулакский</td>
 <td>6 027</td>
 <td>6 027</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1740,12 +1746,14 @@ source: https://zan.gov.kz/client/#!/doc/69566/rus/21.12.2012
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>5</td>
 <td>Достыкский</td>
 <td>6 970</td>
 <td>6 970</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1758,12 +1766,14 @@ source: https://zan.gov.kz/client/#!/doc/69566/rus/21.12.2012
 <td></td>
 <td></td>
 <td>587</td>
+<td></td>
 </tr>
 <tr>
 <td>7</td>
 <td>Жиеналинский</td>
 <td>7 187</td>
 <td>7 187</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1776,21 +1786,24 @@ source: https://zan.gov.kz/client/#!/doc/69566/rus/21.12.2012
 <td>264</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>9</td>
 <td>Иртышский</td>
 <td>7 429</td>
-<td>7 429</td>
+<td>7 279</td>
 <td></td>
 <td></td>
 <td></td>
+<td>150</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Караоленский</td>
 <td>9 212</td>
 <td>9 212</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1803,12 +1816,14 @@ source: https://zan.gov.kz/client/#!/doc/69566/rus/21.12.2012
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>12</td>
 <td>Озерский</td>
 <td>7 634</td>
 <td>7 634</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1821,12 +1836,14 @@ source: https://zan.gov.kz/client/#!/doc/69566/rus/21.12.2012
 <td>264</td>
 <td>95</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>14</td>
 <td>Танатский</td>
 <td>5 668</td>
 <td>5 668</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1839,6 +1856,7 @@ source: https://zan.gov.kz/client/#!/doc/69566/rus/21.12.2012
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -1848,15 +1866,17 @@ source: https://zan.gov.kz/client/#!/doc/69566/rus/21.12.2012
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Всего по бюджету</td>
 <td>113 287</td>
-<td>112 077</td>
+<td>111 927</td>
 <td>528</td>
 <td>95</td>
 <td>587</td>
+<td>150</td>
 </tr>
 </table>
 
