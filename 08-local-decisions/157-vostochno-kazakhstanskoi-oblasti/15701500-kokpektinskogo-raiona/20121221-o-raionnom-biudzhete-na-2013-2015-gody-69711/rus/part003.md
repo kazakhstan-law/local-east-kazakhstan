@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69711/rus/01.03.2013
+source: https://zan.gov.kz/client/#!/doc/69711/rus/10.04.2013
 ---
 
 ## Бюджет района на 2015 год
@@ -1884,7 +1884,10 @@ source: https://zan.gov.kz/client/#!/doc/69711/rus/01.03.2013
 <tr>
 <td>№</td>
 <td>Наименование</td>
-<td>Сумма (тыс. тенге)</td>
+<td>
+Сумма
+(тысяч тенге)
+</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2285,7 +2288,7 @@ source: https://zan.gov.kz/client/#!/doc/69711/rus/01.03.2013
 <td></td>
 <td></td>
 <td></td>
-<td>II ЗАТРАТЫ</td>
+<td>II. ЗАТРАТЫ</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3601,14 +3604,14 @@ source: https://zan.gov.kz/client/#!/doc/69711/rus/01.03.2013
 <td></td>
 <td></td>
 <td></td>
-<td>V Дефицит (профицит) бюджета</td>
+<td>V. Дефицит (профицит) бюджета</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>VI Финансирование дефицита (использование профицита) бюджета</td>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
 </tr>
 <tr>
 <td>16</td>
