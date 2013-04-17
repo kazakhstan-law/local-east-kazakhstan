@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69301/rus/12.02.2013
+source: https://zan.gov.kz/client/#!/doc/69301/rus/17.04.2013
 ---
 
 ## Областной бюджет на 2014 год
