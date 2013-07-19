@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69706/rus/30.04.2013
+source: https://zan.gov.kz/client/#!/doc/69706/rus/19.07.2013
 ---
 
 ## Используемые остатки бюджетных средств

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69706/kaz/30.04.2013
+source: https://zan.gov.kz/client/#!/doc/69706/kaz/19.07.2013
 ---
 
 ## Бюджет қаражаттарының пайдаланатын қалдықтары
