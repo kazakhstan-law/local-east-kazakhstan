@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69566/kaz/03.05.2013
+source: https://zan.gov.kz/client/#!/doc/69566/kaz/24.07.2013
 ---
 
 ## Семей қаласының 2015 жылға арналған бюджеті
@@ -1679,7 +1679,7 @@ source: https://zan.gov.kz/client/#!/doc/69566/kaz/03.05.2013
 
 ## 2013 жылға арналған бюджеттегі ауылдық округтердің, кенттердің бюджеттік бағдарламалары
 
-> *Ескерту. 6-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Семей қаласының мәслихатының 03.05.2013 N 16/88-V шешімімен (01.01.2013 бастап қолданысқа енгізіледі).*
+> *Ескерту. 6-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Семей қаласының мәслихатының 24.07.2013 N 20/104-V шешімімен (01.01.2013 бастап қолданысқа енгізіледі).*
 
 мың теңге
 
@@ -1723,205 +1723,205 @@ source: https://zan.gov.kz/client/#!/doc/69566/kaz/03.05.2013
 <tr>
 <td>1</td>
 <td>Абыралы</td>
-<td>7 287</td>
-<td>7 287</td>
+<td>7 827,2</td>
+<td>7 667,2</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>160</td>
 <td></td>
 </tr>
 <tr>
 <td>2</td>
 <td>Айнабұлақ</td>
-<td>6 832</td>
-<td>6 832</td>
+<td>7 372,2</td>
+<td>7 212,2</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>160</td>
 <td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>Ақбұлақ</td>
-<td>6 027</td>
-<td>6 027</td>
+<td>7 018,9</td>
+<td>6 698,9</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>320</td>
 <td></td>
 </tr>
 <tr>
 <td>4</td>
 <td>Алғабас</td>
-<td>7 200</td>
-<td>7 200</td>
+<td>7 740,2</td>
+<td>7 580,2</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>160</td>
 <td></td>
 </tr>
 <tr>
 <td>5</td>
 <td>Достық</td>
-<td>6 970</td>
-<td>6 970</td>
+<td>7 961,9</td>
+<td>7 641,9</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>320</td>
 <td></td>
 </tr>
 <tr>
 <td>6</td>
 <td>Жазық</td>
-<td>5 946</td>
-<td>5 359</td>
+<td>6 937,9</td>
+<td>6 030,9</td>
 <td></td>
 <td></td>
 <td></td>
 <td>587</td>
-<td></td>
+<td>320</td>
 <td></td>
 </tr>
 <tr>
 <td>7</td>
 <td>Жиенәлі</td>
-<td>7 187</td>
-<td>7 187</td>
+<td>7 727,2</td>
+<td>7 567,2</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>160</td>
 <td></td>
 </tr>
 <tr>
 <td>8</td>
 <td>Знаменка</td>
-<td>9 104</td>
-<td>7 840</td>
+<td>10 095,9</td>
+<td>8 511,9</td>
 <td>264</td>
 <td></td>
-<td>1000</td>
+<td>1 000</td>
 <td></td>
-<td></td>
+<td>320</td>
 <td></td>
 </tr>
 <tr>
 <td>9</td>
 <td>Ертіс</td>
-<td>7 583</td>
-<td>7 433</td>
+<td>9 003</td>
+<td>8 373</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>150</td>
+<td>630</td>
 <td></td>
 </tr>
 <tr>
 <td>10</td>
 <td>Қараөлең</td>
-<td>10 183</td>
-<td>10 033</td>
+<td>10 723,2</td>
+<td>10 413,2</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>150</td>
+<td>310</td>
 <td></td>
 </tr>
 <tr>
 <td>11</td>
 <td>Новобаженово</td>
-<td>10 296</td>
-<td>8 296</td>
+<td>11 743,6</td>
+<td>9 263,6</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>2000</td>
+<td>480</td>
+<td>2 000</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Озерки</td>
-<td>8 166</td>
-<td>8 166</td>
+<td>10 153,3</td>
+<td>9 513,3</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>640</td>
 <td></td>
 </tr>
 <tr>
 <td>13</td>
 <td>Приречный</td>
-<td>6 102</td>
-<td>5 743</td>
+<td>7 975,3</td>
+<td>6 976,3</td>
 <td>264</td>
 <td>95</td>
 <td></td>
 <td></td>
-<td></td>
+<td>640</td>
 <td></td>
 </tr>
 <tr>
 <td>14</td>
 <td>Таңат</td>
-<td>5 818</td>
-<td>5 818</td>
+<td>6 358,2</td>
+<td>6 198,2</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>160</td>
 <td></td>
 </tr>
 <tr>
 <td>15</td>
 <td>Шүлбі кенті</td>
-<td>7 640</td>
-<td>7 640</td>
+<td>9 513,3</td>
+<td>8 873,3</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>640</td>
 <td></td>
 </tr>
 <tr>
 <td>16</td>
 <td>Шаған кенті</td>
-<td>6 253</td>
-<td>6 253</td>
+<td>6 795,2</td>
+<td>6 635,2</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>160</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td>Бюджет бойынша барлығы</td>
-<td>118 594</td>
-<td>114 084</td>
+<td>134 946,5</td>
+<td>125 156,5</td>
 <td>528</td>
 <td>95</td>
 <td>1 000</td>
 <td>587</td>
-<td>300</td>
+<td>5 580</td>
 <td>2 000</td>
 </tr>
 </table>
