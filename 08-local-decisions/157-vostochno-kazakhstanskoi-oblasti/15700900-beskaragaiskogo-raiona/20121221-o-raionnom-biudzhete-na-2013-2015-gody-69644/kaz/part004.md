@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69644/kaz/16.07.2013
+source: https://zan.gov.kz/client/#!/doc/69644/kaz/20.08.2013
 ---
 
 ## 2015 жылға арналған аудандық бюджет
@@ -420,7 +420,7 @@ source: https://zan.gov.kz/client/#!/doc/69644/kaz/16.07.2013
 <td>1</td>
 <td></td>
 <td></td>
-<td>Мемлекттік меншіктен түсетін кiрiстер</td>
+<td>Мемлекеттік меншіктен түсетін кiрiстер</td>
 <td>168</td>
 </tr>
 <tr>
