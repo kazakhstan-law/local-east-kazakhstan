@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69710/kaz/15.07.2013
+source: https://zan.gov.kz/client/#!/doc/69710/kaz/20.08.2013
 ---
 
 ## 2015 жылға арналған аудандық бюджет
@@ -732,7 +732,7 @@ source: https://zan.gov.kz/client/#!/doc/69710/kaz/15.07.2013
 <td></td>
 <td>1</td>
 <td></td>
-<td>Мемлекттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>0,0</td>
 </tr>
 <tr>
