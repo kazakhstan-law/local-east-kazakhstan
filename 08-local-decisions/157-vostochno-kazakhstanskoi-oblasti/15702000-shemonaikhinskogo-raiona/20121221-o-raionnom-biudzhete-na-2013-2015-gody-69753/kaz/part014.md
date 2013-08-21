@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69753/kaz/16.07.2013
+source: https://zan.gov.kz/client/#!/doc/69753/kaz/21.08.2013
 ---
 
 ## Мемлекеттік органның күрделі шығыстарына арналған шығындар

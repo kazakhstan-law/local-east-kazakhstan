@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69753/rus/16.07.2013
+source: https://zan.gov.kz/client/#!/doc/69753/rus/21.08.2013
 ---
 
 ## Распределение сумм на капитальные расходы государственных органов
