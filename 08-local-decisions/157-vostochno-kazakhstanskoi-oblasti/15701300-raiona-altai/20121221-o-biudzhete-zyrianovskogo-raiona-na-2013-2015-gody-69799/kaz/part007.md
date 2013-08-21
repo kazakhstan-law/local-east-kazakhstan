@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69799/kaz/17.07.2013
+source: https://zan.gov.kz/client/#!/doc/69799/kaz/21.08.2013
 ---
 
 ## Елді мекендерде көшелерді жарықтандыруға шығындар 2013 жыл
