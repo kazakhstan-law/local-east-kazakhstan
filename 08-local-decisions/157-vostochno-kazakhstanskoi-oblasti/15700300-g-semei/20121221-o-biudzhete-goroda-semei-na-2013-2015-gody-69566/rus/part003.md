@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69566/rus/24.07.2013
+source: https://zan.gov.kz/client/#!/doc/69566/rus/21.08.2013
 ---
 
 ## Бюджет города Семей на 2015 год
