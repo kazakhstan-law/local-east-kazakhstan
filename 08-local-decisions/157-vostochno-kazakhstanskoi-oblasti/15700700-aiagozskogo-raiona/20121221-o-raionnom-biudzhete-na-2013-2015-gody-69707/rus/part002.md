@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69707/rus/17.07.2013
+source: https://zan.gov.kz/client/#!/doc/69707/rus/23.08.2013
 ---
 
 ## Утвержденный бюджет Аягозского района на 2014 год
