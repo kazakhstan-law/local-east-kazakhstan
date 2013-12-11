@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69799/rus/06.11.2013
+source: https://zan.gov.kz/client/#!/doc/69799/rus/11.12.2013
 ---
 
 ## Расходы на освещение населенных пунктов на 2013 год
