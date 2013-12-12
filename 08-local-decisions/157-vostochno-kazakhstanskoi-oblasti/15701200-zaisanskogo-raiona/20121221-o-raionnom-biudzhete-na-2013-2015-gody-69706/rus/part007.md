@@ -1,15 +1,15 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69706/rus/15.11.2013
+source: https://zan.gov.kz/client/#!/doc/69706/rus/12.12.2013
 ---
 
 ## Бюджетные программы города районного значения, сельского округа на 2013 год
 
-> *Сноска. Приложение 7 в редакции решения Зайсанского районного маслихата от 15.11.2013 № 19-1 (вводится в действие с 01.01.2013).*
+> *Сноска. Приложение 7 в редакции решения Зайсанского районного маслихата от 12.12.2013 № 20-1 (вводится в действие с 01.01.2013).*
 
 <table>
 <tr>
-<td>тысяч тенге</td>
+<td>тыс. тенге</td>
 </tr>
 </table>
 
@@ -39,7 +39,7 @@ source: https://zan.gov.kz/client/#!/doc/69706/rus/15.11.2013
 <td>14348</td>
 <td>8800</td>
 <td>80</td>
-<td>76667</td>
+<td>79667</td>
 </tr>
 <tr>
 <td>Айнабулакский с/о</td>
@@ -120,7 +120,7 @@ source: https://zan.gov.kz/client/#!/doc/69706/rus/15.11.2013
 <td>21284</td>
 <td>11078</td>
 <td>80</td>
-<td>98628</td>
+<td>101628</td>
 </tr>
 </table>
 
@@ -128,7 +128,7 @@ source: https://zan.gov.kz/client/#!/doc/69706/rus/15.11.2013
 
 <table>
 <tr>
-<td>тысяч тенге</td>
+<td>тыс. тенге</td>
 </tr>
 </table>
 
@@ -161,7 +161,7 @@ source: https://zan.gov.kz/client/#!/doc/69706/rus/15.11.2013
 <td>Айнабулакский с/о</td>
 <td>268</td>
 <td></td>
-<td>6050</td>
+<td>5398</td>
 <td></td>
 <td>1040</td>
 </tr>
@@ -169,7 +169,7 @@ source: https://zan.gov.kz/client/#!/doc/69706/rus/15.11.2013
 <td>Биржанский с/о</td>
 <td>300</td>
 <td></td>
-<td>1601</td>
+<td>1254,4</td>
 <td></td>
 <td></td>
 </tr>
@@ -185,7 +185,7 @@ source: https://zan.gov.kz/client/#!/doc/69706/rus/15.11.2013
 <td>Карабулакский с/о</td>
 <td>300</td>
 <td></td>
-<td>2105</td>
+<td>1490</td>
 <td></td>
 <td></td>
 </tr>
@@ -209,7 +209,7 @@ source: https://zan.gov.kz/client/#!/doc/69706/rus/15.11.2013
 <td>Сартерекский с/о</td>
 <td>300</td>
 <td>7240</td>
-<td>719</td>
+<td>625</td>
 <td></td>
 <td>582</td>
 </tr>
@@ -217,7 +217,7 @@ source: https://zan.gov.kz/client/#!/doc/69706/rus/15.11.2013
 <td>Шиликтинский с/о</td>
 <td>300</td>
 <td></td>
-<td>2130</td>
+<td>1892,8</td>
 <td></td>
 <td></td>
 </tr>
@@ -225,7 +225,7 @@ source: https://zan.gov.kz/client/#!/doc/69706/rus/15.11.2013
 <td>Всего</td>
 <td>41333</td>
 <td>7240</td>
-<td>16853</td>
+<td>14908,2</td>
 <td>3170,1</td>
 <td>7781</td>
 </tr>
