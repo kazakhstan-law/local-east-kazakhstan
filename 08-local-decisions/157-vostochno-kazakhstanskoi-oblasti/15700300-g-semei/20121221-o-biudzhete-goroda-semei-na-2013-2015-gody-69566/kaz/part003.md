@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69566/kaz/15.11.2013
+source: https://zan.gov.kz/client/#!/doc/69566/kaz/13.12.2013
 ---
 
 ## Семей қаласының 2015 жылға арналған бюджеті
