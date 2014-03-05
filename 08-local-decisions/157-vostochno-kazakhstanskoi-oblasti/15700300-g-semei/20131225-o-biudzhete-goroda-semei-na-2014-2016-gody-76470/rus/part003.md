@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76470/rus/25.12.2013
+source: https://zan.gov.kz/client/#!/doc/76470/rus/05.03.2014
 ---
 
 ## Бюджет города Семей на 2016 год
@@ -1794,6 +1794,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/25.12.2013
 
 ## Бюджетные программы сельских округов, поселков в бюджете на 2014 год
 
+> *Сноска. Приложение 6 в редакции решения маслихата города Семей Восточно-Казахстанской области от 05.03.2014 № 27/140-V (вводится в действие с 01.01.2014).*
+
 тысяч тенге
 
 <table>
@@ -1828,38 +1830,38 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/25.12.2013
 <tr>
 <td>1</td>
 <td>Абралинский</td>
-<td>8 756</td>
-<td>8 756</td>
+<td>8 756,0</td>
+<td>8 587,0</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>169,0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Айнабулакский</td>
-<td>8 666</td>
-<td>8 666</td>
+<td>8 666,0</td>
+<td>8 516,0</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>150,0</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Акбулакский</td>
-<td>7 931</td>
-<td>7 931</td>
+<td>8 081,0</td>
+<td>7 931,0</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>150,0</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Алгабасский</td>
-<td>8 178</td>
-<td>8 178</td>
+<td>8 178,0</td>
+<td>8 178,0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1868,59 +1870,59 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/25.12.2013
 <tr>
 <td>5</td>
 <td>Достыкский</td>
-<td>10 110</td>
-<td>10 110</td>
+<td>10 260,0</td>
+<td>10 110,0</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>150,0</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Жазыксий</td>
-<td>8 514</td>
-<td>7 747</td>
+<td>8 514,0</td>
+<td>7 747,0</td>
 <td></td>
 <td></td>
-<td>587</td>
-<td>180</td>
+<td>587,0</td>
+<td>180,0</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Жиеналинский</td>
-<td>8 765</td>
-<td>8 585</td>
+<td>8 972,1</td>
+<td>8 792,1</td>
 <td></td>
 <td></td>
 <td></td>
-<td>180</td>
+<td>180,0</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Знаменский</td>
-<td>11 718</td>
-<td>11 274</td>
-<td>264</td>
+<td>11 718,0</td>
+<td>11 274,0</td>
+<td>264,0</td>
 <td></td>
 <td></td>
-<td>180</td>
+<td>180,0</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Иртышский</td>
-<td>10 524</td>
-<td>10 344</td>
+<td>10 882,0</td>
+<td>10 702,0</td>
 <td></td>
 <td></td>
 <td></td>
-<td>180</td>
+<td>180,0</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Караоленский</td>
-<td>13 161</td>
-<td>11 623</td>
-<td>1538</td>
+<td>13 622,0</td>
+<td>12 084,0</td>
+<td>1 538,0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1928,8 +1930,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/25.12.2013
 <tr>
 <td>11</td>
 <td>Новобаженовский</td>
-<td>12 256</td>
-<td>12 256</td>
+<td>12 531,9</td>
+<td>12 531,9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1938,38 +1940,38 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/25.12.2013
 <tr>
 <td>12</td>
 <td>Озерский</td>
-<td>12 646</td>
-<td>12 466</td>
+<td>12 646,0</td>
+<td>12 466,0</td>
 <td></td>
 <td></td>
 <td></td>
-<td>180</td>
+<td>180,0</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Приречный</td>
-<td>11 028</td>
-<td>10 489</td>
-<td>264</td>
-<td>95</td>
+<td>11 028,0</td>
+<td>10 489,0</td>
+<td>264,0</td>
+<td>95,0</td>
 <td></td>
-<td>180</td>
+<td>180,0</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Танатский</td>
-<td>8 182</td>
-<td>8 182</td>
+<td>8 182,0</td>
+<td>8 162,0</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>20,0</td>
 </tr>
 <tr>
 <td>15</td>
 <td>поселок Шульбинск</td>
-<td>12 054</td>
-<td>12 054</td>
+<td>12 054,0</td>
+<td>12 054,0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1978,8 +1980,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/25.12.2013
 <tr>
 <td>16</td>
 <td>поселок Чаган</td>
-<td>8 478</td>
-<td>8 478</td>
+<td>8 478,0</td>
+<td>8 478,0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1988,12 +1990,12 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/25.12.2013
 <tr>
 <td></td>
 <td>Всего по бюджету</td>
-<td>160 967</td>
-<td>157 139</td>
-<td>2 066</td>
-<td>95</td>
-<td>587</td>
-<td>1 080</td>
+<td>162 569,0</td>
+<td>158 102,0</td>
+<td>2 066,0</td>
+<td>95,0</td>
+<td>587,0</td>
+<td>1 719,0</td>
 </tr>
 </table>
 
