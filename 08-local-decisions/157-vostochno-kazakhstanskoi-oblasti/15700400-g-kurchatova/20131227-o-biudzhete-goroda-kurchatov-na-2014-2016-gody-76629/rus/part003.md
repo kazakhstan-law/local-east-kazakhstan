@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76629/rus/27.12.2013
+source: https://zan.gov.kz/client/#!/doc/76629/rus/20.03.2014
 ---
 
 ## Бюджет города Курчатов на 2016 год
