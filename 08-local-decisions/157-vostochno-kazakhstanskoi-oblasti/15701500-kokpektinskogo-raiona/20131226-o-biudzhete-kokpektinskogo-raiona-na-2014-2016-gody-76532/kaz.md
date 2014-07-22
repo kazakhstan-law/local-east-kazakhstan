@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/76532/kaz/12.06.2014
+source: https://zan.gov.kz/client/#!/doc/76532/kaz/22.07.2014
 ---
 
 # 2014-2016 жылдарға арналған Көкпекті ауданының бюджеті туралы
