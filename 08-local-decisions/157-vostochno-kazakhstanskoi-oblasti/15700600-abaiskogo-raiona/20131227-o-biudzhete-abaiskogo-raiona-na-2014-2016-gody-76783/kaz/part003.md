@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76783/kaz/22.04.2014
+source: https://zan.gov.kz/client/#!/doc/76783/kaz/22.07.2014
 ---
 
 ## 2016 жылға арналған аудандық бюджет
