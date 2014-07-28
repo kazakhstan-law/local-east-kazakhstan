@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
+source: https://zan.gov.kz/client/#!/doc/76470/rus/28.07.2014
 ---
 
 ## Бюджет города Семей на 2016 год
@@ -1794,7 +1794,7 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 
 ## Бюджетные программы сельских округов, поселков в бюджете на 2014 год
 
-> *Сноска. Приложение 6 в редакции решения маслихата города Семей Восточно-Казахстанской области от 19.04.2014 № 29/152-V (вводится в действие с 01.01.2014).*
+> *Сноска. Приложение 6 в редакции решения маслихата города Семей Восточно-Казахстанской области от 28.07.2014 № 31/166-V (вводится в действие с 01.01.2014).*
 
 тысяч тенге
 
@@ -1830,8 +1830,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>1</td>
 <td>Абралинский</td>
-<td>9 893,9</td>
-<td>9 724,9</td>
+<td>9 732,5</td>
+<td>9 563,5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1840,8 +1840,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>2</td>
 <td>Айнабулакский</td>
-<td>9 526,9</td>
-<td>9 306,9</td>
+<td>9 365,5</td>
+<td>9 145,5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1850,8 +1850,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>3</td>
 <td>Акбулакский</td>
-<td>8 960,9</td>
-<td>8 810,9</td>
+<td>8 799,5</td>
+<td>8 649,5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1860,8 +1860,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>4</td>
 <td>Алгабасский</td>
-<td>9 038,9</td>
-<td>9 038,9</td>
+<td>8 877,5</td>
+<td>8 877,5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1870,8 +1870,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>5</td>
 <td>Достыкский</td>
-<td>11 167,9</td>
-<td>11 017,9</td>
+<td>11 031,5</td>
+<td>10 881,5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1880,8 +1880,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>6</td>
 <td>Жазыкский</td>
-<td>9 374,9</td>
-<td>8 607,9</td>
+<td>9 213,5</td>
+<td>8 446,5</td>
 <td></td>
 <td></td>
 <td>587,0</td>
@@ -1890,8 +1890,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>7</td>
 <td>Жиеналинский</td>
-<td>9 876,0</td>
-<td>9 696,0</td>
+<td>9 714,6</td>
+<td>9 534,6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1900,8 +1900,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>8</td>
 <td>Знаменский</td>
-<td>12 887,9</td>
-<td>12 160,9</td>
+<td>12 726,7</td>
+<td>11 999,7</td>
 <td>523,0</td>
 <td></td>
 <td></td>
@@ -1910,8 +1910,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>9</td>
 <td>Иртышский</td>
-<td>11 655,9</td>
-<td>11 475,9</td>
+<td>11 494,5</td>
+<td>11 314,5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1930,8 +1930,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>11</td>
 <td>Новобаженовский</td>
-<td>13 338,8</td>
-<td>13 319,8</td>
+<td>13 177,4</td>
+<td>13 158,4</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1940,8 +1940,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>12</td>
 <td>Озерский</td>
-<td>13 561,9</td>
-<td>13 381,9</td>
+<td>13 400,5</td>
+<td>13 220,5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1950,9 +1950,9 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>13</td>
 <td>Приречный</td>
-<td>11 906,9</td>
-<td>11 367,9</td>
-<td>264,0</td>
+<td>12 107,5</td>
+<td>11 206,5</td>
+<td>626,0</td>
 <td>95,0</td>
 <td></td>
 <td>180,0</td>
@@ -1960,8 +1960,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>14</td>
 <td>Танатский</td>
-<td>9 042,9</td>
-<td>9 022,9</td>
+<td>8 881,5</td>
+<td>8 861,5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1980,8 +1980,8 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td>16</td>
 <td>поселок Чаган</td>
-<td>8 569,0</td>
-<td>8 569,0</td>
+<td>8 619,0</td>
+<td>8 619,0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1990,9 +1990,9 @@ source: https://zan.gov.kz/client/#!/doc/76470/rus/19.04.2014
 <tr>
 <td></td>
 <td>Всего по бюджету</td>
-<td>174 714,7</td>
-<td>169 875,7</td>
-<td>2 325,0</td>
+<td>173 053,7</td>
+<td>167 852,7</td>
+<td>2 687,0</td>
 <td>95,0</td>
 <td>587,0</td>
 <td>1 832,0</td>
