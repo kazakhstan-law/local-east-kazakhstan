@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76628/kaz/11.11.2014
+source: https://zan.gov.kz/client/#!/doc/76628/kaz/05.12.2014
 ---
 
 ## 2016 жылға арналған аудандық бюджет
@@ -668,7 +668,7 @@ source: https://zan.gov.kz/client/#!/doc/76628/kaz/11.11.2014
 <table>
 <tr>
 <td>
-функ
+Функ
 ция
 нал
 дық
@@ -684,7 +684,7 @@ source: https://zan.gov.kz/client/#!/doc/76628/kaz/11.11.2014
 месі
 </td>
 <td>
-бағ
+Бағ
 дар
 лама
 </td>
