@@ -1,5 +1,5 @@
 ---
-version_id: '61793_272028'
+version_id: '61793_272177'
 act_code: '61793'
 language: kaz
 title: Сайлау учаскелерін құру туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '157004000001'
 approval_date: 2011-11-28
-version_date: 2011-11-28
+version_date: 2015-03-02
 registry_number: '61793'
-source: https://zan.gov.kz/client/#!/doc/61793/kaz/28.11.2011
+caused_by:
+  code: '87919'
+  title: «Сайлау учаскелерін құру туралы» 2011 жылғы 28 қарашадағы № 21 Курчатов қаласының әкімінің шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/87919/kaz
+source: https://zan.gov.kz/client/#!/doc/61793/kaz/02.03.2015
 ---
 
 # Сайлау учаскелерін құру туралы

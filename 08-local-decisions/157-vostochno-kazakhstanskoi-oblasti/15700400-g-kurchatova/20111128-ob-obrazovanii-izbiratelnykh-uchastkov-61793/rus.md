@@ -1,5 +1,5 @@
 ---
-version_id: '61793_272029'
+version_id: '61793_272178'
 act_code: '61793'
 language: rus
 title: Об образовании избирательных участков
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '157004000001'
 approval_date: 2011-11-28
-version_date: 2011-11-28
+version_date: 2015-03-02
 registry_number: '61793'
-source: https://zan.gov.kz/client/#!/doc/61793/rus/28.11.2011
+caused_by:
+  code: '87919'
+  title: О внесении изменений в решение акима города Курчатов от 28 ноября 2011 года № 21 «Об образовании избирательных участков»
+  link: https://zan.gov.kz/client/#!/doc/87919/rus
+source: https://zan.gov.kz/client/#!/doc/61793/rus/02.03.2015
 ---
 
 # Об образовании избирательных участков
