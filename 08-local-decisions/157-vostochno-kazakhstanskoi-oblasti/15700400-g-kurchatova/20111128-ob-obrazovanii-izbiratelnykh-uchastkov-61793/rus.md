@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/61793/rus/28.11.2011
+source: https://zan.gov.kz/client/#!/doc/61793/rus/02.03.2015
 ---
 
 # Об образовании избирательных участков
