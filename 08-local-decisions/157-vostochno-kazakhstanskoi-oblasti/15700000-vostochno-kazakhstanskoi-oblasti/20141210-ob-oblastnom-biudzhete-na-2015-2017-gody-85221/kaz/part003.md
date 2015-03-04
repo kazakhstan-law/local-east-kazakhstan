@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85221/kaz/10.12.2014
+source: https://zan.gov.kz/client/#!/doc/85221/kaz/04.03.2015
 ---
 
 > *Шығыс Қазақстан облыстық*  
