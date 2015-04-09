@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
+source: https://zan.gov.kz/client/#!/doc/85363/rus/09.04.2015
 ---
 
 > *Приложение 3 к решению*  
@@ -1749,9 +1749,9 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 > *от 23 декабря 2014 года*  
 > *№ 36/191-V*
 
-# Бюджетные программы сельских округов, поселков в бюджете на 2015 год
+## Бюджетные программы сельских округов, поселков в бюджете на 2015 год
 
-> *Сноска. Приложение 6 – в редакции решения маслихата города Семей Восточно-Казахстанской области от 18.03.2015 № 38/209-V (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 6 – в редакции решения маслихата города Семей Восточно-Казахстанской области от 09.04.2015 № 39/213-V (вводится в действие с 01.01.2015).*
 
 > *тысяч тенге*
 
@@ -1772,8 +1772,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>1</td>
 <td>Абралинский</td>
-<td>10 441,3</td>
-<td>10 370,3</td>
+<td>9 942,3</td>
+<td>9 871,3</td>
 <td>52,0</td>
 <td></td>
 <td></td>
@@ -1782,8 +1782,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>2</td>
 <td>Айнабулакский</td>
-<td>9 993,6</td>
-<td>9 977,6</td>
+<td>9 562,6</td>
+<td>9 546,6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1792,8 +1792,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>3</td>
 <td>Акбулакский</td>
-<td>9 839,9</td>
-<td>9 839,9</td>
+<td>9 369,9</td>
+<td>9 369,9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1802,8 +1802,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>4</td>
 <td>Алгабасский</td>
-<td>9 990,4</td>
-<td>9 990,4</td>
+<td>9 526,4</td>
+<td>9 526,4</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1812,8 +1812,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>5</td>
 <td>Достыкский</td>
-<td>12 103,1</td>
-<td>12 060,1</td>
+<td>11 555,1</td>
+<td>11 512,1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1822,8 +1822,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>6</td>
 <td>Жазыкский</td>
-<td>9 848,1</td>
-<td>9 261,1</td>
+<td>9 409,1</td>
+<td>8 822,1</td>
 <td></td>
 <td></td>
 <td>587,0</td>
@@ -1832,8 +1832,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>7</td>
 <td>Жиеналинский</td>
-<td>10 398,1</td>
-<td>10 335,1</td>
+<td>9 915,1</td>
+<td>9 852,1</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1842,8 +1842,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>8</td>
 <td>Знаменский</td>
-<td>13 145,8</td>
-<td>12 622,1</td>
+<td>12 496,8</td>
+<td>11 973,1</td>
 <td>523,7</td>
 <td></td>
 <td></td>
@@ -1852,8 +1852,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>9</td>
 <td>Иртышский</td>
-<td>12 290,5</td>
-<td>12 290,5</td>
+<td>11 662,5</td>
+<td>11 662,5</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1862,8 +1862,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>10</td>
 <td>Караоленский</td>
-<td>12 238,4</td>
-<td>12 238,4</td>
+<td>11 401,4</td>
+<td>11 401,4</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1872,8 +1872,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>11</td>
 <td>Новобаженовский</td>
-<td>13 571,2</td>
-<td>13 571,2</td>
+<td>12 844,2</td>
+<td>12 844,2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1882,8 +1882,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>12</td>
 <td>Озерский</td>
-<td>14 062,7</td>
-<td>14 062,7</td>
+<td>13 249,7</td>
+<td>13 249,7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1892,8 +1892,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>13</td>
 <td>Приречный</td>
-<td>12 897,6</td>
-<td>11 904,6</td>
+<td>12 348,6</td>
+<td>11 355,6</td>
 <td>868,0</td>
 <td>95,0</td>
 <td></td>
@@ -1902,8 +1902,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>14</td>
 <td>Танатский</td>
-<td>9 665,2</td>
-<td>9 665,2</td>
+<td>9 218,2</td>
+<td>9 218,2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1912,8 +1912,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>15</td>
 <td>поселок Шульбинск</td>
-<td>12 876,9</td>
-<td>12 876,9</td>
+<td>12 117,9</td>
+<td>12 117,9</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1922,8 +1922,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td>16</td>
 <td>поселок Чаган</td>
-<td>9 224,0</td>
-<td>9 224,0</td>
+<td>8 714,0</td>
+<td>8 714,0</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1932,8 +1932,8 @@ source: https://zan.gov.kz/client/#!/doc/85363/rus/18.03.2015
 <tr>
 <td></td>
 <td>Всего по бюджету</td>
-<td>182 586,8</td>
-<td>180 290,1</td>
+<td>173 333,8</td>
+<td>171 037,1</td>
 <td>1 443,7</td>
 <td>95,0</td>
 <td>587,0</td>
