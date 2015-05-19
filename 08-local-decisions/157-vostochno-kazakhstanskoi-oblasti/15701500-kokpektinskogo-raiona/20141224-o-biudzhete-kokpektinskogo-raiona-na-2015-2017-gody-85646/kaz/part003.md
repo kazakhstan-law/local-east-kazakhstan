@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85646/kaz/08.04.2015
+source: https://zan.gov.kz/client/#!/doc/85646/kaz/19.05.2015
 ---
 
 > *Көкпекті аудандық мәслихатының*  
