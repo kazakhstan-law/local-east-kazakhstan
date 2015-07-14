@@ -1,5 +1,5 @@
 ---
-version_id: '80286_272331'
+version_id: '80286_272616'
 act_code: '80286'
 language: rus
 title: Об утверждении регламента Риддерского городского маслихата
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '157005000002'
 approval_date: 2014-04-23
-version_date: 2014-04-23
+version_date: 2015-07-14
 registry_number: '80286'
-source: https://zan.gov.kz/client/#!/doc/80286/rus/23.04.2014
+caused_by:
+  code: '92819'
+  title: О внесении изменения в решение Риддерского городского маслихата от 23 апреля 2014 года №26/17-V «Об утверждении регламента Риддерского городского маслихата»
+  link: https://zan.gov.kz/client/#!/doc/92819/rus
+source: https://zan.gov.kz/client/#!/doc/80286/rus/14.07.2015
 ---
 
 # Об утверждении регламента Риддерского городского маслихата
