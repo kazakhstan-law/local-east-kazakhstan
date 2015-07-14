@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/80286/rus/23.04.2014
+source: https://zan.gov.kz/client/#!/doc/80286/rus/14.07.2015
 ---
 
 # Об утверждении регламента Риддерского городского маслихата
