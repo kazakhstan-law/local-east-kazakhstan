@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85363/kaz/09.04.2015
+source: https://zan.gov.kz/client/#!/doc/85363/kaz/16.07.2015
 ---
 
 > *2014 жылғы 23 желтоқсандағы*  
