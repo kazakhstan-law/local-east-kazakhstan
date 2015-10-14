@@ -1,5 +1,5 @@
 ---
-version_id: '75245_272549'
+version_id: '75245_272643'
 act_code: '75245'
 language: rus
 title: Об утверждении норм образования и накопления коммунальных отходов по городу Риддеру
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '157005000002'
 approval_date: 2013-10-17
-version_date: 2014-12-29
+version_date: 2015-10-14
 registry_number: '75245'
 caused_by:
-  code: '86256'
+  code: '95471'
   title: О внесении изменений в решение Риддерского городского маслихата от 17 октября 2013 года № 20/3-V «Об утверждении норм образования и накопления коммунальных отходов по городу Риддеру»
-  link: https://zan.gov.kz/client/#!/doc/86256/rus
-source: https://zan.gov.kz/client/#!/doc/75245/rus/29.12.2014
+  link: https://zan.gov.kz/client/#!/doc/95471/rus
+source: https://zan.gov.kz/client/#!/doc/75245/rus/14.10.2015
 ---
 
 # Об утверждении норм образования и накопления коммунальных отходов по городу Риддеру
