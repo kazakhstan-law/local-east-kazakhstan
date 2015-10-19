@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/80282/rus/18.04.2014
+source: https://zan.gov.kz/client/#!/doc/80282/rus/19.10.2015
 ---
 
 # Об утверждении регламента Курчумского районного маслихата
