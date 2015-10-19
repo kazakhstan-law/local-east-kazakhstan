@@ -1,5 +1,5 @@
 ---
-version_id: '80282_281481'
+version_id: '80282_281783'
 act_code: '80282'
 language: rus
 title: Об утверждении регламента Курчумского районного маслихата
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '157016000002'
 approval_date: 2014-04-18
-version_date: 2014-04-18
+version_date: 2015-10-19
 registry_number: '80282'
-source: https://zan.gov.kz/client/#!/doc/80282/rus/18.04.2014
+caused_by:
+  code: '95094'
+  title: О внесении изменения в решение Курчумского районного маслихата от 18 апреля 2014 года № 17-9 «Об утверждении регламента Курчумского районного маслихата»
+  link: https://zan.gov.kz/client/#!/doc/95094/rus
+source: https://zan.gov.kz/client/#!/doc/80282/rus/19.10.2015
 ---
 
 # Об утверждении регламента Курчумского районного маслихата
