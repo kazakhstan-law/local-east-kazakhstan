@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85975/kaz/16.10.2015
+source: https://zan.gov.kz/client/#!/doc/85975/kaz/16.11.2015
 ---
 
 > *Жарма аудандық мәслихатының 2014 жылғы 22 желтоқсандағы*  
