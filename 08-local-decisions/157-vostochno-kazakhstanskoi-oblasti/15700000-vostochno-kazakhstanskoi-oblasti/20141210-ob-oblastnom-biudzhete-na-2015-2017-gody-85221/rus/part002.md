@@ -1,6 +1,11 @@
 ---
 part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/85221/rus/09.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '96807'
+  title: Об областном бюджете на 2016-2018 годы
+  link: https://zan.gov.kz/client/#!/doc/96807/rus
 ---
 
 > *Приложение 2*  

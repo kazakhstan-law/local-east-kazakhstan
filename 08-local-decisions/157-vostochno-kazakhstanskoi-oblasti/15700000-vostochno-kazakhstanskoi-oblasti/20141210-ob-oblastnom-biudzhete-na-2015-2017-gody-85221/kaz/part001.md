@@ -1,6 +1,11 @@
 ---
 part_of: ../kaz.md
 source: https://zan.gov.kz/client/#!/doc/85221/kaz/09.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '96807'
+  title: 2016-2018 жылдарға арналған облыстық бюджет туралы
+  link: https://zan.gov.kz/client/#!/doc/96807/kaz
 ---
 
 > *Шығыс Қазақстан облыстық*  
