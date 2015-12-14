@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
+source: https://zan.gov.kz/client/#!/doc/85975/rus/14.12.2015
 ---
 
 > *Приложение 3 к решению*  
@@ -4047,24 +4047,21 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 
 ## Перечень целевых текущих трансфертов и трансфертов на развитие из республиканского бюджета на 2015 год
 
-> *Сноска. Приложение 7 - в редакции решения Жарминского районного маслихата Восточно-Казахстанской области от 16.10.2015 № 32/266-V (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 7 - в редакции решениями Жарминского районного маслихата Восточно-Казахстанской области от 16.10.2015 № 32/266-V (вводится в действие с 01.01.2015); от 14.12.2015 № 34/280-V (вводится в действие с 01.01.2015).*
 
 <table>
 <tr>
-<td colspan="6">Функциональная группа</td>
-<td rowspan="6">Сумма (тыс.тенге)</td>
-</tr>
-<tr>
-<td></td>
 <td colspan="5">Функциональная подгруппа</td>
+<td rowspan="5">
+Сумма
+(тыс.тенге)
+</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td colspan="3">Программа</td>
@@ -4073,11 +4070,9 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td colspan="2">Подпрограмма</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4089,12 +4084,10 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>ІІ. Затраты</td>
-<td>402934,0</td>
+<td>383171,0</td>
 </tr>
 <tr>
-<td>01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4104,7 +4097,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>112</td>
 <td></td>
 <td></td>
@@ -4112,7 +4104,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>39,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4124,13 +4115,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>39,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4140,7 +4129,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>122</td>
 <td></td>
 <td></td>
@@ -4148,7 +4136,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>621,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4160,13 +4147,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>621,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4176,7 +4161,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -4184,7 +4168,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>2675,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4196,13 +4179,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>2675,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4212,7 +4193,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>459</td>
 <td></td>
 <td></td>
@@ -4220,7 +4200,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>312,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4232,13 +4211,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>312,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4248,7 +4225,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>454</td>
 <td></td>
 <td></td>
@@ -4256,7 +4232,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>48,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4268,7 +4243,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>48,0</td>
@@ -4277,13 +4251,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td>02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4293,7 +4265,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>122</td>
 <td></td>
 <td></td>
@@ -4301,7 +4272,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>478,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -4313,7 +4283,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>294,0</td>
@@ -4322,13 +4291,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -4340,7 +4307,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>184,0</td>
@@ -4349,13 +4315,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td>04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4365,7 +4329,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>464</td>
 <td></td>
 <td></td>
@@ -4373,7 +4336,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>106978,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -4385,7 +4347,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>3933,0</td>
@@ -4394,13 +4355,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>040</td>
@@ -4412,13 +4371,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>87312,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4430,13 +4387,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>032</td>
 <td>За счет целевого трансферта из Национального фонда Республики Казахстан</td>
-<td>15733,0</td>
+<td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4448,7 +4403,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>95,0</td>
@@ -4457,31 +4411,27 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>003</td>
 <td></td>
 <td>Общеобразовательное обучение</td>
-<td>181920,0</td>
+<td>183863,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>181920,0</td>
+<td>183863,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4490,7 +4440,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -4502,7 +4451,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>2911,0</td>
@@ -4511,13 +4459,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>030</td>
@@ -4529,13 +4475,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>184,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4545,7 +4489,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>457</td>
 <td></td>
 <td></td>
@@ -4553,7 +4496,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>4506,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -4565,7 +4507,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>4506,0</td>
@@ -4574,13 +4515,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td>06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4590,7 +4529,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>451</td>
 <td></td>
 <td></td>
@@ -4598,7 +4536,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>57190,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4610,7 +4547,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>124,0</td>
@@ -4619,13 +4555,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -4637,7 +4571,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>2884,0</td>
@@ -4646,31 +4579,27 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>025</td>
 <td></td>
 <td>Внедрение обусловленной денежной помощи по проекту Өрлеу</td>
-<td>38093,0</td>
+<td>32949,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>38093,0</td>
+<td>32949,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4679,25 +4608,22 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>017</td>
 <td></td>
 <td>Обеспечение нуждающихся инвалидов обязательными гигиеническими средствами и предоставление услуг специалистами жестового языка, индивидуальными помощниками в соответствии с индивидуальной программой реабилитации инвалида</td>
-<td>2080,0</td>
+<td>1318,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>2080,0</td>
+<td>1318,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4706,25 +4632,22 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>052</td>
 <td></td>
 <td>Проведение мероприятий, посвященных семидесятилетию Победы в Великой Отечественной войне</td>
-<td>14730,0</td>
+<td>14728,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>14730,0</td>
+<td>14728,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4733,43 +4656,38 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td>07</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>282,0</td>
+<td>217,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>458</td>
 <td></td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>282,0</td>
+<td>217,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>016</td>
 <td></td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>282,0</td>
+<td>217,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
-<td>282,0</td>
+<td>217,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4778,7 +4696,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -4787,7 +4704,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>026</td>
@@ -4799,7 +4715,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>0,0</td>
@@ -4808,13 +4723,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td>08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4824,7 +4737,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>457</td>
 <td></td>
 <td></td>
@@ -4832,7 +4744,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>10525,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4844,7 +4755,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>1434,0</td>
@@ -4853,13 +4763,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -4871,7 +4779,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>6473,0</td>
@@ -4880,13 +4787,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -4898,7 +4803,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>2407,0</td>
@@ -4907,13 +4811,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -4925,13 +4827,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>211,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4941,7 +4841,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>456</td>
 <td></td>
 <td></td>
@@ -4949,7 +4848,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>782,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -4961,7 +4859,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>194,0</td>
@@ -4970,13 +4867,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -4988,13 +4883,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>588,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5004,7 +4897,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>473</td>
 <td></td>
 <td></td>
@@ -5012,7 +4904,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>5300,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -5024,7 +4915,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>5300,0</td>
@@ -5033,13 +4923,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td>10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5048,7 +4936,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>780,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>474</td>
 <td></td>
@@ -5059,14 +4946,12 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>001</td>
 <td></td>
-<td>Услуги по реализации государственной политики на местном уровне в сфере сельского ихозяйства и ветеринарии</td>
+<td>Услуги по реализации государственной политики на местном уровне в сфере сельскогоихозяйства и ветеринарии</td>
 <td>670,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5078,13 +4963,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>463</td>
 <td></td>
@@ -5093,7 +4976,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>110,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -5105,13 +4987,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>110,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5121,7 +5001,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>459</td>
 <td></td>
 <td></td>
@@ -5129,7 +5008,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>26757,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -5141,13 +5019,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>013</td>
 <td>За счет кредитов из республиканского бюджета</td>
 <td>26757,0</td>
 </tr>
 <tr>
-<td>11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5157,7 +5033,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>466</td>
 <td></td>
 <td></td>
@@ -5165,7 +5040,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>213,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -5177,7 +5051,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>213,0</td>
@@ -5186,13 +5059,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td>13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -5202,7 +5073,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -5210,7 +5080,6 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>159,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -5222,13 +5091,11 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>011</td>
 <td>За счет трансфертов из республиканского бюджета</td>
 <td>159</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5553,5 +5420,49 @@ source: https://zan.gov.kz/client/#!/doc/85975/rus/16.11.2015
 <td>3500,0</td>
 <td>0,0</td>
 <td>0,0</td>
+</tr>
+</table>
+
+> *Приложение 9 к решению*  
+> *Жарминского районного маслихата*  
+> *№ 24/212-V от 22 декабря 2014 года*
+
+## Предусмотренные средства для реализации мер социальной поддержки специалистам социальной сферы сельских населенных пунктов на 2015 год
+
+<table>
+<tr>
+<td>Функциональная группа</td>
+<td>Администратор бюджетных программ</td>
+<td>Программа</td>
+<td>Наименование</td>
+<td>Сумма (тысяч тенге)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>II. Затраты</td>
+<td>29730,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td></td>
+<td></td>
+<td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
+<td>29730,0</td>
+</tr>
+<tr>
+<td></td>
+<td>453</td>
+<td></td>
+<td>Отдел экономики и бюджетного планирования района (города областного значения)</td>
+<td>29730,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>006</td>
+<td>Бюджетные кредиты для реализации мер социальной поддержки специалистов</td>
+<td>29730,0</td>
 </tr>
 </table>
