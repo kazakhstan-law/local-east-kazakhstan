@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85627/kaz/16.10.2015
+source: https://zan.gov.kz/client/#!/doc/85627/kaz/18.12.2015
 ---
 
 > *3 қосымша Аягөз аудандық*  
