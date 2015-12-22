@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85906/kaz/19.10.2015
+source: https://zan.gov.kz/client/#!/doc/85906/kaz/22.12.2015
 ---
 
 ## 2016 жыл
