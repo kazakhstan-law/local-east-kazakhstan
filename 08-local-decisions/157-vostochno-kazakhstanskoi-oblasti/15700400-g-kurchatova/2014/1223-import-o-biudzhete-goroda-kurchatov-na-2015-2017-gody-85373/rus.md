@@ -10,7 +10,7 @@
 
 1. Утвердить бюджет города Курчатов на 2015-2017 годы согласно приложениям 1, 2, 3 соответственно, в том числе на 2015 год в следующих объемах:
 
-   1) доходы – 1 166 182,0 тысяч тенге, в том числе:
+   1) доходы – 1 155 469,0 тысяч тенге, в том числе:
 
       налоговые поступления – 750 139,0 тысяч тенге;
 
@@ -18,9 +18,9 @@
 
       поступления от продажи основного капитала – 16 353,0 тысяч тенге;
 
-      поступления трансфертов – 391 669,0 тысяч тенге;
+      поступления трансфертов – 380 956,0 тысяч тенге;
 
-   2) затраты – 1 219 020,6 тысяч тенге;
+   2) затраты – 1 208 307,6 тысяч тенге;
 
    3) чистое бюджетное кредитование – 0,0 тысяч тенге, в том числе:
 
@@ -38,7 +38,7 @@
 
    6) финансирование дефицита (использование профицита) бюджета – 52 838,6 тысяч тенге.
 
-      > *Сноска. Пункт 1 в новой редакции с изменением, внесенным решениями Курчатовского городского маслихата Восточно-Казахстанской области от 09.09.2015 № 38/280-V (вводится в действие с 1 января 2015 года); от 15.10.2015 № 39/285-V (вводится в действие с 1 января 2015 года).*
+      > *Сноска. Пункт 1 в новой редакции с изменением, внесенным решениями Курчатовского городского маслихата Восточно-Казахстанской области от 09.09.2015 № 38/280-V (вводится в действие с 1 января 2015 года); от 15.10.2015 № 39/285-V (вводится в действие с 1 января 2015 года); от 22.12.2015 № 41/292-V вводится в действие с 1 января 2015 года).*
 
 <a id="p2"></a>
 
@@ -90,35 +90,35 @@
 
    29 150,0 тысяч тенге – на оплату труда по новой модели системы оплаты труда и выплату ежемесячной надбавки за особые условия труда к должностным окладам работников государственных учреждений, не являющихся государственными служащими, а также работников государственных казенных предприятий, финансируемых из местных бюджетов;
 
-   44 938,0 тысяч тенге - на реализацию государственного образовательного заказа в дошкольных организациях образования;
+   45 328,0 тысяч тенге – на реализацию государственного образовательного заказа в дошкольных организациях образования;
 
    11 141,0 тысяч тенге – на повышение оплаты труда учителям, прошедшим повышение квалификации по трехуровневой системе;
 
-   870,0 тысяч тенге – на обеспечение прав и улучшение качества жизни инвалидов;
+   671,0 тысяч тенге – на обеспечение прав и улучшение качества жизни инвалидов;
 
-   4 001,0 тысяч тенге – на внедрение обусловленной денежной помощи семьям, имеющим доходы ниже величины прожиточного минимума;
+   2 097,0 тысяч тенге – на внедрение обусловленной денежной помощи семьям, имеющим доходы ниже величины прожиточного минимума;
 
    3 157,0 тысяч тенге – на проведение мероприятий, посвященных семидесятилетию Победы в Великой Отечественной войне;
 
-   107,0 тысяч тенге – на проведение профилактической дезинсекции дератизации (за исключением дезинсекции и дератизации на территории природных очагов инфекционных и паразитарных заболеваний, а также в очагах инфекционных и паразитарных заболеваний);
+   107,0 тысяч тенге – на проведение профилактической дезинсекции и дератизации (за исключением дезинсекции и дератизации на территории природных очагов инфекционных и паразитарных заболеваний, а также в очагах инфекционных и паразитарных заболеваний);
 
    1 122,0 тысяч тенге – на содержание штатной численности отделов регистрации актов гражданского состояния;
 
    4 039,0 тысяч тенге – на содержание подразделений местных исполнительных органов агропромышленного комплекса.
 
-   > *Сноска. Пункт 8 в новой редакции с изменением, внесенным решениями Курчатовского городского маслихата Восточно-Казахстанской области от 07.04.2015 № 34/249-V (вводится в действие с 1 января 2015 года); от 15.10.2015 № 39/285-V (вводится в действие с 1 января 2015 года).*
+   > *Сноска. Пункт 8 в новой редакции с изменением, внесенным решениями Курчатовского городского маслихата Восточно-Казахстанской области от 07.04.2015 № 34/249-V (вводится в действие с 1 января 2015 года); от 15.10.2015 № 39/285-V (вводится в действие с 1 января 2015 года); от 22.12.2015 № 41/292-V (вводится в действие с 1 января 2015 года).*
 
 <a id="p9"></a>
 
-9. Предусмотреть в городском бюджете на 2015 год целевые текущие трансферты из республиканского бюджета на реализацию мероприятий в рамках программы развития моногородов в сумме 92 298,0 тысяч тенге в том числе:
+9. Предусмотреть в городском бюджете на 2015 год целевые текущие трансферты из республиканского бюджета на реализацию мероприятий в рамках программы развития моногородов в сумме 35 866,0 тысяч тенге в том числе:
 
-   22 042,0 тысяч тенге – на субсидирование процентной ставки по кредитам банков для реализации проектов;
+   13 042,0 тысяч тенге - на субсидирование процентной ставки по кредитам банков для реализации проектов;
 
-   4 000,0 тысяч тенге – на предоставление грантов на развитие новых производств;
+   4 000,0 тысяч тенге - на предоставление грантов на развитие новых производств;
 
-   66 256,0 тысяч тенге – на текущее обустройство моногородов.
+   18 824,0 тысяч тенге – на текущее обустройство моногородов.
 
-   > *Сноска. Пункт 9 в новой редакции с изменением, внесенным решением Курчатовского городского маслихата Восточно-Казахстанской области от 07.04.2015 № 34/249-V (вводится в действие с 1 января 2015 года).*
+   > *Сноска. Пункт 9 в новой редакции с изменением, внесенным решениями Курчатовского городского маслихата Восточно-Казахстанской области от 07.04.2015 № 34/249-V (вводится в действие с 1 января 2015 года);от 22.12.2015 № 41/292-V (вводится в действие с 1 января 2015 года)*
 
 <a id="p10"></a>
 
@@ -144,12 +144,9 @@
 
 ## Бюджет города Курчатов на 2015 год
 
-> *Сноска. Приложение 1 в новой редакции с изменением, внесенным решениями Курчатовского городского маслихата Восточно-Казахстанской области от 09.09.2015 № 38/280-V (вводится в действие с 1 января 2015 года); от 15.10.2015 № 39/285-V (вводится в действие с 1 января 2015 года).*
+> *Сноска. Приложение 1 в новой редакции с изменением, внесенным решениями Курчатовского городского маслихата Восточно-Казахстанской области от 09.09.2015 № 38/280-V (вводится в действие с 1 января 2015 года); от 15.10.2015 № 39/285-V (вводится в действие с 1 января 2015 года); от 22.12.2015 № 41/292-V (вводится в действие с 1 января 2015 года).*
 
 <table>
-<tr>
-<td colspan="10"></td>
-</tr>
 <tr>
 <td colspan="8">Категория</td>
 <td rowspan="4">
@@ -184,7 +181,7 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">І. Доходы</td>
-<td>1 166 182,0</td>
+<td>1 155 469,0</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -387,59 +384,56 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>391 669,0</td>
+<td>380 956,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>391 669,0</td>
+<td>380 956,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Трансферты из областного бюджета</td>
-<td>391 669,0</td>
+<td>380 956,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="9"></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="9">Функциональная группа</td>
+<td colspan="8">Функциональная группа</td>
 <td rowspan="5">
 Всего расходы
 (тысяч тенге)
 </td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="7">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Бюджетная программа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
+<th>1</th>
 <th colspan="2">2</th>
 <th colspan="2">3</th>
 <th colspan="2">4</th>
@@ -447,15 +441,15 @@
 <th>6</th>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td>1 219 020,6</td>
+<td>1 208 307,6</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -463,7 +457,7 @@
 <td>180 298,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -471,7 +465,7 @@
 <td>107 127,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">112</td>
 <td colspan="2"></td>
@@ -479,7 +473,7 @@
 <td>13 365,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -487,7 +481,7 @@
 <td>13 246,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -495,7 +489,7 @@
 <td>118,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">122</td>
 <td colspan="2"></td>
@@ -503,7 +497,7 @@
 <td>93 762,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -511,7 +505,7 @@
 <td>92 937,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -519,7 +513,7 @@
 <td>825,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -527,7 +521,7 @@
 <td>11 354,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">459</td>
 <td colspan="2"></td>
@@ -535,7 +529,7 @@
 <td>11 354,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -543,7 +537,7 @@
 <td>354,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">028</td>
@@ -551,7 +545,7 @@
 <td>11 000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -559,7 +553,7 @@
 <td>61 817,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -567,7 +561,7 @@
 <td>17 455,7</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -575,7 +569,7 @@
 <td>17 237,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">013</td>
@@ -583,7 +577,7 @@
 <td>218,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">459</td>
 <td colspan="2"></td>
@@ -591,7 +585,7 @@
 <td>19 840,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -599,7 +593,7 @@
 <td>19 840,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">471</td>
 <td colspan="2"></td>
@@ -607,7 +601,7 @@
 <td>15 665,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -615,7 +609,7 @@
 <td>15 665,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">493</td>
 <td colspan="2"></td>
@@ -623,7 +617,7 @@
 <td>8 856,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -631,7 +625,7 @@
 <td>8 856,4</td>
 </tr>
 <tr>
-<td colspan="2">02</td>
+<td>02</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -639,7 +633,7 @@
 <td>3 550,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -647,7 +641,7 @@
 <td>3 550,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">122</td>
 <td colspan="2"></td>
@@ -655,7 +649,7 @@
 <td>3 550,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
@@ -663,7 +657,7 @@
 <td>3 550,0</td>
 </tr>
 <tr>
-<td colspan="2">03</td>
+<td>03</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -671,7 +665,7 @@
 <td>521,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -679,7 +673,7 @@
 <td>521,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -687,7 +681,7 @@
 <td>521,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">021</td>
@@ -695,31 +689,31 @@
 <td>521,0</td>
 </tr>
 <tr>
-<td colspan="2">04</td>
+<td>04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td>496 010,2</td>
+<td>496 400,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>99 749,9</td>
+<td>100 139,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">471</td>
 <td colspan="2"></td>
 <td>Отдел образования, физической культуры и спорта района (города областного значения)</td>
-<td>99 749,9</td>
+<td>100 139,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -727,15 +721,15 @@
 <td>54 811,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">040</td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td>44 938,0</td>
+<td>45 328,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -743,7 +737,7 @@
 <td>375 473,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">471</td>
 <td colspan="2"></td>
@@ -751,7 +745,7 @@
 <td>375 473,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">004</td>
@@ -759,7 +753,7 @@
 <td>320 776,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
@@ -767,7 +761,7 @@
 <td>33 455,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">028</td>
@@ -775,7 +769,7 @@
 <td>21 241,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -783,7 +777,7 @@
 <td>20 786,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">471</td>
 <td colspan="2"></td>
@@ -791,7 +785,7 @@
 <td>20 786,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">009</td>
@@ -799,7 +793,7 @@
 <td>12 980,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">020</td>
@@ -807,7 +801,7 @@
 <td>5 075,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">027</td>
@@ -815,7 +809,7 @@
 <td>447,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">067</td>
@@ -823,15 +817,15 @@
 <td>2 284,0</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>88 866,1</td>
+<td>86 763,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -839,7 +833,7 @@
 <td>3 314,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">471</td>
 <td colspan="2"></td>
@@ -847,7 +841,7 @@
 <td>3 314,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">030</td>
@@ -855,7 +849,7 @@
 <td>3 314,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -863,7 +857,7 @@
 <td>60 749,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">451</td>
 <td colspan="2"></td>
@@ -871,7 +865,7 @@
 <td>60 749,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">002</td>
@@ -879,7 +873,7 @@
 <td>18 598,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
@@ -887,7 +881,7 @@
 <td>179,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -895,7 +889,7 @@
 <td>1 150,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
@@ -903,7 +897,7 @@
 <td>28 641,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">014</td>
@@ -911,7 +905,7 @@
 <td>2 803,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">016</td>
@@ -919,7 +913,7 @@
 <td>929,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">052</td>
@@ -927,23 +921,23 @@
 <td>8 449,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие услуги в области социальной помощи и социального обеспечения</td>
-<td>24 801,4</td>
+<td>22 698,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>24 801,4</td>
+<td>22 698,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -951,7 +945,7 @@
 <td>18 899,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
@@ -959,7 +953,7 @@
 <td>188,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">021</td>
@@ -967,23 +961,23 @@
 <td>71,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">025</td>
 <td>Внедрение обусловленной денежной помощи по проекту Өрлеу</td>
-<td>4 772,8</td>
+<td>2 868,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">050</td>
 <td>Реализация Плана мероприятий по обеспечению прав и улучшению качества жизни инвалидов</td>
-<td>870,0</td>
+<td>671,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -991,7 +985,7 @@
 <td>174 074,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -999,7 +993,7 @@
 <td>5 156,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -1007,7 +1001,7 @@
 <td>1 558,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -1015,7 +1009,7 @@
 <td>950,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">031</td>
@@ -1023,7 +1017,7 @@
 <td>608,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">471</td>
 <td colspan="2"></td>
@@ -1031,7 +1025,7 @@
 <td>3 598,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">026</td>
@@ -1039,7 +1033,7 @@
 <td>3 598,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1047,7 +1041,7 @@
 <td>61 215,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -1055,7 +1049,7 @@
 <td>20 120,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">012</td>
@@ -1063,7 +1057,7 @@
 <td>20 120,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">472</td>
 <td colspan="2"></td>
@@ -1071,7 +1065,7 @@
 <td>41 095,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -1079,7 +1073,7 @@
 <td>41 095,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1087,7 +1081,7 @@
 <td>107 702,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -1095,7 +1089,7 @@
 <td>107 702,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">015</td>
@@ -1103,7 +1097,7 @@
 <td>12 761,7</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">016</td>
@@ -1111,7 +1105,7 @@
 <td>16 107,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">017</td>
@@ -1119,7 +1113,7 @@
 <td>795,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">018</td>
@@ -1127,7 +1121,7 @@
 <td>78 039,1</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
+<td>08</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1135,7 +1129,7 @@
 <td>106 606,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1143,7 +1137,7 @@
 <td>48 168,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">455</td>
 <td colspan="2"></td>
@@ -1151,7 +1145,7 @@
 <td>48 168,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -1159,7 +1153,7 @@
 <td>48 168,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1167,7 +1161,7 @@
 <td>7 248,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">471</td>
 <td colspan="2"></td>
@@ -1175,7 +1169,7 @@
 <td>7 248,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">014</td>
@@ -1183,7 +1177,7 @@
 <td>344,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">015</td>
@@ -1191,7 +1185,7 @@
 <td>6 904,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1199,7 +1193,7 @@
 <td>19 385,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">455</td>
 <td colspan="2"></td>
@@ -1207,7 +1201,7 @@
 <td>17 203,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -1215,7 +1209,7 @@
 <td>10 637,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
@@ -1223,7 +1217,7 @@
 <td>6 566,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">456</td>
 <td colspan="2"></td>
@@ -1231,7 +1225,7 @@
 <td>2 182,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">002</td>
@@ -1239,7 +1233,7 @@
 <td>2 182,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1247,7 +1241,7 @@
 <td>31 804,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">455</td>
 <td colspan="2"></td>
@@ -1255,7 +1249,7 @@
 <td>11 961,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1263,7 +1257,7 @@
 <td>8 311,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">032</td>
@@ -1271,7 +1265,7 @@
 <td>3 650,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">456</td>
 <td colspan="2"></td>
@@ -1279,7 +1273,7 @@
 <td>19 843,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1287,7 +1281,7 @@
 <td>12 525,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -1295,7 +1289,7 @@
 <td>7 318,0</td>
 </tr>
 <tr>
-<td colspan="2">09</td>
+<td>09</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1303,7 +1297,7 @@
 <td>6 266,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1311,7 +1305,7 @@
 <td>6 266,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">472</td>
 <td colspan="2"></td>
@@ -1319,7 +1313,7 @@
 <td>6 266,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">009</td>
@@ -1327,7 +1321,7 @@
 <td>6 266,2</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1335,7 +1329,7 @@
 <td>19 648,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1343,7 +1337,7 @@
 <td>17 732,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">477</td>
 <td colspan="2"></td>
@@ -1351,7 +1345,7 @@
 <td>10 459,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1359,7 +1353,7 @@
 <td>10 459,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">800</td>
 <td colspan="2"></td>
@@ -1367,7 +1361,7 @@
 <td>7 273,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1375,7 +1369,7 @@
 <td>5 611,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -1383,7 +1377,7 @@
 <td>515,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">008</td>
@@ -1391,7 +1385,7 @@
 <td>1 056,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">009</td>
@@ -1399,7 +1393,7 @@
 <td>91,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1407,7 +1401,7 @@
 <td>1 916,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">800</td>
 <td colspan="2"></td>
@@ -1415,7 +1409,7 @@
 <td>1 916,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">010</td>
@@ -1423,7 +1417,7 @@
 <td>1 916,0</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
+<td>11</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1431,7 +1425,7 @@
 <td>8 734,7</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1439,7 +1433,7 @@
 <td>8 734,7</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">472</td>
 <td colspan="2"></td>
@@ -1447,7 +1441,7 @@
 <td>8 734,7</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1455,7 +1449,7 @@
 <td>8 734,7</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1463,7 +1457,7 @@
 <td>28 000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1471,7 +1465,7 @@
 <td>28 000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -1479,7 +1473,7 @@
 <td>28 000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">023</td>
@@ -1487,23 +1481,23 @@
 <td>28 000,0</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>106 381,3</td>
+<td>97 381,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>106 381,3</td>
+<td>97 381,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">459</td>
 <td colspan="2"></td>
@@ -1511,7 +1505,7 @@
 <td>14 083,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">012</td>
@@ -1519,7 +1513,7 @@
 <td>14 083,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -1527,7 +1521,7 @@
 <td>18 824,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">044</td>
@@ -1535,7 +1529,7 @@
 <td>18 824,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">471</td>
 <td colspan="2"></td>
@@ -1543,7 +1537,7 @@
 <td>47 432,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">042</td>
@@ -1551,23 +1545,23 @@
 <td>47 432,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">493</td>
 <td colspan="2"></td>
 <td>Отдел предпринимательства, промышленности и туризма района (города областного значения)</td>
-<td>26 042,0</td>
+<td>17 042,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">033</td>
 <td>Субсидирование процентной ставки по кредитам для реализации проектов в моногородах</td>
-<td>22 042,0</td>
+<td>13 042,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">034</td>
@@ -1575,7 +1569,7 @@
 <td>4 000,0</td>
 </tr>
 <tr>
-<td colspan="2">14</td>
+<td>14</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1583,7 +1577,7 @@
 <td>10,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1591,7 +1585,7 @@
 <td>10,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">459</td>
 <td colspan="2"></td>
@@ -1599,7 +1593,7 @@
 <td>10,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">021</td>
@@ -1607,7 +1601,7 @@
 <td>10,0</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
+<td>15</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1615,7 +1609,7 @@
 <td>53,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1623,7 +1617,7 @@
 <td>53,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">459</td>
 <td colspan="2"></td>
@@ -1631,7 +1625,7 @@
 <td>53,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -1639,7 +1633,7 @@
 <td>53,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1647,7 +1641,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1655,7 +1649,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1663,7 +1657,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1671,7 +1665,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">493</td>
 <td colspan="2"></td>
@@ -1679,7 +1673,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">008</td>
@@ -1687,7 +1681,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">5</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1695,7 +1689,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
@@ -1703,7 +1697,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
@@ -1711,7 +1705,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1719,7 +1713,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1727,7 +1721,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">6</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1735,7 +1729,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1743,7 +1737,7 @@
 <td>-52 838,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1751,7 +1745,7 @@
 <td>52 838,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">7</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1759,7 +1753,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
@@ -1767,7 +1761,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
@@ -1775,7 +1769,7 @@
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">8</td>
 <td colspan="2"></td>
@@ -1783,7 +1777,7 @@
 <td>52 838,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
