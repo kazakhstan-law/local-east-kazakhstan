@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/85634/rus/22.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '99164'
+  title: О бюджете Зайсанского района на 2016-2018 годы
+  link: https://zan.gov.kz/client/#!/doc/99164/rus
 ---
 
 # О бюджете Зайсанского района на 2015-2017 годы
