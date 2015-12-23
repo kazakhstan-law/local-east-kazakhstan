@@ -1,6 +1,11 @@
 ---
 part_of: ../kaz.md
 source: https://zan.gov.kz/client/#!/doc/85885/kaz/22.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '97803'
+  title: 2016-2018 жылдарға арналған Бородулиха ауданының бюджеті туралы
+  link: https://zan.gov.kz/client/#!/doc/97803/kaz
 ---
 
 > *Бородулиха аудандық мәслихатының*  
