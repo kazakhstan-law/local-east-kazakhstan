@@ -1,11 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85855/kaz/20.10.2015
-repealed_on: 2016-01-01
-repealed_by:
-  code: '96784'
-  title: «2015-2017 жылдарға арналған Абай ауданының бюджеті туралы» Абай аудандық мәслихатының 2014 жылғы 24 желтоқсандағы № 25/3-V шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/96784/kaz
+source: https://zan.gov.kz/client/#!/doc/85855/kaz/23.12.2015
 ---
 
 > *Абай аудандық мәслихатының*  
