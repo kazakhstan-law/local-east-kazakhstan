@@ -17,6 +17,11 @@ caused_by:
   title: О внесении изменений в решение маслихата города Семей от 23 декабря 2014 года № 36/191-V «О бюджете города Семей на 2015-2017 годы»
   link: https://zan.gov.kz/client/#!/doc/96558/rus
 source: https://zan.gov.kz/client/#!/doc/85363/rus/22.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '97720'
+  title: О бюджете города Семей на 2016-2018 годы
+  link: https://zan.gov.kz/client/#!/doc/97720/rus
 ---
 
 # О бюджете города Семей на 2015-2017 годы
