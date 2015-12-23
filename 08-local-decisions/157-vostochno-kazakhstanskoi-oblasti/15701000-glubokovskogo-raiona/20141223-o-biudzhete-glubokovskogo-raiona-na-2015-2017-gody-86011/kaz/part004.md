@@ -1,6 +1,11 @@
 ---
 part_of: ../kaz.md
 source: https://zan.gov.kz/client/#!/doc/86011/kaz/21.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '97377'
+  title: 2016-2018 жылдарға арналған Глубокое ауданының бюджеті туралы
+  link: https://zan.gov.kz/client/#!/doc/97377/kaz
 ---
 
 > *Глубокое аудандық мәслихатының*  

@@ -1,6 +1,11 @@
 ---
 part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/86011/rus/21.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '97377'
+  title: О бюджете Глубоковского района на 2016 - 2018 годы
+  link: https://zan.gov.kz/client/#!/doc/97377/rus
 ---
 
 > *Приложение 4*  
