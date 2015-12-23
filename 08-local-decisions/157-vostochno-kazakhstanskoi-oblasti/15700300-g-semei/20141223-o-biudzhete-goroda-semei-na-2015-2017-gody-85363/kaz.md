@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/85363/kaz/22.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '97720'
+  title: Семей қаласының 2016-2018 жылдарға арналған бюджеті туралы
+  link: https://zan.gov.kz/client/#!/doc/97720/kaz
 ---
 
 # Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы
