@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/85413/kaz/18.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '97426'
+  title: Өскемен қаласының 2016-2018 жылдарға арналған бюджеті туралы
+  link: https://zan.gov.kz/client/#!/doc/97426/kaz
 ---
 
 # Өскемен қаласының 2015-2017 жылдарға арналған бюджеті туралы
