@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/85906/kaz/22.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '97805'
+  title: 2016-2018 жылдарға арналған Күршім ауданының бюджеті туралы
+  link: https://zan.gov.kz/client/#!/doc/97805/kaz
 ---
 
 # 2015-2017 жылдарға арналған Күршім ауданының бюджеті туралы
