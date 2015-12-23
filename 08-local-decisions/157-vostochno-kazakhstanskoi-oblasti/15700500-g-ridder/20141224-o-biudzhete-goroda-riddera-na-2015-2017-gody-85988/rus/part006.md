@@ -1,6 +1,11 @@
 ---
 part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/85988/rus/22.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '97870'
+  title: О бюджете города Риддера на 2016 - 2018 годы
+  link: https://zan.gov.kz/client/#!/doc/97870/rus
 ---
 
 > *Приложение 6*  
