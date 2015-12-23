@@ -1,6 +1,11 @@
 ---
 part_of: ../kaz.md
 source: https://zan.gov.kz/client/#!/doc/85550/kaz/21.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '98100'
+  title: Катонқарағай ауданының 2016-2018 жылдарға арналған бюджеті туралы
+  link: https://zan.gov.kz/client/#!/doc/98100/kaz
 ---
 
 > *Катонқарағай аудандық мәслихатының*  
