@@ -1,6 +1,11 @@
 ---
 part_of: ../kaz.md
 source: https://zan.gov.kz/client/#!/doc/86189/kaz/18.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '97807'
+  title: 2016-2018 жылдарға арналған Тарбағатай ауданының бюджеті туралы
+  link: https://zan.gov.kz/client/#!/doc/97807/kaz
 ---
 
 > *Тарбағатай аудандық мәслихатының*  
