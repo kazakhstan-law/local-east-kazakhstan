@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/85802/kaz/18.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '97374'
+  title: 2016-2018 жылдарға арналған Үржар ауданының  бюджеті туралы
+  link: https://zan.gov.kz/client/#!/doc/97374/kaz
 ---
 
 # 2015-2017 жылдарға арналған Үржар ауданының бюджеті туралы
