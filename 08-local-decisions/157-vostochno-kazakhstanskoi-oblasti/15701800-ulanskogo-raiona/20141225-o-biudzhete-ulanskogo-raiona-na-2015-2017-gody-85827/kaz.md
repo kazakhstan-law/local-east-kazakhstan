@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/85827/kaz/23.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '98280'
+  title: 2016-2018 жылдарға арналған Ұлан ауданының бюджеті туралы
+  link: https://zan.gov.kz/client/#!/doc/98280/kaz
 ---
 
 # 2015 - 2017 жылдарға арналған Ұлан ауданының бюджеті туралы

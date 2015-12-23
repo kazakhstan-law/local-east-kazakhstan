@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/85827/rus/23.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '98280'
+  title: О бюджете Уланского района на 2016-2018 годы
+  link: https://zan.gov.kz/client/#!/doc/98280/rus
 ---
 
 # О бюджете Уланского района на 2015-2017 годы
