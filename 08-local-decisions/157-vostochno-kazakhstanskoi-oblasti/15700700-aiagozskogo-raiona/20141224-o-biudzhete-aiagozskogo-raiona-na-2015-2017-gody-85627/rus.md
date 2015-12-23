@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/85627/rus/18.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '97726'
+  title: О бюджете Аягозского района на 2016-2018 годы
+  link: https://zan.gov.kz/client/#!/doc/97726/rus
 ---
 
 # О бюджете Аягозского района на 2015-2017 годы
