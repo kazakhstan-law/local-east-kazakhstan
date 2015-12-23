@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/85373/rus/22.12.2015
+repealed_on: 2016-01-01
+repealed_by:
+  code: '100842'
+  title: О бюджете города Курчатов на 2016-2018 годы
+  link: https://zan.gov.kz/client/#!/doc/100842/rus
 ---
 
 # О бюджете города Курчатов на 2015-2017 годы
