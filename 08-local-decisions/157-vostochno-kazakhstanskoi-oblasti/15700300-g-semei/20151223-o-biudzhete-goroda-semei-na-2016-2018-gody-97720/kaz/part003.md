@@ -1,17 +1,18 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
+source: https://zan.gov.kz/client/#!/doc/97720/kaz/11.04.2016
 ---
+
+> *2015 жылғы 23 желтоқсандағы*  
+> *№ 47/258-V шешiмге*  
+> *3-қосымша*
 
 ## Семей қаласының 2018 жылға арналған бюджеті
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">
-Сомасы
-(мың теңге)
-</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -284,30 +285,30 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 
 <table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td colspan="6">Функционалдық топ</td>
+<td rowspan="6">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Әкім-шісі</td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="4">Әкім-шісі</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
+<td colspan="3">Бағдарлама</td>
+</tr>
+<tr>
 <td></td>
-<td>Шығыстардың атауы</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Шығыстардың атауы</td>
 </tr>
 <tr>
 <th>1</th>
@@ -318,7 +319,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <th>6</th>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -326,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>14 290 201,0</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -334,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>599 054,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -342,7 +343,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>413 604,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>112</td>
 <td></td>
@@ -350,7 +351,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>16 419,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -358,7 +359,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>16 419,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -366,7 +367,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>224 769,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -374,7 +375,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>224 769,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -382,7 +383,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>172 416,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -390,7 +391,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>172 416,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -398,7 +399,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>65 171,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -406,7 +407,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>65 171,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -414,7 +415,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>49 303,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -422,7 +423,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>14 000,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -430,7 +431,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>1 868,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>5</td>
 <td></td>
 <td></td>
@@ -438,7 +439,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>41 387,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>453</td>
 <td></td>
@@ -446,7 +447,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>41 387,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -454,7 +455,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>41 387,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -462,7 +463,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>78 892,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -470,7 +471,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>78 892,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -478,7 +479,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>78 892,0</td>
 </tr>
 <tr>
-<td>02</td>
+<td colspan="2">02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -486,7 +487,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>77 986,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -494,7 +495,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>49 115,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -502,7 +503,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>49 115,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -510,7 +511,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>49 115,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -518,7 +519,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>28 871,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>122</td>
 <td></td>
@@ -526,7 +527,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>28 871,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -534,7 +535,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>3 364,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -542,7 +543,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>25 507,0</td>
 </tr>
 <tr>
-<td>03</td>
+<td colspan="2">03</td>
 <td></td>
 <td></td>
 <td></td>
@@ -550,7 +551,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>70 884,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -558,7 +559,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>70 884,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -566,7 +567,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>61 789,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>021</td>
@@ -574,7 +575,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>61 789,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>499</td>
 <td></td>
@@ -582,7 +583,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>9 095,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -590,7 +591,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>9 095,0</td>
 </tr>
 <tr>
-<td>04</td>
+<td colspan="2">04</td>
 <td></td>
 <td></td>
 <td></td>
@@ -598,7 +599,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>8 164 648,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -606,7 +607,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>813 137,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -614,7 +615,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>813 137,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -622,7 +623,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>813 137,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -630,7 +631,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>6 734 770,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -638,7 +639,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>6 734 770,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -646,7 +647,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>6 330 244,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -654,7 +655,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>404 526,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>4</td>
 <td></td>
 <td></td>
@@ -662,7 +663,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>122 998,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -670,7 +671,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>122 998,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -678,7 +679,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>122 998,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -686,7 +687,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>493 743,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>464</td>
 <td></td>
@@ -694,7 +695,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>493 743,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -702,7 +703,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>27 999,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -710,7 +711,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>90 220,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -718,7 +719,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>20 983,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -726,7 +727,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>93 508,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>022</td>
@@ -734,7 +735,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>7 977,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>067</td>
@@ -742,7 +743,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>253 056,0</td>
 </tr>
 <tr>
-<td>06</td>
+<td colspan="2">06</td>
 <td></td>
 <td></td>
 <td></td>
@@ -750,7 +751,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>1 006 091,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -758,7 +759,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>89 287,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -766,7 +767,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>89 287,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -774,7 +775,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>47 303,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -782,7 +783,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>21 984,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>025</td>
@@ -790,7 +791,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>20 000,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -798,7 +799,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>822 822,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -806,7 +807,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>822 822,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -814,7 +815,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>190 328,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -822,7 +823,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>12 004,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -830,7 +831,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>57 245,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -838,7 +839,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>74 332,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
@@ -846,7 +847,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>54 492,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -854,7 +855,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>71 690,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -862,7 +863,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>116 667,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -870,7 +871,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>153 303,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -878,7 +879,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>90 242,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -886,7 +887,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>2 519,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -894,7 +895,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>93 982,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>451</td>
 <td></td>
@@ -902,7 +903,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>93 982,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -910,7 +911,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>89 213,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -918,7 +919,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>4 769,0</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
 <td></td>
 <td></td>
 <td></td>
@@ -926,7 +927,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>909 962,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -934,7 +935,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>61 891,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -942,7 +943,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>9 053,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -950,7 +951,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>9 053,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>467</td>
 <td></td>
@@ -958,7 +959,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>39 090,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -969,7 +970,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>39 090,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>479</td>
 <td></td>
@@ -977,7 +978,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>13 748,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -985,7 +986,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>13 748,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -993,7 +994,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>70 585,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -1001,7 +1002,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>672,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>014</td>
@@ -1009,7 +1010,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>672,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1017,7 +1018,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>69 913,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -1025,7 +1026,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>69 913,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1033,7 +1034,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>777 486,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>123</td>
 <td></td>
@@ -1041,7 +1042,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>3 639,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -1049,7 +1050,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>3 522,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>009</td>
@@ -1057,7 +1058,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>117,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1065,7 +1066,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>773 847,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>015</td>
@@ -1073,7 +1074,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>262 483,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -1081,7 +1082,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>61 018,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>017</td>
@@ -1089,7 +1090,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>6 137,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>018</td>
@@ -1097,7 +1098,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>444 209,0</td>
 </tr>
 <tr>
-<td>08</td>
+<td colspan="2">08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1105,7 +1106,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>546 910,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1113,7 +1114,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>180 377,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1121,7 +1122,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>180 377,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1129,7 +1130,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>180 377,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1137,7 +1138,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>88 031,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>465</td>
 <td></td>
@@ -1145,7 +1146,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>88 031,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1153,7 +1154,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>12 810,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>005</td>
@@ -1161,7 +1162,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>12 612,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1169,7 +1170,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>36 163,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1177,7 +1178,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>26 446,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1185,7 +1186,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>203 899,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1193,7 +1194,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>114 955,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -1201,7 +1202,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>106 470,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1209,7 +1210,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>8 485,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>456</td>
 <td></td>
@@ -1217,7 +1218,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>88 944,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>002</td>
@@ -1225,7 +1226,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>88 944,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1233,7 +1234,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>74 603,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>455</td>
 <td></td>
@@ -1241,7 +1242,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>18 909,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1249,7 +1250,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>18 909,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>456</td>
 <td></td>
@@ -1257,7 +1258,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>55 694,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1265,7 +1266,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>35 651,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>003</td>
@@ -1273,7 +1274,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>20 043,0</td>
 </tr>
 <tr>
-<td>10</td>
+<td colspan="2">10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1281,7 +1282,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>180 319,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1289,7 +1290,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>60 966,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>453</td>
 <td></td>
@@ -1297,7 +1298,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>4 937,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>099</td>
@@ -1305,7 +1306,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>4 937,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>462</td>
 <td></td>
@@ -1313,7 +1314,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>26 977,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1321,7 +1322,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>26 977,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>473</td>
 <td></td>
@@ -1329,7 +1330,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>29 052,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1337,7 +1338,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>15 514,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>007</td>
@@ -1345,7 +1346,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>13 538,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>6</td>
 <td></td>
 <td></td>
@@ -1353,7 +1354,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>32 556,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>463</td>
 <td></td>
@@ -1361,7 +1362,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>32 556,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1369,7 +1370,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>32 556,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1377,7 +1378,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>86 797,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>473</td>
 <td></td>
@@ -1385,7 +1386,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>86 797,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
@@ -1393,7 +1394,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>86 797,0</td>
 </tr>
 <tr>
-<td>11</td>
+<td colspan="2">11</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1401,7 +1402,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>59 859,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -1409,7 +1410,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>59 859,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>467</td>
 <td></td>
@@ -1417,7 +1418,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>38 188,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1425,7 +1426,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>38 188,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>468</td>
 <td></td>
@@ -1433,7 +1434,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>21 671,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1441,7 +1442,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>21 671,0</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1449,7 +1450,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>2 338 053,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1457,7 +1458,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>2 338 053,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>458</td>
 <td></td>
@@ -1465,7 +1466,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>2 338 053,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>023</td>
@@ -1473,7 +1474,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>2 338 053,0</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1481,7 +1482,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>313 780,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1489,7 +1490,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>28 758,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>469</td>
 <td></td>
@@ -1497,7 +1498,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>28 758,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -1505,7 +1506,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>28 758,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>9</td>
 <td></td>
 <td></td>
@@ -1513,7 +1514,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>285 022,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -1521,7 +1522,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>285 022,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -1529,7 +1530,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>285 022,0</td>
 </tr>
 <tr>
-<td>14</td>
+<td colspan="2">14</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1537,7 +1538,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>255,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1545,7 +1546,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>255,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -1553,7 +1554,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>255,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -1561,7 +1562,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>255,0</td>
 </tr>
 <tr>
-<td>15</td>
+<td colspan="2">15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1569,7 +1570,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>22 400,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -1577,7 +1578,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>22 400,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>452</td>
 <td></td>
@@ -1585,7 +1586,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>22 400,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>051</td>
@@ -1593,7 +1594,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>22 400,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1601,7 +1602,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>-5 371,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1609,7 +1610,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1617,7 +1618,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>5 371,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1625,7 +1626,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1633,7 +1634,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1641,7 +1642,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1649,7 +1650,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>5 371,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1658,16 +1659,9 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
-2015 жылғы 23 желтоқсандағы
-№ 47/258-V шешiмге
-4-қосымша
-</td>
-</tr>
-</table>
+> *2015 жылғы 23 желтоқсандағы*  
+> *№ 47/258-V шешiмге*  
+> *4-қосымша*
 
 ## 2016 жылға арналған жергілікті бюджеттің орындалу процессінде секвестрге жатпайтын бюджеттік бағдарламалар тізімі
 
@@ -1710,16 +1704,9 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
-2015 жылғы 23 желтоқсандағы
-№ 47/258-V шешiмге
-5-қосымша
-</td>
-</tr>
-</table>
+> *2015 жылғы 23 желтоқсандағы*  
+> *№ 47/258-V шешiмге*  
+> *5-қосымша*
 
 ## 2016 жылға арналған бюджетіне ауыл шаруашылық мақсатындағы жер учаскелерін сатудан түсетін түсімдер көлемі
 
@@ -1734,32 +1721,30 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
-2015 жылғы 23 желтоқсандағы
-№ 47/258-V шешiмге
-6-қосымша
-</td>
-</tr>
-</table>
+> *2015 жылғы 23 желтоқсандағы*  
+> *№ 47/258-V шешiмге*  
+> *6-қосымша*
 
-## 2016 жылға арналған ауылдық округтері мен кенттердің бюджеттік бағдарламалары мың теңге
+## 2016 жылға арналған ауылдық округтері мен кенттердің бюджеттік бағдарламалары
+
+> *Ескерту. 6-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Семей қаласының мәслихатының 11.04.2016 № 2/17-VI шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+
+> *мың теңге*
 
 <table>
 <tr>
 <td rowspan="2">№</td>
 <td rowspan="2">Ауылдық округтің, кенттің атауы</td>
 <td rowspan="2">Барлығы</td>
-<td colspan="5">Соның ішінде бағдарламалар бойынша</td>
+<td colspan="6">Соның ішінде бағдарламалар бойынша</td>
 </tr>
 <tr>
-<td>001 &quot;Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтерә</td>
-<td>008 &quot;Елді мекендердегі көшелерді жарықтандыру&quot;</td>
-<td>022 &quot; Мемлекеттік органның күрделі шығыстары&quot;</td>
-<td>009 &quot;Елді мекендердің санитариясын қамтамасыз ету&quot;</td>
-<td>014 &quot;Елді мекендерді сумен жабдықтауды ұйымдастыру&quot;</td>
+<td>001 «Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылды округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер»</td>
+<td>008 «Елді мекен- дердегі көшелерді жарықтан- дыру»</td>
+<td>022 «Мемлекеттік органның күрделі шығыстары»</td>
+<td>009 «Елді мекен дердің санитария сын қамтамасыз ету»</td>
+<td>014 «Елді мекен- дерді сумен жабдықтау- ды ұйымдас- тыру»</td>
+<td>027 «Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру»</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1770,12 +1755,14 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>30,0</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>2</td>
 <td>Айнабұлақ</td>
 <td>11 456,0</td>
 <td>11 456,0</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1790,6 +1777,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>58,0</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>4</td>
@@ -1800,12 +1788,14 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>5</td>
 <td>Достық</td>
-<td>14 458,0</td>
-<td>14 458,0</td>
+<td>13 595,0</td>
+<td>13 595,0</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1820,12 +1810,14 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td></td>
 <td></td>
 <td>587,0</td>
+<td></td>
 </tr>
 <tr>
 <td>7</td>
 <td>Жиенәлі</td>
 <td>12 231,0</td>
 <td>12 231,0</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1840,12 +1832,14 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>9</td>
 <td>Ертіс</td>
-<td>14 915,0</td>
-<td>14 915,0</td>
+<td>13 947,0</td>
+<td>13 947,0</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1860,12 +1854,14 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td>54,0</td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>11</td>
 <td>Новобаженово</td>
-<td>16 032,0</td>
-<td>16 032,0</td>
+<td>15 261,3</td>
+<td>15 261,3</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1880,22 +1876,25 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>13</td>
 <td>Приречный</td>
-<td>15 709,0</td>
+<td>20 637,0</td>
 <td>14 396,0</td>
 <td>1 211,0</td>
 <td></td>
 <td>102,0</td>
 <td></td>
+<td>4 928,0</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Таңат</td>
 <td>9 065,0</td>
 <td>9 065,0</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1910,6 +1909,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -1920,31 +1920,28 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>212 620,0</td>
-<td>208 713,0</td>
+<td>214 946,3</td>
+<td>206 111,3</td>
 <td>3 076,0</td>
 <td>142,0</td>
 <td>102,0</td>
 <td>587,0</td>
+<td>4 928,0</td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
-2015 жылғы 23 желтоқсандағы
-№ 47/258-V шешiмге
-7-қосымша
-</td>
-</tr>
-</table>
+> *2015 жылғы 23 желтоқсандағы*  
+> *№ 47/258-V шешiмге*  
+> *7-қосымша*
 
-## 2017 жылға арналған ауылдық округтері мен кенттердің бюджеттік бағдарламалары мың теңге
+## 2017 жылға арналған ауылдық округтері мен кенттердің бюджеттік бағдарламалары
+
+> *мың теңге*
 
 <table>
 <tr>
@@ -1954,7 +1951,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td colspan="4">Соның ішінде бағдарламалар бойынша</td>
 </tr>
 <tr>
-<td>001 &quot;Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер&quot;</td>
+<td>001 «Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер»</td>
 <td>008 &quot;Елді мекендердегі көшелерді жарықтандыру&quot;</td>
 <td>009 &quot;Елді мекендердің санитариясын қамтамасыз ету&quot;</td>
 <td>014 &quot;Елді мекендерді сумен жабдықтауды ұйымдастыру&quot;</td>
@@ -2114,18 +2111,13 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
-2015 жылғы 23 желтоқсандағы
-№ 47/258-V шешiмге
-8-қосымша
-</td>
-</tr>
-</table>
+> *2015 жылғы 23 желтоқсандағы*  
+> *№ 47/258-V шешiмге*  
+> *8-қосымша*
 
-## 2018 жылға арналған ауылдық округтері мен кенттердің бюджеттік бағдарламалары мың теңге
+## 2018 жылға арналған ауылдық округтері мен кенттердің бюджеттік бағдарламалары
+
+> *мың теңге*
 
 <table>
 <tr>
@@ -2135,7 +2127,7 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 <td colspan="4">Соның ішінде бағдарламалар бойынша</td>
 </tr>
 <tr>
-<td>001 &quot;Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер&quot;</td>
+<td>001 «Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер»</td>
 <td>008 &quot;Елді мекендердегі көшелерді жарықтандыру&quot;</td>
 <td>009 &quot;Елді мекендердің санитариясын қамтамасыз ету&quot;</td>
 <td>014 &quot;Елді мекендерді сумен жабдықтауды ұйымдастыру&quot;</td>
@@ -2295,18 +2287,120 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 </tr>
 </table>
 
+> *2015 жылғы 23 желтоқсандағы*  
+> *№ 47/258-V шешiмге*  
+> *9-қосымша*
+
+## 2016 жылға арналған жергілікті өзін-өзі басқару органдарына берілетін трансферттер
+
+> *Ескерту. 9-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Семей қаласының мәслихатының 11.04.2016 № 2/17-VI шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+
+> *мың теңге*
+
 <table>
 <tr>
+<td rowspan="3">№</td>
+<td rowspan="3">Ауылдық округтің, кенттің атауы</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>Абыралы</td>
+<td>194,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Айнабұлақ</td>
+<td>137,0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ақбұлақ</td>
+<td>96,0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Алғабас</td>
+<td>963,0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Достық</td>
+<td>975,0</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Жазық</td>
+<td>202,0</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Жиенәлі</td>
+<td>700,0</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Знаменка</td>
+<td>2 141,0</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Ертіс</td>
+<td>2 308,2</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Қараөлең</td>
+<td>1 158,0</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Новобаженово</td>
+<td>2 117,8</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Озерки</td>
+<td>4 093,7</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Приречный</td>
+<td>2 918,0</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Таңат</td>
+<td>67,0</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Шүлбі кенті</td>
+<td>7 423,8</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Шаған кенті</td>
+<td>276,0</td>
+</tr>
+<tr>
 <td></td>
-<td>
-2015 жылғы 23 желтоқсандағы
-№ 47/258-V шешiмге
-9-қосымша
-</td>
+<td>Барлығы</td>
+<td>25 770,5</td>
 </tr>
 </table>
 
-## 2016 жылға арналған жергілікті өзін-өзі басқару органдарына берілетін трансферттер мың теңге
+> *2015 жылғы 23 желтоқсандағы*  
+> *№ 47/258-V шешiмге*  
+> *10-қосымша*
+
+## 2017 жылға арналған жергілікті өзін-өзі басқару органдарына берілетін трансферттер
+
+> *мың теңге*
 
 <table>
 <tr>
@@ -2405,18 +2499,13 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
-2015 жылғы 23 желтоқсандағы
-№ 47/258-V шешiмге
-10-қосымша
-</td>
-</tr>
-</table>
+> *2015 жылғы 23 желтоқсандағы*  
+> *№ 47/258-V шешiмге*  
+> *11-қосымша*
 
-## 2017 жылға арналған жергілікті өзін-өзі басқару органдарына берілетін трансферттер мың теңге
+## 2018 жылға арналған жергілікті өзін-өзі басқару органдарына берілетін трансферттер
+
+> *мың теңге*
 
 <table>
 <tr>
@@ -2515,139 +2604,22 @@ source: https://zan.gov.kz/client/#!/doc/97720/kaz/23.12.2015
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
-2015 жылғы 23 желтоқсандағы
-№ 47/258-V шешiмге
-11-қосымша
-</td>
-</tr>
-</table>
-
-## 2018 жылға арналған жергілікті өзін-өзі басқару органдарына берілетін трансферттер мың теңге
-
-<table>
-<tr>
-<td rowspan="3">№</td>
-<td rowspan="3">Ауылдық округтің, кенттің атауы</td>
-<td rowspan="3">Сомасы (мың теңге)</td>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
-<td>1</td>
-<td>Абыралы</td>
-<td>194,0</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Айнабұлақ</td>
-<td>137,0</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Ақбұлақ</td>
-<td>96,0</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Алғабас</td>
-<td>963,0</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Достық</td>
-<td>975,0</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Жазық</td>
-<td>202,0</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Жиенәлі</td>
-<td>700,0</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Знаменка</td>
-<td>2 141,0</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Ертіс</td>
-<td>2 079,0</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Қараөлең</td>
-<td>1 133,0</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Новобаженово</td>
-<td>2 099,0</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Озерки</td>
-<td>4 066,0</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Приречный</td>
-<td>2 301,0</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Таңат</td>
-<td>67,0</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Шүлбі кенті</td>
-<td>4 971,0</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Шаған кенті</td>
-<td>276,0</td>
-</tr>
-<tr>
-<td></td>
-<td>Барлығы</td>
-<td>22400,0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td></td>
-<td>
-2015 жылғы 23 желтоқсандағы
-№ 47/258-V шешiмге
-12-қосымша
-</td>
-</tr>
-</table>
+> *2015 жылғы 23 желтоқсандағы*  
+> *№ 47/258-V шешiмге*  
+> *12-қосымша*
 
 ## Семей қаласы мәслихатының күші жойылған кейбір шешімдерінің тізімі
 
-1. Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V "Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы" (нормативтік құқықтық актілерін мемлекеттік тіркеу Тізілімінде 2014 жылғы 30 желтоқсандағы № 3601 болып тіркелген, 2015 жылғы 6 қаңтардағы № 1 "Семей таңы" және "Вести Семей" газеттерінде жарияланған) шешім.
+1. Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V «Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы» (нормативтік құқықтық актілерін мемлекеттік тіркеу Тізілімінде 2014 жылғы 30 желтоқсандағы № 3601 болып тіркелген, 2015 жылғы 6 қаңтардағы № 1 «Семей таңы» және «Вести Семей» газеттерінде жарияланған) шешім.
 
-2. Семей қаласы мәслихатының 2015 жылғы 18 наурыздағы № 38/209-V "Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V "Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы" (нормативтік құқықтық актілерін мемлекеттік тіркеу Тізілімінде 2015 жылғы 27 наурыздағы № 3782 болып тіркелген, 2015 жылғы 14 сәуірдегі № 29 "Семей таңы" және "Вести Семей" газеттерінде жарияланған) шешім.
+2. Семей қаласы мәслихатының 2015 жылғы 18 наурыздағы № 38/209-V «Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V «Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы» шешіміне өзгерістер мен толықтырулар енгізу туралы» (нормативтік құқықтық актілерін мемлекеттік тіркеу Тізілімінде 2015 жылғы 27 наурыздағы № 3782 болып тіркелген, 2015 жылғы 14 сәуірдегі № 29 «Семей таңы» және «Вести Семей» газеттерінде жарияланған) шешім.
 
-3. Семей қаласы мәслихатының 2015 жылғы 9 сәуірдегі № 39/213-V "Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V "Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы" (нормативтік құқықтық актілерін мемлекеттік тіркеу Тізілімінде 2015 жылғы 14 сәуірдегі № 3876 болып тіркелген, 2015 жылғы 21 сәуірдегі № 31 "Семей таңы" және "Вести Семей" газеттерінде жарияланған) шешім.
+3. Семей қаласы мәслихатының 2015 жылғы 9 сәуірдегі № 39/213-V «Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V «Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы» шешіміне өзгерістер мен толықтырулар енгізу туралы» (нормативтік құқықтық актілерін мемлекеттік тіркеу Тізілімінде 2015 жылғы 14 сәуірдегі № 3876 болып тіркелген, 2015 жылғы 21 сәуірдегі № 31 «Семей таңы» және «Вести Семей» газеттерінде жарияланған) шешім.
 
-4. Семей қаласы мәслихатының 2015 жылғы 16 шілдедегі № 43/234-V "Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V "Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы" шешімі (нормативтік құқықтық актілерді мемлекеттік тіркеудің тізілімінде 2015 жылғы 29 шілдедегі № 4064 болып тіркелген, 2015 жылғы 4 тамыздағы № 61 "Семей таңы" және "Вести Семей" газеттерінде жарияланған) шешім.
+4. Семей қаласы мәслихатының 2015 жылғы 16 шілдедегі № 43/234-V «Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V «Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы» шешіміне өзгерістер мен толықтырулар енгізу туралы» шешімі (нормативтік құқықтық актілерді мемлекеттік тіркеудің тізілімінде 2015 жылғы 29 шілдедегі № 4064 болып тіркелген, 2015 жылғы 4 тамыздағы № 61 «Семей таңы» және «Вести Семей» газеттерінде жарияланған) шешім.
 
-5. Семей қаласы мәслихатының 2015 жылғы 21 тамыздағы № 44/243-V "Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V "Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы" шешіміне өзгерістер енгізу туралы" шешімі (нормативтік құқықтық актілерді мемлекеттік тіркеудің тізілімінде 2015 жылғы 28 тамыздағы № 4120 болып тіркелген, 2015 жылғы 1 қыркүйектегі № 69 "Семей таңы" және "Вести Семей" газеттерінде жарияланған) шешім.
+5. Семей қаласы мәслихатының 2015 жылғы 21 тамыздағы № 44/243-V «Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V «Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы» шешіміне өзгерістер енгізу туралы» шешімі (нормативтік құқықтық актілерді мемлекеттік тіркеудің тізілімінде 2015 жылғы 28 тамыздағы № 4120 болып тіркелген, 2015 жылғы 1 қыркүйектегі № 69 «Семей таңы» және «Вести Семей» газеттерінде жарияланған) шешім.
 
-6. Семей қаласы мәслихатының 2015 жылғы 27 қазандағы № 45/247-V "Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V "Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы" шешімі (нормативтік құқықтық актілерді мемлекеттік тіркеудің тізілімінде 2015 жылғы 30 қазандағы № 4208 болып тіркелген, 2015 жылғы 3 қарашадағы № 87 "Семей таңы" және "Вести Семей" газеттерінде жарияланған) шешім
+6. Семей қаласы мәслихатының 2015 жылғы 27 қазандағы № 45/247-V «Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V «Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы» шешіміне өзгерістер мен толықтырулар енгізу туралы» шешімі (нормативтік құқықтық актілерді мемлекеттік тіркеудің тізілімінде 2015 жылғы 30 қазандағы № 4208 болып тіркелген, 2015 жылғы 3 қарашадағы № 87 «Семей таңы» және «Вести Семей» газеттерінде жарияланған) шешім
 
-7. Семей қаласы мәслихатының 2015 жылғы 22 желтоқсандағы № 47/269-V "Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V "Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы" шешіміне өзгерістер енгізу туралы" шешімі (нормативтік құқықтық актілерді мемлекеттік тіркеудің тізілімінде 2015 жылғы 28 желтоқсандағы № 4299 болып тіркелген, 2015 жылғы 30 желтоқсандағы № 103-104 "Семей таңы" және "Вести Семей" газеттерінде жарияланған) шешім.
+7. Семей қаласы мәслихатының 2015 жылғы 22 желтоқсандағы № 47/269-V «Семей қаласы мәслихатының 2014 жылғы 23 желтоқсандағы № 36/191-V «Семей қаласының 2015-2017 жылдарға арналған бюджеті туралы» шешіміне өзгерістер енгізу туралы» шешімі (нормативтік құқықтық актілерді мемлекеттік тіркеудің тізілімінде 2015 жылғы 28 желтоқсандағы № 4299 болып тіркелген, 2015 жылғы 30 желтоқсандағы № 103-104 «Семей таңы» және «Вести Семей» газеттерінде жарияланған) шешім.
