@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
+source: https://zan.gov.kz/client/#!/doc/97374/kaz/29.07.2016
 ---
 
 > *Үржар аудандық мәслихатының*  
@@ -10,18 +10,21 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 
 ## 2016 жылға арналған Үржар ауданының бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Үржар аудандық мәслихатының 09.06.2016 N 3-28/VI шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Үржар аудандық мәслихатының 29.07.2016 № 5-51/VI шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
+<td></td>
 <td colspan="4">Санаты</td>
 <td rowspan="4">Барлық кірістер (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">Iшкi сыныбы</td>
@@ -30,9 +33,11 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
+<th></th>
 <th>1</th>
 <th>2</th>
 <th>3</th>
@@ -43,10 +48,12 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>I. Кірістер</td>
-<td>7 395 559,8</td>
+<td>7 403 008,8</td>
 </tr>
 <tr>
+<td></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -54,6 +61,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td>1 110 132,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>01</td>
 <td></td>
@@ -63,11 +71,13 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
 <td>474 751,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>03</td>
 <td></td>
@@ -77,11 +87,13 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>1</td>
 <td>Әлеуметтік салық</td>
 <td>382 584,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>04</td>
 <td></td>
@@ -91,11 +103,13 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>1</td>
 <td>Мүлiкке салынатын салықтар</td>
 <td>82 175,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -105,6 +119,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>4</td>
 <td>Көлiк құралдарына салынатын салық</td>
 <td>94 294,0</td>
@@ -112,11 +127,13 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>5</td>
 <td>Бірыңғай жер салығы</td>
 <td>6 900,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>05</td>
 <td></td>
@@ -126,11 +143,13 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>2</td>
 <td>Акциздер</td>
 <td>5 500,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -140,6 +159,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>4</td>
 <td>Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
 <td>27 852,0</td>
@@ -147,11 +167,13 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>5</td>
 <td>Ойын бизнесіне салық</td>
 <td>209,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>08</td>
 <td></td>
@@ -161,11 +183,13 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>1</td>
 <td>Мемлекеттік баж</td>
 <td>14 976,0</td>
 </tr>
 <tr>
+<td></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -173,6 +197,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td>11 524,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>01</td>
 <td></td>
@@ -182,11 +207,13 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>1</td>
 <td>Мемлекеттік кәсіпорындардың таза кірісі бөлігінің түсімдері</td>
 <td>1 680,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td>5</td>
@@ -196,11 +223,13 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>7</td>
 <td>Мемлекеттік бюджеттен берілген кредиттер бойынша сыйақылар</td>
 <td>17,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>02</td>
 <td></td>
@@ -210,11 +239,13 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>1</td>
 <td>Мемлекеттік бюджеттен қаржыландырылатын мемлекеттік мекемелердің тауарларды (жұмыстарды, қызметтерді) өткізуінен түсетін түсімдер</td>
 <td>1,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>04</td>
 <td></td>
@@ -224,11 +255,13 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>1</td>
 <td>Мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
 <td>225,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>06</td>
 <td></td>
@@ -238,11 +271,13 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>1</td>
 <td>Басқа да салықтық емес түсiмдер</td>
 <td>4 209,0</td>
 </tr>
 <tr>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -250,6 +285,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td>25 113,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>01</td>
 <td></td>
@@ -259,11 +295,13 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>1</td>
 <td>Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
 <td>113,0</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>03</td>
 <td></td>
@@ -273,23 +311,26 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>1</td>
 <td>Жерді сату</td>
 <td>25 000,0</td>
 </tr>
 <tr>
+<td></td>
 <td>4</td>
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>6 248 790,8</td>
+<td>6 256 239,8</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>6 248 790,8</td>
+<td>6 256 239,8</td>
 </tr>
 </table>
 
@@ -334,7 +375,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td></td>
 <td></td>
 <td>II.Шығындар</td>
-<td>7 401 385,0</td>
+<td>7 408 834,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -622,7 +663,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>4 881 680,8</td>
+<td>4 901 680,8</td>
 </tr>
 <tr>
 <td></td>
@@ -654,7 +695,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>4 397 132,8</td>
+<td>4 417 132,8</td>
 </tr>
 <tr>
 <td></td>
@@ -678,7 +719,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td>471</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім, дене шынықтыру және спорт бөлімі</td>
-<td>4 232 750,9</td>
+<td>4 252 750,9</td>
 </tr>
 <tr>
 <td></td>
@@ -686,7 +727,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td></td>
 <td>004</td>
 <td>Жалпы білім беру</td>
-<td>4 071 941,0</td>
+<td>4 091 941,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1294,7 +1335,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>310 878,0</td>
+<td>298 327,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1302,7 +1343,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td></td>
 <td></td>
 <td>Ауыл шаруашылығы</td>
-<td>164 354,0</td>
+<td>151 803,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1326,7 +1367,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td>473</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ветеринария бөлімі</td>
-<td>155 180,0</td>
+<td>142 629,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1358,7 +1399,7 @@ source: https://zan.gov.kz/client/#!/doc/97374/kaz/09.06.2016
 <td></td>
 <td>008</td>
 <td>Алып қойылатын және жойылатын ауру жануарлардың, жануарлардан алынатын өнімдер мен шикізаттың құнын иелеріне өтеу</td>
-<td>66 875,0</td>
+<td>54 324,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1866,14 +1907,6 @@ VI. Бюджет тапшылығын каржыландыру
 <td>1</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
 <td>5 910,7</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
