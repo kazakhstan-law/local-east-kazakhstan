@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97372/kaz/01.08.2016
+source: https://zan.gov.kz/client/#!/doc/97372/kaz/20.09.2016
 ---
 
 > *Абай аудандық мәслихатының*  
@@ -12,10 +12,7 @@ source: https://zan.gov.kz/client/#!/doc/97372/kaz/01.08.2016
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="5">
-Барлық кірістер
-(мың теңге)
-</td>
+<td rowspan="5">Барлық кірістер (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -634,10 +631,7 @@ source: https://zan.gov.kz/client/#!/doc/97372/kaz/01.08.2016
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td rowspan="6">
-Сомасы
-(мың теңге)
-</td>
+<td rowspan="6">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -2905,11 +2899,7 @@ source: https://zan.gov.kz/client/#!/doc/97372/kaz/01.08.2016
 <tr>
 <td>№ р/н</td>
 <td rowspan="2">Атауы</td>
-<td rowspan="2">
-бағдарлама
-459051
-(мың теңге)
-</td>
+<td rowspan="2">бағдарлама 459051 (мың теңге)</td>
 </tr>
 <tr>
 <td></td>

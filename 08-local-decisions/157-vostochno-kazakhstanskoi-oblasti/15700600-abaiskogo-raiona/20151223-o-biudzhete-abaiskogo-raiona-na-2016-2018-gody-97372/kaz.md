@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97372/kaz/01.08.2016
+source: https://zan.gov.kz/client/#!/doc/97372/kaz/20.09.2016
 ---
 
 # 2016-2018 жылдарға арналған Абай ауданының бюджеті туралы

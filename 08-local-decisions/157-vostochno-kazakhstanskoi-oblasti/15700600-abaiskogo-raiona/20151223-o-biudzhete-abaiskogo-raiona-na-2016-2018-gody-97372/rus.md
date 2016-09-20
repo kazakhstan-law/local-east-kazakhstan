@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97372/rus/01.08.2016
+source: https://zan.gov.kz/client/#!/doc/97372/rus/20.09.2016
 ---
 
 # О бюджете Абайского района на 2016-2018 годы
@@ -68,5 +68,4 @@ source: https://zan.gov.kz/client/#!/doc/97372/rus/01.08.2016
 | Часть | Название |
 |---|---|
 | [`part001`](rus/part001.md) | Районный бюджет на 2016 год |
-| [`part002`](rus/part002.md) | Районный бюджет на 2017 год |
-| [`part006`](rus/part006.md) | part006 |
+| [`part003`](rus/part003.md) | Районный бюджет на 2018 год |
