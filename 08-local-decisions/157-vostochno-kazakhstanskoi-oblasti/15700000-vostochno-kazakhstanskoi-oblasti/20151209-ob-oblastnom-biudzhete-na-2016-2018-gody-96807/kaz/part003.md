@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/96807/kaz/14.07.2016
+source: https://zan.gov.kz/client/#!/doc/96807/kaz/05.10.2016
 ---
 
 > *Шығыс Қазақстан облыстық мәслихатының*  
