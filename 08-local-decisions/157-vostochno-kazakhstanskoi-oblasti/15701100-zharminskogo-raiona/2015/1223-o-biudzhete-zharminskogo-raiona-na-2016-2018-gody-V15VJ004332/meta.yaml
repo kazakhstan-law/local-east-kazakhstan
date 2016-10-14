@@ -36,9 +36,13 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2016-10-14
+  languages:
+  - kaz
+  - rus
 version_date:
-  kaz: 2016-08-03
-  rus: 2016-08-03
+  kaz: 2016-10-14
+  rus: 2016-10-14
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/99267/kaz/03.08.2016
-  rus: https://zan.gov.kz/client/#!/doc/99267/rus/03.08.2016
+  kaz: https://zan.gov.kz/client/#!/doc/99267/kaz/14.10.2016
+  rus: https://zan.gov.kz/client/#!/doc/99267/rus/14.10.2016
