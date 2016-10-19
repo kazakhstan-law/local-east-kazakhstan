@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97726/rus/29.07.2016
+source: https://zan.gov.kz/client/#!/doc/97726/rus/19.10.2016
 ---
 
 > *Приложение 2 к решению*  
@@ -12,10 +12,7 @@ source: https://zan.gov.kz/client/#!/doc/97726/rus/29.07.2016
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="5">
-Сумма
-(тыс.тенге)
-</td>
+<td rowspan="5">Сумма (тыс.тенге)</td>
 </tr>
 <tr>
 <td></td>

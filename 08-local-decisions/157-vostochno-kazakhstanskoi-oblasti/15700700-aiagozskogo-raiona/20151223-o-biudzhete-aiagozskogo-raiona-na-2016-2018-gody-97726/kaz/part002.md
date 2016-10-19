@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97726/kaz/29.07.2016
+source: https://zan.gov.kz/client/#!/doc/97726/kaz/19.10.2016
 ---
 
 > *Аягөз аудандық мәслихатының*  
@@ -12,10 +12,7 @@ source: https://zan.gov.kz/client/#!/doc/97726/kaz/29.07.2016
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="5">
-Сома
-(мың теңге)
-</td>
+<td rowspan="5">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -628,10 +625,7 @@ source: https://zan.gov.kz/client/#!/doc/97726/kaz/29.07.2016
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td rowspan="6">
-Сома
-(мың теңге)
-</td>
+<td rowspan="6">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
