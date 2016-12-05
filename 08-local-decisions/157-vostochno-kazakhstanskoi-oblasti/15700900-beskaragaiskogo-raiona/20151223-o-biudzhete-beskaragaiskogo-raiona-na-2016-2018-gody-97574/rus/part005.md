@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97574/rus/14.10.2016
+source: https://zan.gov.kz/client/#!/doc/97574/rus/05.12.2016
 ---
 
 ## Районный бюджет на 2018 год
