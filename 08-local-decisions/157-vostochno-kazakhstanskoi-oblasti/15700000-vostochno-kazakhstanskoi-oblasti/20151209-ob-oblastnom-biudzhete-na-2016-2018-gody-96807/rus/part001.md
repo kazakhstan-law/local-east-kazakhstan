@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/96807/rus/15.11.2016
+source: https://zan.gov.kz/client/#!/doc/96807/rus/09.12.2016
 ---
 
 > *Приложение 1 к решению Восточно-Казахстанского областного маслихата от 9 декабря 2016 № 34/406-V*
