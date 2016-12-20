@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/99164/kaz/28.11.2016
+source: https://zan.gov.kz/client/#!/doc/99164/kaz/20.12.2016
 ---
 
 > *Зайсан аудандық мәслихатының*  
