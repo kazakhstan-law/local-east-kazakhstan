@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97377/rus/30.11.2016
+source: https://zan.gov.kz/client/#!/doc/97377/rus/21.12.2016
 ---
 
 > *Приложение 6 к решению Глубоковского районного маслихата от 23 декабря 2015 года № 41/2-V*

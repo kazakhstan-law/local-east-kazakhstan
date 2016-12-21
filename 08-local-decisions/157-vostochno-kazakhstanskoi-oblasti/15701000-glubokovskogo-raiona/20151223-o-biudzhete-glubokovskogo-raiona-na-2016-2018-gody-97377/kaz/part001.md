@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97377/kaz/30.11.2016
+source: https://zan.gov.kz/client/#!/doc/97377/kaz/21.12.2016
 ---
 
 > *Глубокое аудандық мәслихатының 2015 жылғы 23 желтоқсандағы № 41/2-V шешіміне 1 қосымша*
