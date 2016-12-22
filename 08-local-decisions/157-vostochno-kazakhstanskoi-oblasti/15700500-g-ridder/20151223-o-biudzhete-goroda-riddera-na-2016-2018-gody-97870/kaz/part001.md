@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97870/kaz/29.11.2016
+source: https://zan.gov.kz/client/#!/doc/97870/kaz/22.12.2016
 ---
 
 > *2015 жылғы 23 желтоқсандағы № 40/2-V*  
