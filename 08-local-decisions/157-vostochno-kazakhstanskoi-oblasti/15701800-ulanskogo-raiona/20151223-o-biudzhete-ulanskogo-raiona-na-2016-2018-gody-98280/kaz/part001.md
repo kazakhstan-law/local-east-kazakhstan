@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/98280/kaz/25.11.2016
+source: https://zan.gov.kz/client/#!/doc/98280/kaz/23.12.2016
 ---
 
 > *Ұлан аудандық мәслихаттың 2015 жылғы 23 желтоқсандағы № 290 шешіміне № 1 қосымша*

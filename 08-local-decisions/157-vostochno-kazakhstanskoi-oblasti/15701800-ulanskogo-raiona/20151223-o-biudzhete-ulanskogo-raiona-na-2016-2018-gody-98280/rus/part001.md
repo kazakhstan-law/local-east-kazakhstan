@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/98280/rus/25.11.2016
+source: https://zan.gov.kz/client/#!/doc/98280/rus/23.12.2016
 ---
 
 > *Приложение № 1 к решению Уланского районного маслихата от 23 декабря 2015 года № 290*
