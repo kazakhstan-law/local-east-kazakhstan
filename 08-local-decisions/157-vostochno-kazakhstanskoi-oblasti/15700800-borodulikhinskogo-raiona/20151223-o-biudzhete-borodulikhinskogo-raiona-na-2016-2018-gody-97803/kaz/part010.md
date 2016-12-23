@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97803/kaz/25.11.2016
+source: https://zan.gov.kz/client/#!/doc/97803/kaz/23.12.2016
 ---
 
 > *Бородулиха аудандық мәслихатының*  
