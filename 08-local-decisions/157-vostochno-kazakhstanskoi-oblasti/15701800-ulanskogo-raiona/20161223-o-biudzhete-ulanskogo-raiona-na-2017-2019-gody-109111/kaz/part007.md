@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109111/kaz/07.03.2017
+source: https://zan.gov.kz/client/#!/doc/109111/kaz/30.03.2017
 ---
 
 > *Ұлан аудандық мәслихаттың*  
