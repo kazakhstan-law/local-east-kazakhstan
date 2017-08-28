@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
+source: https://zan.gov.kz/client/#!/doc/109109/rus/28.08.2017
 ---
 
 > *Приложение 1*  
@@ -11,7 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 
 ## Бюджет района на 2017 год
 
-> *Сноска. Приложение 1 - в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 31.07.2017 № 20/2-VI (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 1 - в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 28.08.2017 № 21/2-VI (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Доходы</td>
-<td>7653919,3</td>
+<td>7682575,6</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -241,21 +241,21 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>4687299,3</td>
+<td>4715955,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>4687299,3</td>
+<td>4715955,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Трансферты из областного бюджета</td>
-<td>4687299,3</td>
+<td>4715955,6</td>
 </tr>
 <tr>
 <td colspan="9"></td>
@@ -292,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Затраты</td>
-<td>7786016,5</td>
+<td>7814672,8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -300,7 +300,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>526132,5</td>
+<td>526327,0</td>
 </tr>
 <tr>
 <td></td>
@@ -380,7 +380,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Финансовая деятельность</td>
-<td>35359,0</td>
+<td>35453,5</td>
 </tr>
 <tr>
 <td></td>
@@ -388,7 +388,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2">452</td>
 <td colspan="2"></td>
 <td>Отдел финансов района (города областного значения)</td>
-<td>35359,0</td>
+<td>35453,5</td>
 </tr>
 <tr>
 <td></td>
@@ -396,7 +396,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по реализации государственной политики в области исполнения бюджета и управления коммунальной собственностью района (города областного значения)</td>
-<td>33921,2</td>
+<td>34015,7</td>
 </tr>
 <tr>
 <td></td>
@@ -420,7 +420,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Планирование и статистическая деятельность</td>
-<td>28803,0</td>
+<td>28903,0</td>
 </tr>
 <tr>
 <td></td>
@@ -428,7 +428,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2">453</td>
 <td colspan="2"></td>
 <td>Отдел экономики и бюджетного планирования района (города областного значения)</td>
-<td>28803,0</td>
+<td>28903,0</td>
 </tr>
 <tr>
 <td></td>
@@ -436,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по реализации государственной политики в области формирования и развития экономической политики, системы государственного планирования</td>
-<td>28803,0</td>
+<td>28903,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1083,7 +1083,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
-<td>Благоустройств и озеленение населенных пунктов</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
 <td>452,0</td>
 </tr>
 <tr>
@@ -1276,7 +1276,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>102258,0</td>
+<td>98375,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1284,7 +1284,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Сельское хозяйство</td>
-<td>80058,0</td>
+<td>76175,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1308,7 +1308,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2">473</td>
 <td colspan="2"></td>
 <td>Отдел ветеринарии района (города областного значения)</td>
-<td>53570,0</td>
+<td>49687,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1340,7 +1340,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Проведение ветеринарных мероприятий по энзоотическим болезням животных</td>
-<td>4222,0</td>
+<td>339,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1516,7 +1516,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>350063,6</td>
+<td>382408,4</td>
 </tr>
 <tr>
 <td></td>
@@ -1524,7 +1524,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
-<td>350063,6</td>
+<td>382408,4</td>
 </tr>
 <tr>
 <td></td>
@@ -1532,7 +1532,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2">452</td>
 <td colspan="2"></td>
 <td>Отдел финансов района (города областного значения)</td>
-<td>26987,6</td>
+<td>59332,4</td>
 </tr>
 <tr>
 <td></td>
@@ -1540,7 +1540,7 @@ source: https://zan.gov.kz/client/#!/doc/109109/rus/31.07.2017
 <td colspan="2"></td>
 <td colspan="2">012</td>
 <td>Резерв местного исполнительного органа района (города областного значения)</td>
-<td>26987,6</td>
+<td>59332,4</td>
 </tr>
 <tr>
 <td></td>
