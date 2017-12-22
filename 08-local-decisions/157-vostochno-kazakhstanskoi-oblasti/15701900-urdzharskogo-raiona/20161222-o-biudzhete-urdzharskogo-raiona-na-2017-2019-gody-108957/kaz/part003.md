@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108957/kaz/30.11.2017
+source: https://zan.gov.kz/client/#!/doc/108957/kaz/22.12.2017
 ---
 
 > *Үржар аудандық мәслихатының*  
