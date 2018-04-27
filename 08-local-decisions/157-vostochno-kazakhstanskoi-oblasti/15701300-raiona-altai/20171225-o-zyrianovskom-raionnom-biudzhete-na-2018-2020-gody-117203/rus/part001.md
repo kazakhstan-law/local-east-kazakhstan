@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
+source: https://zan.gov.kz/client/#!/doc/117203/rus/27.04.2018
 ---
 
 > *Приложение 1*  
@@ -11,7 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 
 ## Районный бюджет на 2018 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 03.04.2018 № 27/17-VI (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 1 в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 27.04.2018 № 29/2-VI (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Доходы</td>
-<td>6221878,0</td>
+<td>6284711,6</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -248,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>3687738,0</td>
+<td>3750571,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -269,14 +269,14 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>3562962,0</td>
+<td>3625795,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Трансферты из областного бюджета</td>
-<td>3562962,0</td>
+<td>3625795,6</td>
 </tr>
 <tr>
 <td colspan="9"></td>
@@ -313,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Затраты</td>
-<td>6262722,5</td>
+<td>6325556,1</td>
 </tr>
 <tr>
 <td>01</td>
@@ -785,7 +785,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>569449,0</td>
+<td>561006,0</td>
 </tr>
 <tr>
 <td></td>
@@ -833,7 +833,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальная помощь</td>
-<td>501926,0</td>
+<td>493483,0</td>
 </tr>
 <tr>
 <td></td>
@@ -841,7 +841,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>501926,0</td>
+<td>493483,0</td>
 </tr>
 <tr>
 <td></td>
@@ -849,7 +849,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2">002</td>
 <td>Программа занятости</td>
-<td>94248,0</td>
+<td>87553,0</td>
 </tr>
 <tr>
 <td></td>
@@ -873,7 +873,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2">007</td>
 <td>Социальная помощь отдельным категориям нуждающихся граждан по решениям местных представительных органов</td>
-<td>69706,0</td>
+<td>67958,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1097,7 +1097,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>287474,0</td>
+<td>288179,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1169,7 +1169,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Информационное пространство</td>
-<td>103493,0</td>
+<td>103924,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1177,7 +1177,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2">478</td>
 <td colspan="2"></td>
 <td>Отдел внутренней политики, культуры и развития языков района (города областного значения)</td>
-<td>103493,0</td>
+<td>103924,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1193,7 +1193,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2">007</td>
 <td>Функционирование районных (городских) библиотек</td>
-<td>77816,0</td>
+<td>78247,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1233,7 +1233,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие услуги по организации культуры, спорта, туризма и информационного пространства</td>
-<td>29766,0</td>
+<td>30040,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1241,7 +1241,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2">478</td>
 <td colspan="2"></td>
 <td>Отдел внутренней политики, культуры и развития языков района (города областного значения)</td>
-<td>29766,0</td>
+<td>30040,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1258,6 +1258,14 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2">004</td>
 <td>Реализация мероприятий в сфере молодежной политики</td>
 <td>6697,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">032</td>
+<td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
+<td>274,0</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1449,7 +1457,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
-<td>251359,0</td>
+<td>321930,6</td>
 </tr>
 <tr>
 <td></td>
@@ -1457,7 +1465,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Автомобильный транспорт</td>
-<td>251359,0</td>
+<td>321930,6</td>
 </tr>
 <tr>
 <td></td>
@@ -1481,7 +1489,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2">492</td>
 <td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции района (города областного значения)</td>
-<td>240909,0</td>
+<td>311480,6</td>
 </tr>
 <tr>
 <td></td>
@@ -1489,7 +1497,7 @@ source: https://zan.gov.kz/client/#!/doc/117203/rus/03.04.2018
 <td colspan="2"></td>
 <td colspan="2">045</td>
 <td>Капитальный и средний ремонт автомобильных дорог районного значения и улиц населенных пунктов</td>
-<td>240909,0</td>
+<td>311480,6</td>
 </tr>
 <tr>
 <td>13</td>
