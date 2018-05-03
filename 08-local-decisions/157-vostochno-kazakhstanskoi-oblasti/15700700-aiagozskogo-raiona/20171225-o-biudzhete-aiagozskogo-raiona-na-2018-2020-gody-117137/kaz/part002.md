@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117137/kaz/15.03.2018
+source: https://zan.gov.kz/client/#!/doc/117137/kaz/03.05.2018
 ---
 
 > *Аягөз ауданы маслихатының*  
