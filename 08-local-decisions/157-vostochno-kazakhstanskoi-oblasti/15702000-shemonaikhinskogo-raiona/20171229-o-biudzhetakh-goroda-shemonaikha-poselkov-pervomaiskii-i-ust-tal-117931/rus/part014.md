@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117931/rus/26.03.2018
+source: https://zan.gov.kz/client/#!/doc/117931/rus/21.05.2018
 ---
 
 > *Приложение 14*  
@@ -1924,7 +1924,7 @@ source: https://zan.gov.kz/client/#!/doc/117931/rus/26.03.2018
 
 ## Бюджет Зевакинского сельского округа Шемонаихинского района на 2018 год
 
-> *Сноска. Приложение 19 в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 26.03.2018 № 22/2-VI (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 19 в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 21.05.2018 № 25/2-VI (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -1950,29 +1950,29 @@ source: https://zan.gov.kz/client/#!/doc/117931/rus/26.03.2018
 <td></td>
 <td></td>
 <td></td>
-<td>1.ДОХОДЫ</td>
-<td>29689</td>
+<td>1. ДОХОДЫ</td>
+<td>31189</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>13344</td>
+<td>14844</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Подоходный налог</td>
-<td>8500</td>
+<td>10000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>8500</td>
+<td>10000</td>
 </tr>
 <tr>
 <td></td>
@@ -2079,7 +2079,7 @@ source: https://zan.gov.kz/client/#!/doc/117931/rus/26.03.2018
 <td></td>
 <td></td>
 <td colspan="2">II. ЗАТРАТЫ</td>
-<td colspan="2">29689</td>
+<td colspan="2">31189</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2087,7 +2087,7 @@ source: https://zan.gov.kz/client/#!/doc/117931/rus/26.03.2018
 <td></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">20859</td>
+<td colspan="2">22359</td>
 </tr>
 <tr>
 <td></td>
@@ -2095,7 +2095,7 @@ source: https://zan.gov.kz/client/#!/doc/117931/rus/26.03.2018
 <td></td>
 <td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">20859</td>
+<td colspan="2">22359</td>
 </tr>
 <tr>
 <td></td>
@@ -2103,7 +2103,7 @@ source: https://zan.gov.kz/client/#!/doc/117931/rus/26.03.2018
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">20859</td>
+<td colspan="2">22359</td>
 </tr>
 <tr>
 <td></td>
@@ -2119,7 +2119,7 @@ source: https://zan.gov.kz/client/#!/doc/117931/rus/26.03.2018
 <td></td>
 <td>022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td colspan="2">3130</td>
+<td colspan="2">4630</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2241,7 +2241,7 @@ source: https://zan.gov.kz/client/#!/doc/117931/rus/26.03.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">III .Чистое бюджетное кредитование</td>
+<td colspan="2">III. Чистое бюджетное кредитование</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2265,7 +2265,7 @@ source: https://zan.gov.kz/client/#!/doc/117931/rus/26.03.2018
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">IV.Сальдо по операциям с финансовыми активами</td>
+<td colspan="2">IV. Сальдо по операциям с финансовыми активами</td>
 <td>0</td>
 </tr>
 <tr>
