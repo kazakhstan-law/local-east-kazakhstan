@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117295/kaz/22.06.2018
+source: https://zan.gov.kz/client/#!/doc/117295/kaz/06.09.2018
 ---
 
 > *Абай аудандық мәслихатының*  
