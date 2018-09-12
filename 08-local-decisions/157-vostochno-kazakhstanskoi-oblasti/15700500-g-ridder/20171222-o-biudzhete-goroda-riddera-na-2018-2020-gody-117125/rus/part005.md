@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117125/rus/20.06.2018
+source: https://zan.gov.kz/client/#!/doc/117125/rus/12.09.2018
 ---
 
 > *Приложение 5 к решению ХVIII сессии Риддерского городского маслихата*  

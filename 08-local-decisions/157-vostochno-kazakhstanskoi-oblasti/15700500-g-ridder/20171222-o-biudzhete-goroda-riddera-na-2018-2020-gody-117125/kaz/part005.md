@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117125/kaz/20.06.2018
+source: https://zan.gov.kz/client/#!/doc/117125/kaz/12.09.2018
 ---
 
 > *2017 жылғы 22 желтоқсандағы № 18/2-VI*  
