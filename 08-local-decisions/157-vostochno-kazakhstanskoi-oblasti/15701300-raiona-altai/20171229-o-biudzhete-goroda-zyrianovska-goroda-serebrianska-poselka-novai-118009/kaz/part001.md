@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
+source: https://zan.gov.kz/client/#!/doc/118009/kaz/24.09.2018
 ---
 
 > *Зырян ауданының мәслихатының*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 
 ## 2018 жылға арналған Зырян қаласының бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Зырян ауданының мәслихатының 09.07.2018 № 32/2-VI шешімімен (01.01.2018 бастап қолданысқа енгізіледі)*
+> *Ескерту. 1-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Зырян ауданының мәслихатының 24.09.2018 № 35/2-VI шешімімен (01.01.2018 бастап қолданысқа енгізіледі)*
 
 <table>
 <tr>
@@ -33,11 +33,11 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td colspan="2">Кірістер атауы</td>
 </tr>
 <tr>
-<td colspan="2">I.</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Кірістер</td>
-<td>315305,2</td>
+<td colspan="2"></td>
+<td colspan="2">I. Кірістер</td>
+<td>319005,2</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -149,21 +149,21 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер түсімі</td>
-<td>44974,0</td>
+<td>48674,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>44974,0</td>
+<td>48674,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>44974,0</td>
+<td>48674,0</td>
 </tr>
 <tr>
 <td colspan="9"></td>
@@ -195,12 +195,12 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td>Шығындар атауы</td>
 </tr>
 <tr>
-<td>II.</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Шығындар</td>
-<td>315305,2</td>
+<td>II. Шығындар</td>
+<td>319005,2</td>
 </tr>
 <tr>
 <td>01</td>
@@ -296,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Көлiк және коммуникация</td>
-<td>61300,0</td>
+<td>65000,0</td>
 </tr>
 <tr>
 <td></td>
@@ -304,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Автомобиль көлiгi</td>
-<td>61300,0</td>
+<td>65000,0</td>
 </tr>
 <tr>
 <td></td>
@@ -312,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>61300,0</td>
+<td>65000,0</td>
 </tr>
 <tr>
 <td></td>
@@ -320,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td colspan="2"></td>
 <td colspan="2">013</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>61300,0</td>
+<td>65000,0</td>
 </tr>
 <tr>
 <td>15</td>
@@ -383,7 +383,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>IV.Қаржы активтерімен операциялар бойынша сальдо</td>
+<td>IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>0,0</td>
 </tr>
 <tr>
@@ -407,7 +407,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>V.Бюджет тапшылығы (профициті)</td>
+<td>V. Бюджет тапшылығы (профициті)</td>
 <td>0,0</td>
 </tr>
 <tr>
@@ -415,7 +415,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>VI.Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>0,0</td>
 </tr>
 <tr>
@@ -2558,7 +2558,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 
 ## 2018 жылға арналған Жаңа Бұқтырма кентінің бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Зырян ауданының мәслихатының 09.07.2018 № 32/2-VI шешімімен (01.01.2018 бастап қолданысқа енгізіледі)*
+> *Ескерту. 7-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Зырян ауданының мәслихатының 24.09.2018 № 35/2-VI шешімімен (01.01.2018 бастап қолданысқа енгізіледі)*
 
 <table>
 <tr>
@@ -2581,10 +2581,10 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td colspan="2">Кірістер атауы</td>
 </tr>
 <tr>
-<td colspan="2">I.</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Кірістер</td>
+<td colspan="2"></td>
+<td colspan="2">I. Кірістер</td>
 <td>43126,9</td>
 </tr>
 <tr>
@@ -2729,11 +2729,11 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td>Шығындар атауы</td>
 </tr>
 <tr>
-<td>II.</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Шығындар</td>
+<td>II. Шығындар</td>
 <td>43126,9</td>
 </tr>
 <tr>
@@ -2846,7 +2846,15 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td colspan="2"></td>
 <td colspan="2">013</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>8335,0</td>
+<td>2500,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">045</td>
+<td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
+<td>5835,0</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2926,14 +2934,6 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0,0,</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>V.Бюджет тапшылығы (профициті)</td>
 <td>0,0</td>
 </tr>
 <tr>
@@ -2941,7 +2941,15 @@ source: https://zan.gov.kz/client/#!/doc/118009/kaz/09.07.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>VI.Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>V. Бюджет тапшылығы (профициті)</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>0,0</td>
 </tr>
 <tr>
