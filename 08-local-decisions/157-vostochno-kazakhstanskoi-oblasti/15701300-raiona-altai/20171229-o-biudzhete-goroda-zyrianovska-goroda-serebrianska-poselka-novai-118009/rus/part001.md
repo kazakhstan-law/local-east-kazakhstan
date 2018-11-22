@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
+source: https://zan.gov.kz/client/#!/doc/118009/rus/22.11.2018
 ---
 
 > *Приложение 1*  
@@ -11,7 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 
 ## Бюджет города Зыряновска на 2018 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 24.09.2018 № 35/2-VI (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 1 в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 22.11.2018 № 38/2-VI (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -38,91 +38,91 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">I. Доходы</td>
-<td>319005,2</td>
+<td>359242,4</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td>266299,0</td>
+<td>306021,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td>97739,0</td>
+<td>103980,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>97739,0</td>
+<td>103980,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Налоги на собственность</td>
-<td>167760,0</td>
+<td>200775,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Налоги на имущество</td>
-<td>5933,0</td>
+<td>4672,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Земельный налог</td>
-<td>73645,0</td>
+<td>98595,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Налог на транспортные средства</td>
-<td>88182,0</td>
+<td>97507,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="2">Внутренние налоги на товары, работы и услуги</td>
-<td>800,0</td>
+<td>1265,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>800,0</td>
+<td>1265,2</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Неналоговые поступления</td>
-<td>4032,2</td>
+<td>4568,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td>3510,0</td>
+<td>4046,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>3510,0</td>
+<td>4046,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -150,21 +150,21 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>48674,0</td>
+<td>48653,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>48674,0</td>
+<td>48653,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td>48674,0</td>
+<td>48653,1</td>
 </tr>
 <tr>
 <td colspan="9"></td>
@@ -201,7 +201,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td>319005,2</td>
+<td>359242,4</td>
 </tr>
 <tr>
 <td>01</td>
@@ -209,7 +209,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>41223,2</td>
+<td>41367,3</td>
 </tr>
 <tr>
 <td></td>
@@ -217,7 +217,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>41223,2</td>
+<td>41367,3</td>
 </tr>
 <tr>
 <td></td>
@@ -225,7 +225,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>41223,2</td>
+<td>41367,3</td>
 </tr>
 <tr>
 <td></td>
@@ -233,7 +233,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>41223,2</td>
+<td>41367,3</td>
 </tr>
 <tr>
 <td>07</td>
@@ -241,7 +241,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>93861,0</td>
+<td>120196,0</td>
 </tr>
 <tr>
 <td></td>
@@ -249,7 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>93861,0</td>
+<td>120196,0</td>
 </tr>
 <tr>
 <td></td>
@@ -257,7 +257,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>93861,0</td>
+<td>120196,0</td>
 </tr>
 <tr>
 <td></td>
@@ -265,7 +265,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>20000,0</td>
+<td>28500,0</td>
 </tr>
 <tr>
 <td></td>
@@ -273,7 +273,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>21000,0</td>
+<td>39000,0</td>
 </tr>
 <tr>
 <td></td>
@@ -281,7 +281,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">010</td>
 <td>Содержание мест захоронений и погребение безродных</td>
-<td>1500,0</td>
+<td>1335,0</td>
 </tr>
 <tr>
 <td></td>
@@ -329,7 +329,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферты</td>
-<td>118921,0</td>
+<td>132679,1</td>
 </tr>
 <tr>
 <td></td>
@@ -337,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферты</td>
-<td>118921,0</td>
+<td>132679,1</td>
 </tr>
 <tr>
 <td></td>
@@ -345,7 +345,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>118921,0</td>
+<td>132679,1</td>
 </tr>
 <tr>
 <td></td>
@@ -353,7 +353,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">043</td>
 <td>Бюджетные изъятия</td>
-<td>118921,0</td>
+<td>132679,1</td>
 </tr>
 <tr>
 <td></td>
@@ -1353,7 +1353,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 
 ## Бюджет города Серебрянска на 2018 год
 
-> *Сноска. Пункт 4 в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 09.07.2018 № 32/2-VI (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 4 в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 22.11.2018 № 38/2-VI (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -1376,18 +1376,18 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">Наименование доходов</td>
 </tr>
 <tr>
-<td colspan="2">I.</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Доходы</td>
-<td>79580,0</td>
+<td colspan="2"></td>
+<td colspan="2">I. Доходы</td>
+<td>79493,7</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td>31770,0</td>
+<td>32184,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1408,53 +1408,67 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Налоги на собственность</td>
-<td>17330,0</td>
+<td>17744,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Налоги на имущество</td>
-<td>450,0</td>
+<td>617,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Земельный налог</td>
-<td>2000,0</td>
+<td>2884,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Налог на транспортные средства</td>
-<td>14880,0</td>
+<td>14242,9</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Неналоговые поступления</td>
-<td>1078,0</td>
+<td>2879,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td>620,0</td>
+<td>2409,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>620,0</td>
+<td>2409,3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">04</td>
+<td colspan="2"></td>
+<td colspan="2">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>12,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="2">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
+<td>12,2</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">06</td>
 <td colspan="2"></td>
 <td colspan="2">Прочие неналоговые поступления</td>
 <td>458,0</td>
@@ -1462,7 +1476,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">1</td>
 <td colspan="2">Прочие неналоговые поступления</td>
 <td>458,0</td>
 </tr>
@@ -1478,21 +1492,21 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>46732,0</td>
+<td>44429,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>46732,0</td>
+<td>44429,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td>46732,0</td>
+<td>44429,3</td>
 </tr>
 <tr>
 <td colspan="9"></td>
@@ -1524,12 +1538,12 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td>Наименование расходов</td>
 </tr>
 <tr>
-<td>II.</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Затраты</td>
-<td>79580,0</td>
+<td>II.Затраты</td>
+<td>79493,7</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1537,7 +1551,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>36122,0</td>
+<td>37317,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1545,7 +1559,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>36122,0</td>
+<td>37317,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1553,7 +1567,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>36122,0</td>
+<td>37317,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1561,7 +1575,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>36122,0</td>
+<td>37317,5</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1617,7 +1631,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
-<td>37600,0</td>
+<td>36318,2</td>
 </tr>
 <tr>
 <td></td>
@@ -1625,7 +1639,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Автомобильный транспорт</td>
-<td>37600,0</td>
+<td>36318,2</td>
 </tr>
 <tr>
 <td></td>
@@ -1633,7 +1647,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>37600,0</td>
+<td>36318,2</td>
 </tr>
 <tr>
 <td></td>
@@ -1649,7 +1663,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">045</td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>18200,0</td>
+<td>16918,2</td>
 </tr>
 <tr>
 <td></td>
@@ -2565,7 +2579,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 
 ## Бюджет поселка Новая Бухтарма на 2018 год
 
-> *Сноска. Приложение 7 в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 24.09.2018 № 35/2-VI (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 7 в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 22.11.2018 № 38/2-VI (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -2592,14 +2606,14 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">I. Доходы</td>
-<td>43126,9</td>
+<td>42672,6</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td>28577,0</td>
+<td>27967,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2620,49 +2634,63 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Налоги на собственность</td>
-<td>16077,0</td>
+<td>15439,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Налоги на имущество</td>
-<td>2087,0</td>
+<td>1230,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Земельный налог</td>
-<td>1090,0</td>
+<td>1680,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Налог на транспортные средства</td>
-<td>12900,0</td>
+<td>12529,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">05</td>
+<td colspan="2"></td>
+<td colspan="2">Внутренние налоги на товары, работы и услуги</td>
+<td>28,9</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="2">Сборы за ведение предпринимательской и профессиональной деятельности</td>
+<td>28,9</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Неналоговые поступления</td>
-<td>14236,9</td>
+<td>14412,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td>1050,0</td>
+<td>1225,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>1050,0</td>
+<td>1225,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2690,21 +2718,21 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>313,0</td>
+<td>292,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>313,0</td>
+<td>292,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td>313,0</td>
+<td>292,0</td>
 </tr>
 <tr>
 <td colspan="9"></td>
@@ -2741,7 +2769,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td>43126,9</td>
+<td>42672,6</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2749,7 +2777,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>20376,9</td>
+<td>21325,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2757,7 +2785,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>20376,9</td>
+<td>21325,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2765,7 +2793,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>20376,9</td>
+<td>21325,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2773,7 +2801,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>20376,9</td>
+<td>21325,3</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2781,7 +2809,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>8560,0</td>
+<td>7357,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2789,7 +2817,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>8560,0</td>
+<td>7357,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2797,7 +2825,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>8560,0</td>
+<td>7357,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2805,7 +2833,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>3860,0</td>
+<td>2860,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2813,7 +2841,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>2200,0</td>
+<td>2026,5</td>
 </tr>
 <tr>
 <td></td>
@@ -2821,7 +2849,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>2500,0</td>
+<td>2470,8</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2829,7 +2857,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
-<td>8335,0</td>
+<td>2500,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2837,7 +2865,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Автомобильный транспорт</td>
-<td>8335,0</td>
+<td>2500,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2845,7 +2873,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>8335,0</td>
+<td>2500,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2861,7 +2889,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">045</td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>5835,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2869,7 +2897,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферты</td>
-<td>5855,0</td>
+<td>11490,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2877,7 +2905,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферты</td>
-<td>5855,0</td>
+<td>11490,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2885,7 +2913,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5855,0</td>
+<td>11490,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2893,7 +2921,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">043</td>
 <td>Бюджетные изъятия</td>
-<td>5855,0</td>
+<td>11490,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3829,7 +3857,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 
 ## Бюджет поселка Зубовск на 2018 год
 
-> *Сноска. Пункт 10 в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 09.07.2018 № 32/2-VI (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 10 в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 22.11.2018 № 38/2-VI (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -3852,81 +3880,81 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">Наименование доходов</td>
 </tr>
 <tr>
-<td colspan="2">I.</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Доходы</td>
-<td>20710,1</td>
+<td colspan="2"></td>
+<td colspan="2">I. Доходы</td>
+<td>19479,2</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Налоговые поступления</td>
-<td>9857,0</td>
+<td>6204,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Подоходный налог</td>
-<td>1163,0</td>
+<td>1515,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="2">Индивидуальный подоходный налог</td>
-<td>1163,0</td>
+<td>1515,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2">Налоги на собственность</td>
-<td>8694,0</td>
+<td>4688,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Налоги на имущество</td>
-<td>90,0</td>
+<td>68,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Земельный налог</td>
-<td>3910,0</td>
+<td>611,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="2">Налог на транспортные средства</td>
-<td>4694,0</td>
+<td>4008,3</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Неналоговые поступления</td>
-<td>2009,1</td>
+<td>1956,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Доходы от государственной собственности</td>
-<td>53,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="2">Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>53,0</td>
+<td>0,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3954,21 +3982,21 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>8844,0</td>
+<td>11318,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>8844,0</td>
+<td>11318,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td>8844,0</td>
+<td>11318,5</td>
 </tr>
 <tr>
 <td colspan="9"></td>
@@ -4000,12 +4028,12 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td>Наименование расходов</td>
 </tr>
 <tr>
-<td>II.</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Затраты</td>
-<td>20710,1</td>
+<td>II. Затраты</td>
+<td>19479,2</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4013,7 +4041,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>16610,1</td>
+<td>16100,2</td>
 </tr>
 <tr>
 <td></td>
@@ -4021,7 +4049,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>16610,1</td>
+<td>16100,2</td>
 </tr>
 <tr>
 <td></td>
@@ -4029,7 +4057,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>16610,1</td>
+<td>16100,2</td>
 </tr>
 <tr>
 <td></td>
@@ -4037,7 +4065,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>16610,1</td>
+<td>16100,2</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4085,7 +4113,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
-<td>3720,0</td>
+<td>2999,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4093,7 +4121,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Автомобильный транспорт</td>
-<td>3720,0</td>
+<td>2999,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4101,7 +4129,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>3720,0</td>
+<td>2999,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4109,7 +4137,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/24.09.2018
 <td colspan="2"></td>
 <td colspan="2">013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>3720,0</td>
+<td>2999,0</td>
 </tr>
 <tr>
 <td></td>
