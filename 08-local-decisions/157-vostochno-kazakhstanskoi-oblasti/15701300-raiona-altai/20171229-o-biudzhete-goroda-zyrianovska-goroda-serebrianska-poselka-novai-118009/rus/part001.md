@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/118009/rus/22.11.2018
+source: https://zan.gov.kz/client/#!/doc/118009/rus/11.12.2018
 ---
 
 > *Приложение 1*  
@@ -11,7 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/22.11.2018
 
 ## Бюджет города Зыряновска на 2018 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 22.11.2018 № 38/2-VI (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 1 в редакции решения маслихата Зыряновского района Восточно-Казахстанской области от 11.12.2018 № 40/2-VI (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/22.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">I. Доходы</td>
-<td>359242,4</td>
+<td>314581,4</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -150,21 +150,21 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/22.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поступления трансфертов</td>
-<td>48653,1</td>
+<td>3992,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>48653,1</td>
+<td>3992,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td>48653,1</td>
+<td>3992,1</td>
 </tr>
 <tr>
 <td colspan="9"></td>
@@ -201,7 +201,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/22.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td>359242,4</td>
+<td>314581,4</td>
 </tr>
 <tr>
 <td>01</td>
@@ -241,7 +241,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/22.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>120196,0</td>
+<td>75535,0</td>
 </tr>
 <tr>
 <td></td>
@@ -249,7 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/22.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>120196,0</td>
+<td>75535,0</td>
 </tr>
 <tr>
 <td></td>
@@ -257,7 +257,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/22.11.2018
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>120196,0</td>
+<td>75535,0</td>
 </tr>
 <tr>
 <td></td>
@@ -289,7 +289,7 @@ source: https://zan.gov.kz/client/#!/doc/118009/rus/22.11.2018
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>51361,0</td>
+<td>6700,0</td>
 </tr>
 <tr>
 <td>12</td>
