@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127968/kaz/21.12.2018
+source: https://zan.gov.kz/client/#!/doc/127968/kaz/12.04.2019
 ---
 
 > *Зырян ауданының мәслихатының*  
