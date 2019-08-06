@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/127753/rus/19.03.2019
+source: https://zan.gov.kz/client/#!/doc/127753/rus/06.08.2019
 ---
 
 > *Приложение 1*  
@@ -10,1736 +10,1741 @@ source: https://zan.gov.kz/client/#!/doc/127753/rus/19.03.2019
 
 ## Районный бюджет на 2019 год
 
-> *Сноска. Приложение 1 - в редакции решения Бородулихинского районного маслихата Восточно-Казахстанской области от 19.03.2019 № 36-6-VI (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 1 - в редакции решения Бородулихинского районного маслихата Восточно-Казахстанской области от 06.08.2019 № 40-2-VI (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="9">Категория</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Класс</td>
+<td colspan="2"></td>
+<td colspan="7">Класс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование доходов</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Наименование доходов</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>1.ДОХОДЫ</td>
-<td>5001665</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1.ДОХОДЫ</td>
+<td colspan="2">5833248,9</td>
 </tr>
 <tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Налоговые поступления</td>
-<td>918444</td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Налоговые поступления</td>
+<td colspan="2">918444</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Подоходный налог</td>
-<td>317018</td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="3">Подоходный налог</td>
+<td colspan="2">317018</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Индивидуальный подоходный налог</td>
-<td>317018</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="3">Индивидуальный подоходный налог</td>
+<td colspan="2">317018</td>
 </tr>
 <tr>
-<td></td>
-<td>03</td>
-<td></td>
-<td>Социальный налог</td>
-<td>261770</td>
+<td colspan="2"></td>
+<td colspan="2">03</td>
+<td colspan="2"></td>
+<td colspan="3">Социальный налог</td>
+<td colspan="2">261770</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Социальный налог</td>
-<td>261770</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="3">Социальный налог</td>
+<td colspan="2">261770</td>
 </tr>
 <tr>
-<td></td>
-<td>04</td>
-<td></td>
-<td>Налоги на собственность</td>
-<td>286524</td>
+<td colspan="2"></td>
+<td colspan="2">04</td>
+<td colspan="2"></td>
+<td colspan="3">Налоги на собственность</td>
+<td colspan="2">286524</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Налоги на имущество</td>
-<td>224036</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="3">Налоги на имущество</td>
+<td colspan="2">224036</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Земельный налог</td>
-<td>4952</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="3">Земельный налог</td>
+<td colspan="2">4952</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td>Налог на транспортные средства</td>
-<td>35756</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="3">Налог на транспортные средства</td>
+<td colspan="2">35756</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td>Единый земельный налог</td>
-<td>21780</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="3">Единый земельный налог</td>
+<td colspan="2">21780</td>
 </tr>
 <tr>
-<td></td>
-<td>05</td>
-<td></td>
-<td>Внутренние налоги на товары, работы и услуги</td>
-<td>46756</td>
+<td colspan="2"></td>
+<td colspan="2">05</td>
+<td colspan="2"></td>
+<td colspan="3">Внутренние налоги на товары, работы и услуги</td>
+<td colspan="2">46756</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Акцизы</td>
-<td>3340</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="3">Акцизы</td>
+<td colspan="2">3340</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Поступления за использование природных и других ресурсов</td>
-<td>29920</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">3</td>
+<td colspan="3">Поступления за использование природных и других ресурсов</td>
+<td colspan="2">29920</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>4</td>
-<td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
-<td>13496</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4</td>
+<td colspan="3">Сборы за ведение предпринимательской и профессиональной деятельности</td>
+<td colspan="2">13496</td>
 </tr>
 <tr>
-<td></td>
-<td>08</td>
-<td></td>
-<td>Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
-<td>6376</td>
+<td colspan="2"></td>
+<td colspan="2">08</td>
+<td colspan="2"></td>
+<td colspan="3">Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
+<td colspan="2">6376</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Государственная пошлина</td>
-<td>6376</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="3">Государственная пошлина</td>
+<td colspan="2">6376</td>
 </tr>
 <tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Неналоговые поступления</td>
-<td>6636</td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Неналоговые поступления</td>
+<td colspan="2">6638,7</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td>Доходы от государственной собственности</td>
-<td>3397</td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="3">Доходы от государственной собственности</td>
+<td colspan="2">3399,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td>Доходы от аренды имущества, находящегося в государственной собственности</td>
-<td>3364</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="3">Доходы от аренды имущества, находящегося в государственной собственности</td>
+<td colspan="2">3364</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>7</td>
-<td>Вознаграждение по кредитам, выданным из государственного бюджета</td>
-<td>33</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">7</td>
+<td colspan="3">Вознаграждение по кредитам, выданным из государственного бюджета</td>
+<td colspan="2">35,7</td>
 </tr>
 <tr>
-<td></td>
-<td>06</td>
-<td></td>
-<td>Прочие неналоговые поступления</td>
-<td>3239</td>
+<td colspan="2"></td>
+<td colspan="2">06</td>
+<td colspan="2"></td>
+<td colspan="3">Прочие неналоговые поступления</td>
+<td colspan="2">3239</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Прочие неналоговые поступления</td>
-<td>3239</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="3">Прочие неналоговые поступления</td>
+<td colspan="2">3239</td>
 </tr>
 <tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Поступления от продажи основного капитала</td>
-<td>1505</td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Поступления от продажи основного капитала</td>
+<td colspan="2">1505</td>
 </tr>
 <tr>
-<td></td>
-<td>03</td>
-<td></td>
-<td>Продажа земли и нематериальных активов</td>
-<td>1505</td>
+<td colspan="2"></td>
+<td colspan="2">03</td>
+<td colspan="2"></td>
+<td colspan="3">Продажа земли и нематериальных активов</td>
+<td colspan="2">1505</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>Продажа земли</td>
-<td>1209</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="3">Продажа земли</td>
+<td colspan="2">1209</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Продажа нематериальных активов</td>
-<td>296</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="3">Продажа нематериальных активов</td>
+<td colspan="2">296</td>
 </tr>
 <tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td>Поступления трансфертов</td>
-<td>4075080</td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Поступления трансфертов</td>
+<td colspan="2">4906661,2</td>
 </tr>
 <tr>
-<td></td>
-<td>02</td>
-<td></td>
-<td>Трансферты из вышестоящих органов государственного управления</td>
-<td>4075080</td>
+<td colspan="2"></td>
+<td colspan="2">02</td>
+<td colspan="2"></td>
+<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
+<td colspan="2">4906661,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td>Трансферты из областного бюджета</td>
-<td>4075080</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
+<td colspan="3">Трансферты из областного бюджета</td>
+<td colspan="2">4906661,2</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">
+<td colspan="8">Функциональная группа</td>
+<td colspan="2" rowspan="5">
 Сумма
 (тысяч тенге)
 </td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="7">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
+<td colspan="2"></td>
+<td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">Программа</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Наименование</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>II. ЗАТРАТЫ</td>
-<td>5065927,6</td>
+<td colspan="2">5897511,5</td>
 </tr>
 <tr>
 <td>01</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>561844</td>
+<td colspan="2">588414,9</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>278828</td>
+<td colspan="2">298325,1</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>112</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">112</td>
+<td colspan="2"></td>
 <td>Аппарат маслихата района (города областного значения)</td>
-<td>22541</td>
+<td colspan="2">23762</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности маслихата района (города областного значения)</td>
-<td>22156</td>
+<td colspan="2">23377</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>003</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">003</td>
 <td>Капитальные расходы государственного органа</td>
-<td>385</td>
+<td colspan="2">385</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>122</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">122</td>
+<td colspan="2"></td>
 <td>Аппарат акима района (города областного значения)</td>
-<td>102877</td>
+<td colspan="2">108361,1</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима района (города областного значения)</td>
-<td>98051</td>
+<td colspan="2">103955,1</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>003</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">003</td>
 <td>Капитальные расходы государственного органа</td>
-<td>4826</td>
+<td colspan="2">4406</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>123</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>153410</td>
+<td colspan="2">166202</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>153410</td>
+<td colspan="2">166202</td>
 </tr>
 <tr>
 <td></td>
-<td>2</td>
-<td></td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Финансовая деятельность</td>
-<td>42128</td>
+<td colspan="2">23902</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>452</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
 <td>Отдел финансов района (города областного значения)</td>
-<td>42148</td>
+<td colspan="2">23902</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики в области исполнения бюджета и управления коммунальной собственностью района (города областного значения)</td>
-<td>21068</td>
+<td colspan="2">22112</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>003</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">003</td>
 <td>Проведение оценки имущества в целях налогообложения</td>
-<td>1690</td>
+<td colspan="2">1633</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>010</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">010</td>
 <td>Приватизация, управление коммунальным имуществом, постприватизационная деятельность и регулирование споров, связанных с этим</td>
-<td>100</td>
+<td colspan="2">157</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>026</td>
-<td>Целевые текущие трансферты бюджетам города районного значения, села, поселка, сельского округа на повышение заработной платы отдельных категорий гражданских служащих, работников организаций, содержащихся за счет средств государственного бюджета, работников казенных предприятий в связи с изменением размера минимальной заработной платы</td>
-<td>19290</td>
-</tr>
-<tr>
-<td></td>
-<td>5</td>
-<td></td>
-<td></td>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Планирование и статистическая деятельность</td>
-<td>16660</td>
+<td colspan="2">18146</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>453</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">453</td>
+<td colspan="2"></td>
 <td>Отдел экономики и бюджетного планирования района (города областного значения)</td>
-<td>16660</td>
+<td colspan="2">18146</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики в области формирования и развития экономической политики, системы государственного планирования</td>
-<td>16660</td>
+<td colspan="2">18146</td>
 </tr>
 <tr>
 <td></td>
-<td>9</td>
-<td></td>
-<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Прочие государственные услуги общего характера</td>
-<td>224208</td>
+<td colspan="2">248041,8</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>458</td>
-<td></td>
-<td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>179979</td>
+<td colspan="2"></td>
+<td colspan="2">458</td>
+<td colspan="2"></td>
+<td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района ( города областного значения)</td>
+<td colspan="2">200562,8</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог</td>
-<td>19479</td>
+<td colspan="2">20618</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>013</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">013</td>
 <td>Капитальные расходы государственного органа</td>
-<td>500</td>
+<td colspan="2">10090</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>113</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">113</td>
 <td>Целевые текущие трансферты из местных бюджетов</td>
-<td>160000</td>
+<td colspan="2">169854,8</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>493</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">493</td>
+<td colspan="2"></td>
 <td>Отдел предпринимательства, промышленности и туризма района (города областного значения)</td>
-<td>13197</td>
+<td colspan="2">14222</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области развития предпринимательства, промышленности и туризма</td>
-<td>13197</td>
+<td colspan="2">14222</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>801</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">801</td>
+<td colspan="2"></td>
 <td>Отдел занятости, социальных программ и регистрации актов гражданского состояния района (города областного значения)</td>
-<td>31032</td>
+<td colspan="2">33257</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере занятости, социальных программ и регистрации актов гражданского состояния</td>
-<td>31032</td>
+<td colspan="2">33257</td>
 </tr>
 <tr>
 <td>02</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Оборона</td>
-<td>11219</td>
+<td colspan="2">19363,3</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Военные нужды</td>
-<td>8854</td>
+<td colspan="2">9212</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>122</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">122</td>
+<td colspan="2"></td>
 <td>Аппарат акима района (города областного значения)</td>
-<td>8854</td>
+<td colspan="2">9212</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>005</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">005</td>
 <td>Мероприятия в рамках исполнения всеобщей воинской обязанности</td>
-<td>8854</td>
+<td colspan="2">9212</td>
 </tr>
 <tr>
 <td></td>
-<td>2</td>
-<td></td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Организация работы по чрезвычайным ситуациям</td>
-<td>2365</td>
+<td colspan="2">10151,3</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>122</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">122</td>
+<td colspan="2"></td>
 <td>Аппарат акима района (города областного значения)</td>
-<td>2365</td>
+<td colspan="2">10151,3</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>006</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
 <td>Предупреждение и ликвидация чрезвычайных ситуаций масштаба района (города областного значения)</td>
-<td>2100</td>
+<td colspan="2">9887,3</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>007</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">007</td>
 <td>Мероприятия по профилактике и тушению степных пожаров районного (городского) масштаба, а также пожаров в населенных пунктах, в которых не созданы органы государственной противопожарной службы</td>
-<td>265</td>
+<td colspan="2">264</td>
 </tr>
 <tr>
 <td>04</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Образование</td>
-<td>2783929</td>
+<td colspan="2">3104726</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>86115</td>
+<td colspan="2">95278</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>464</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">464</td>
+<td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>86115</td>
+<td colspan="2">95278</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>040</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">040</td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td>86115</td>
+<td colspan="2">95278</td>
 </tr>
 <tr>
 <td></td>
-<td>2</td>
-<td></td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>2534873</td>
+<td colspan="2">2821937</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>464</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">464</td>
+<td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>2484948</td>
+<td colspan="2">2766751</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>003</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">003</td>
 <td>Общеобразовательное обучение</td>
-<td>2444348</td>
+<td colspan="2">2721415</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>006</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
 <td>Дополнительное образование для детей</td>
-<td>40600</td>
+<td colspan="2">45336</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>465</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">465</td>
+<td colspan="2"></td>
 <td>Отдел физической культуры и спорта района (города областного значения)</td>
-<td>49925</td>
+<td colspan="2">55186</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>017</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">017</td>
 <td>Дополнительное образование для детей и юношества по спорту</td>
-<td>49925</td>
+<td colspan="2">55186</td>
 </tr>
 <tr>
 <td></td>
-<td>9</td>
-<td></td>
-<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Прочие услуги в области образования</td>
-<td>162941</td>
+<td colspan="2">187511</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>464</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">464</td>
+<td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>162941</td>
+<td colspan="2">187511</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области образования</td>
-<td>24088</td>
+<td colspan="2">26123</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>004</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">004</td>
 <td>Информатизация системы образования в государственных учреждениях образования района (города областного значения)</td>
-<td>195</td>
+<td colspan="2">195</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>005</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">005</td>
 <td>Приобретение и доставка учебников, учебно-методических комплексов для государственных учреждений образования района (города областного значения)</td>
-<td>43822</td>
+<td colspan="2">62722</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>007</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">007</td>
 <td>Проведение школьных олимпиад, внешкольных мероприятий и конкурсов районного (городского) масштаба</td>
-<td>25</td>
+<td colspan="2">25</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>015</td>
-<td>Ежемесячная выплата денежных средств опекунам (попечителям) на содержание ребенка - сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
-<td>11944</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">015</td>
+<td>Ежемесячная выплата денежных средств опекунам (попечителям) на содержание ребенка- сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
+<td colspan="2">11944</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>023</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">023</td>
 <td>Методическая работа</td>
-<td>13951</td>
+<td colspan="2">15786</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>067</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">067</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>68916</td>
+<td colspan="2">70716</td>
 </tr>
 <tr>
 <td>06</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>335068</td>
+<td colspan="2">668489</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Социальное обеспечение</td>
-<td>50056</td>
+<td colspan="2">268210</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>464</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">464</td>
+<td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>5903</td>
+<td colspan="2">5002</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>030</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">030</td>
 <td>Содержание ребенка (детей), переданного патронатным воспитателям</td>
-<td>1511</td>
+<td colspan="2">1633</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>031</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">031</td>
 <td>Государственная поддержка по содержанию детей-сирот и детей, оставшихся без попечения родителей, в детских домах семейного типа и приемных семьях</td>
-<td>4392</td>
+<td colspan="2">3369</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>801</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">801</td>
+<td colspan="2"></td>
 <td>Отдел занятости, социальных программ и регистрации актов гражданского состояния района (города областного значения)</td>
-<td>44153</td>
+<td colspan="2">263208</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>010</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">010</td>
 <td>Государственная адресная социальная помощь</td>
-<td>44153</td>
+<td colspan="2">263208</td>
 </tr>
 <tr>
 <td></td>
-<td>2</td>
-<td></td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Социальная помощь</td>
-<td>275103</td>
+<td colspan="2">390370</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>801</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">801</td>
+<td colspan="2"></td>
 <td>Отдел занятости, социальных программ и регистрации актов гражданского состояния района (города областного значения)</td>
-<td>275103</td>
+<td colspan="2">390370</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>004</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">004</td>
 <td>Программа занятости</td>
-<td>56216</td>
+<td colspan="2">157024</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>006</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
 <td>Оказание социальной помощи на приобретение топлива специалистам здравоохранения, образования, социального обеспечения, культуры, спорта и ветеринарии в сельской местности в соответствии с законодательством Республики Казахстан</td>
-<td>23250</td>
+<td colspan="2">23250</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>007</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">007</td>
 <td>Оказание жилищной помощи</td>
-<td>22428</td>
+<td colspan="2">22428</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>009</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">009</td>
 <td>Материальное обеспечение детей-инвалидов, воспитывающихся и обучающихся на дому</td>
-<td>2809</td>
+<td colspan="2">2809</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>011</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
 <td>Социальная помощь отдельным категориям нуждающихся граждан по решениям местных представительных органов</td>
-<td>40292</td>
+<td colspan="2">42067</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>015</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">015</td>
 <td>Территориальные центры социального обслуживания пенсионеров и инвалидов</td>
-<td>86458</td>
+<td colspan="2">95414</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>017</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">017</td>
 <td>Обеспечение нуждающихся инвалидов обязательными гигиеническими средствами и предоставление услуг специалистами жестового языка, индивидуальными помощниками в соответствии с индивидуальной программой реабилитации инвалида</td>
-<td>6795</td>
+<td colspan="2">7125</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>023</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">023</td>
 <td>Обеспечение деятельности центров занятости населения</td>
-<td>36855</td>
+<td colspan="2">40253</td>
 </tr>
 <tr>
 <td></td>
-<td>9</td>
-<td></td>
-<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Прочие услуги в области социальной помощи и социального обеспечения</td>
-<td>9909</td>
+<td colspan="2">9909</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>801</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">801</td>
+<td colspan="2"></td>
 <td>Отдел занятости, социальных программ и регистрации актов гражданского состояния района (города областного значения)</td>
-<td>9909</td>
+<td colspan="2">9909</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>018</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">018</td>
 <td>Оплата услуг по зачислению выплате и доставке пособий и других социальных выплат</td>
-<td>2327</td>
+<td colspan="2">2327</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>050</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">050</td>
 <td>Обеспечение прав и улучшение качества жизни инвалидов в Республике Казахстан</td>
-<td>7582</td>
+<td colspan="2">7582</td>
 </tr>
 <tr>
 <td>07</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>312015</td>
+<td colspan="2">383853</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Жилищное хозяйство</td>
-<td>43638</td>
+<td colspan="2">72049</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>458</td>
-<td></td>
-<td>Отдел жилищно - коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>200</td>
+<td colspan="2"></td>
+<td colspan="2">458</td>
+<td colspan="2"></td>
+<td>Отдел жилищно- коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td colspan="2">28611</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>004</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">004</td>
 <td>Обеспечение жильем отдельных категорий граждан</td>
-<td>200</td>
+<td colspan="2">28611</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>466</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">466</td>
+<td colspan="2"></td>
 <td>Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td>43438</td>
+<td colspan="2">43438</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>003</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">003</td>
 <td>Проектирование и (или) строительство, реконструкция жилья коммунального жилищного фонда</td>
-<td>600</td>
+<td colspan="2">600</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>004</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">004</td>
 <td>Проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
-<td>42838</td>
+<td colspan="2">42838</td>
 </tr>
 <tr>
 <td></td>
-<td>2</td>
-<td></td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Коммунальное хозяйство</td>
-<td>267077</td>
+<td colspan="2">311004</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">458</td>
+<td colspan="2"></td>
+<td>Отдел жилищно- коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td colspan="2">31500</td>
+</tr>
+<tr>
 <td></td>
-<td>466</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">012</td>
+<td>Функционирование системы водоснабжения и водоотведения</td>
+<td colspan="2">31500</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">466</td>
+<td colspan="2"></td>
 <td>Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td>267077</td>
+<td colspan="2">279504</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>058</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">058</td>
 <td>Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td>267077</td>
+<td colspan="2">279504</td>
 </tr>
 <tr>
 <td></td>
-<td>3</td>
-<td></td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Благоустройство населенных пунктов</td>
-<td>800</td>
+<td colspan="2">800</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>123</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>800</td>
+<td colspan="2">800</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>008</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>800</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>458</td>
-<td></td>
-<td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>500</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>018</td>
-<td>Благоустройство и озеленение населенных пунктов</td>
-<td>500</td>
+<td colspan="2">800</td>
 </tr>
 <tr>
 <td>08</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>189386</td>
+<td colspan="2">201711</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Деятельность в области культуры</td>
-<td>71065</td>
+<td colspan="2">75533</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>455</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">455</td>
+<td colspan="2"></td>
 <td>Отдел культуры и развития языков района (города областного значения)</td>
-<td>71065</td>
+<td colspan="2">75533</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>003</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">003</td>
 <td>Поддержка культурно-досуговой работы</td>
-<td>71065</td>
+<td colspan="2">75533</td>
 </tr>
 <tr>
 <td></td>
-<td>2</td>
-<td></td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Спорт</td>
-<td>20762</td>
+<td colspan="2">21371</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>465</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">465</td>
+<td colspan="2"></td>
 <td>Отдел физической культуры и спорта района (города областного значения)</td>
-<td>20762</td>
+<td colspan="2">21371</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере физической культуры и спорта</td>
-<td>10387</td>
+<td colspan="2">10996</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>005</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">005</td>
 <td>Развитие массового спорта и национальных видов спорта</td>
-<td>3200</td>
+<td colspan="2">3200</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>006</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
 <td>Проведение спортивных соревнований на районном (города областного значения) уровне</td>
-<td>2175</td>
+<td colspan="2">2175</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>007</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">007</td>
 <td>Подготовка и участие членов сборных команд района (города областного значения) по различным видам спорта на областных спортивных соревнованиях</td>
-<td>5000</td>
+<td colspan="2">5000</td>
 </tr>
 <tr>
 <td></td>
-<td>3</td>
-<td></td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Информационное пространство</td>
-<td>59931</td>
+<td colspan="2">64600</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>455</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">455</td>
+<td colspan="2"></td>
 <td>Отдел культуры и развития языков района (города областного значения)</td>
-<td>49931</td>
+<td colspan="2">54600</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>006</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
 <td>Функционирование районных (городских) библиотек</td>
-<td>36242</td>
+<td colspan="2">39744</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>007</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">007</td>
 <td>Развитие государственного языка и других языков народа Казахстана</td>
-<td>13689</td>
+<td colspan="2">14856</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>456</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">456</td>
+<td colspan="2"></td>
 <td>Отдел внутренней политики района (города областного значения)</td>
-<td>10000</td>
+<td colspan="2">10000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>002</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">002</td>
 <td>Услуги по проведению государственной информационной политики</td>
-<td>10000</td>
+<td colspan="2">10000</td>
 </tr>
 <tr>
 <td></td>
-<td>9</td>
-<td></td>
-<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Прочие услуги по организации культуры, спорта, туризма и информационного пространства</td>
-<td>37628</td>
+<td colspan="2">40207</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>455</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">455</td>
+<td colspan="2"></td>
 <td>Отдел культуры и развития языков района (города областного значения)</td>
-<td>12037</td>
+<td colspan="2">12907</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области развития языков и культуры</td>
-<td>11662</td>
+<td colspan="2">12532</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>113</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">113</td>
 <td>Целевые текущие трансферты из местных бюджетов</td>
-<td>375</td>
+<td colspan="2">375</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>456</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">456</td>
+<td colspan="2"></td>
 <td>Отдел внутренней политики района (города областного значения)</td>
-<td>25591</td>
+<td colspan="2">27300</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в области информации, укрепления государственности и формирования социального оптимизма граждан</td>
-<td>16176</td>
+<td colspan="2">17516</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>003</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">003</td>
 <td>Реализация мероприятий в сфере молодежной политики</td>
-<td>9045</td>
+<td colspan="2">9414</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>032</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">032</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>370</td>
+<td colspan="2">370</td>
 </tr>
 <tr>
 <td>10</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>136622</td>
+<td colspan="2">141244</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Сельское хозяйство</td>
-<td>91048</td>
+<td colspan="2">94751</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>462</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">462</td>
+<td colspan="2"></td>
 <td>Отдел сельского хозяйства района (города областного значения)</td>
-<td>19270</td>
+<td colspan="2">21374</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере сельского хозяйства</td>
-<td>19030</td>
+<td colspan="2">21134</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>006</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
 <td>Капитальные расходы государственного органа</td>
-<td>240</td>
+<td colspan="2">240</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>473</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">473</td>
+<td colspan="2"></td>
 <td>Отдел ветеринарии района (города областного значения)</td>
-<td>71778</td>
+<td colspan="2">73377</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере ветеринарии</td>
-<td>21329</td>
+<td colspan="2">22928</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>007</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">007</td>
 <td>Организация отлова и уничтожения бродячих собак и кошек</td>
-<td>2240</td>
+<td colspan="2">2240</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>008</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
 <td>Возмещение владельцам стоимости изымаемых и уничтожаемых больных животных, продуктов и сырья животного происхождения</td>
-<td>909</td>
+<td colspan="2">909</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>009</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">009</td>
 <td>Проведение ветеринарных мероприятий по энзоотическим болезням животных</td>
-<td>235</td>
+<td colspan="2">235</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>011</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
 <td>Проведение противоэпизоотических мероприятий</td>
-<td>47065</td>
+<td colspan="2">47065</td>
 </tr>
 <tr>
 <td></td>
-<td>6</td>
-<td></td>
-<td></td>
+<td colspan="2">6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Земельные отношения</td>
-<td>14005</td>
+<td colspan="2">14924</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>463</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">463</td>
+<td colspan="2"></td>
 <td>Отдел земельных отношений района (города областного значения)</td>
-<td>14005</td>
+<td colspan="2">14924</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики в области регулирования земельных отношений на территории района (города областного значения)</td>
-<td>11405</td>
+<td colspan="2">12324</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>006</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
 <td>Землеустройство, проводимое при установлении границ районов, городов областного значения, районного значения, сельских округов, поселков, сел</td>
-<td>2600</td>
+<td colspan="2">2600</td>
 </tr>
 <tr>
 <td></td>
-<td>9</td>
-<td></td>
-<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Прочие услуги в области сельского, водного, лесного, рыбного хозяйства, охраны окружающей среды и земельных отношений</td>
-<td>31569</td>
+<td colspan="2">31569</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>453</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">453</td>
+<td colspan="2"></td>
 <td>
 Отдел экономики и бюджетного
 планирования района (города областного значения)
 </td>
-<td>31569</td>
+<td colspan="2">31569</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>099</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">099</td>
 <td>Реализация мер по оказанию социальной поддержки специалистов</td>
-<td>31569</td>
+<td colspan="2">31569</td>
 </tr>
 <tr>
 <td>11</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Промышленность, архитектурная, градостроительная и строительная деятельность</td>
-<td>12414</td>
+<td colspan="2">13262</td>
 </tr>
 <tr>
 <td></td>
-<td>2</td>
-<td></td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Архитектурная, градостроительная и строительная деятельность</td>
-<td>12414</td>
+<td colspan="2">13262</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>466</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">466</td>
+<td colspan="2"></td>
 <td>Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td>12414</td>
+<td colspan="2">13262</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>001</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
 <td>Услуги по реализации государственной политики в области строительства, улучшения архитектурного облика городов, районов и населенных пунктов области и обеспечению рационального и эффективного градостроительного освоения территории района (города областного значения)</td>
-<td>12414</td>
+<td colspan="2">13262</td>
 </tr>
 <tr>
 <td>12</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
-<td>185161,9</td>
+<td colspan="2">185133,9</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Автомобильный транспорт</td>
-<td>185161,9</td>
+<td colspan="2">185133,9</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>123</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>17094</td>
+<td colspan="2">17066</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>013</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
-<td>17094</td>
+<td colspan="2">17066</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>458</td>
-<td></td>
-<td>Отдел жилищно - коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>168067,9</td>
+<td colspan="2"></td>
+<td colspan="2">458</td>
+<td colspan="2"></td>
+<td>Отдел жилищно- коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td colspan="2">168067,9</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>023</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">023</td>
 <td>Обеспечение функционирования автомобильных дорог</td>
-<td>168067,9</td>
+<td colspan="2">168067,9</td>
 </tr>
 <tr>
 <td>13</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Прочие</td>
-<td>17000</td>
+<td colspan="2">70043</td>
 </tr>
 <tr>
 <td></td>
-<td>9</td>
-<td></td>
-<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Прочие</td>
-<td>17000</td>
+<td colspan="2">70043</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>452</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
 <td>Отдел финансов района (города областного значения)</td>
-<td>17000</td>
+<td colspan="2">70043</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>012</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">012</td>
 <td>Резерв местного исполнительного органа района(города областного значения)</td>
-<td>17000</td>
+<td colspan="2">17000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">026</td>
+<td>Целевые текущие трансферты бюджетам города районного значения, села, поселка, сельского округа на повышение заработной платы отдельных категорий гражданских служащих, работников организаций, содержащихся за счет средств государственного бюджета, работников казенных предприятий</td>
+<td colspan="2">44380</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">066</td>
+<td>Целевые текущие трансферты бюджетам города районного значения, села, поселка, сельского округа на повышение заработной платы отдельных категорий административных государственных служащих</td>
+<td colspan="2">8663</td>
 </tr>
 <tr>
 <td>14</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Обслуживание долга</td>
-<td>33</td>
+<td colspan="2">35,7</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Обслуживание долга</td>
-<td>33</td>
+<td colspan="2">35,7</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>452</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
 <td>Отдел финансов района (города областного значения)</td>
-<td>33</td>
+<td colspan="2">35,7</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>013</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">013</td>
 <td>Обслуживание долга местных исполнительных органов по выплате вознаграждений и иных платежей по займам из областного бюджета</td>
-<td>33</td>
+<td colspan="2">35,7</td>
 </tr>
 <tr>
 <td>15</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Трансферты</td>
-<td>521235,7</td>
+<td colspan="2">521235,7</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Трансферты</td>
-<td>521235,7</td>
+<td colspan="2">521235,7</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>452</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
 <td>Отдел финансов района (города областного значения)</td>
-<td>521235,7</td>
+<td colspan="2">521235,7</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>006</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
 <td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
-<td>31290,7</td>
+<td colspan="2">31290,7</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>024</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">024</td>
 <td>Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
-<td>155267</td>
+<td colspan="2">155267</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>038</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">038</td>
 <td>Субвенции</td>
-<td>273170</td>
+<td colspan="2">273170</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>051</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">051</td>
 <td>Трансферты органам местного самоуправления</td>
-<td>61508</td>
+<td colspan="2">61508</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>III .Чистое бюджетное кредитование</td>
-<td>25365</td>
+<td colspan="2">25365</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Бюджетные кредиты</td>
-<td>53025</td>
+<td colspan="2">53025</td>
 </tr>
 <tr>
 <td>10</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>53025</td>
+<td colspan="2">53025</td>
 </tr>
 <tr>
 <td></td>
-<td>9</td>
-<td></td>
-<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Прочие услуги в области сельского, водного, лесного, рыбного хозяйства, охраны окружающей среды и земельных отношений</td>
-<td>53025</td>
+<td colspan="2">53025</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>453</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">453</td>
+<td colspan="2"></td>
 <td>Отдел экономики и бюджетного планирования района (города областного значения)</td>
-<td>53025</td>
+<td colspan="2">53025</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>006</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
 <td>Бюджетные кредиты для реализации мер социальной поддержки специалистов</td>
-<td>53025</td>
+<td colspan="2">53025</td>
 </tr>
 <tr>
 <td></td>
-<td>5</td>
-<td></td>
-<td></td>
+<td colspan="2">5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Погашение бюджетных кредитов</td>
-<td>27660</td>
+<td colspan="2">27660</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>01</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td>Погашение бюджетных кредитов</td>
-<td>27660</td>
+<td colspan="2">27660</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td>27660</td>
+<td colspan="2">27660</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Приобретение финансовых активов</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Поступление от продажи финансовых активов государства</td>
-<td>0</td>
+<td colspan="2">0</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-89627,6</td>
+<td colspan="2">-89627,6</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>89627,6</td>
+<td colspan="2">89627,6</td>
 </tr>
 <tr>
 <td></td>
-<td>7</td>
-<td></td>
-<td></td>
+<td colspan="2">7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Поступления займов</td>
-<td>53025</td>
+<td colspan="2">53025</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>01</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td>Внутренние государственные займы</td>
-<td>53025</td>
+<td colspan="2">53025</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2</td>
 <td>Договоры займа</td>
-<td>53025</td>
+<td colspan="2">53025</td>
 </tr>
 <tr>
 <td>16</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Погашение займов</td>
-<td>27660</td>
+<td colspan="2">27660</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Погашение займов</td>
-<td>27660</td>
+<td colspan="2">27660</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>452</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">452</td>
+<td colspan="2"></td>
 <td>Отдел финансов района (города областного значения)</td>
-<td>27660</td>
+<td colspan="2">27660</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>008</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>27660</td>
+<td colspan="2">27660</td>
 </tr>
 <tr>
 <td></td>
-<td>8</td>
-<td></td>
-<td></td>
+<td colspan="2">8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>64262,6</td>
+<td colspan="2">64262,6</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>01</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
 <td>Остатки бюджетных средств</td>
-<td>64262,6</td>
+<td colspan="2">64262,6</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>64262,6</td>
+<td colspan="2">64262,6</td>
 </tr>
 </table>
 
@@ -4596,12 +4601,11 @@ source: https://zan.gov.kz/client/#!/doc/127753/rus/19.03.2019
 
 ## Затраты по программам аппаратов акимов сельских округов на 2019 год
 
+> *Сноска. Приложение 5 - в редакции решения Бородулихинского районного маслихата Восточно-Казахстанской области от 06.08.2019 № 40-2-VI (вводится в действие с 01.01.2019).*
+
 <table>
 <tr>
-<td>
-№
-п/п
-</td>
+<td>№ п/п</td>
 <td>
 Наименование аппаратов
 сельских (поселковых) округов
@@ -4629,193 +4633,92 @@ source: https://zan.gov.kz/client/#!/doc/127753/rus/19.03.2019
 <tr>
 <td>1</td>
 <td>ГУ Аппарат акима Андреевского сельского округа</td>
-<td>11770</td>
+<td>12362</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>2</td>
 <td>ГУ Аппарат акима Бакинского сельского округа</td>
-<td>13580</td>
+<td>15041</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>ГУ Аппарат акима Дмитриевского сельского округа</td>
-<td>13559</td>
+<td>14947</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>4</td>
 <td>ГУ Аппарат акима Жерновского сельского округа</td>
-<td>12765</td>
+<td>14020</td>
 <td></td>
 <td>3852</td>
 </tr>
 <tr>
 <td>5</td>
 <td>ГУ Аппарат акима Зубаирского сельского округа</td>
-<td>11661</td>
+<td>12194</td>
 <td>800</td>
 <td></td>
 </tr>
 <tr>
 <td>6</td>
 <td>ГУ Аппарат акима Красноярского сельского округа</td>
-<td>12471</td>
+<td>13525</td>
 <td></td>
 <td>8000</td>
 </tr>
 <tr>
 <td>7</td>
 <td>ГУ Аппарат акима Кунарлинского сельского округа</td>
-<td>13604</td>
+<td>14509</td>
 <td></td>
 <td>1290</td>
 </tr>
 <tr>
 <td>8</td>
 <td>ГУ Аппарат акима Новодворовского сельского округа</td>
-<td>12331</td>
+<td>13057</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>9</td>
 <td>ГУ Аппарат акима Петропавловского сельского округа</td>
-<td>14540</td>
+<td>15797</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>10</td>
 <td>ГУ Аппарат акима Подборного сельского округа</td>
-<td>13635</td>
+<td>14973</td>
 <td></td>
 <td>474</td>
 </tr>
 <tr>
 <td>11</td>
 <td>ГУ Аппарат акима Степного сельского округа</td>
-<td>11582</td>
+<td>12628</td>
 <td></td>
 <td>1830</td>
 </tr>
 <tr>
 <td>12</td>
 <td>ГУ Аппарат акима Таврического сельского округа</td>
-<td>11912</td>
+<td>13149</td>
 <td></td>
-<td>1648</td>
+<td>1620</td>
 </tr>
 <tr>
 <td></td>
 <td>ИТОГО</td>
-<td>153410</td>
+<td>166202</td>
 <td>800</td>
-<td>17094</td>
+<td>17066</td>
 </tr>
 </table>
-
-> *Приложение 6*  
-> *к решению Бородулихинского*  
-> *районного маслихата*  
-> *от 21 декабря 2018 года № 31-2-VI*
-
-## Распределение трансфертов органам местного самоуправления между аппаратами акимов сельских округов на 2019 год
-
-<table>
-<tr>
-<td></td>
-<td>Наименование аппаратов сельских (поселковых) округов</td>
-<td>Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td>1</td>
-<td>ГУ Аппарат акима Андреевского сельского округа</td>
-<td>4056</td>
-</tr>
-<tr>
-<td>2</td>
-<td>ГУ Аппарат акима Бакинского сельского округа</td>
-<td>6375</td>
-</tr>
-<tr>
-<td>3</td>
-<td>ГУ Аппарат акима Дмитриевского сельского округа</td>
-<td>4208</td>
-</tr>
-<tr>
-<td>4</td>
-<td>ГУ Аппарат акима Жерновского сельского округа</td>
-<td>4846</td>
-</tr>
-<tr>
-<td>5</td>
-<td>ГУ Аппарат акима Зубаирского сельского округа</td>
-<td>1553</td>
-</tr>
-<tr>
-<td>6</td>
-<td>ГУ Аппарат акима Красноярского сельского округа</td>
-<td>5815</td>
-</tr>
-<tr>
-<td>7</td>
-<td>ГУ Аппарат акима Кунарлинского сельского округа</td>
-<td>4955</td>
-</tr>
-<tr>
-<td>8</td>
-<td>ГУ Аппарат акима Новодворовского сельского округа</td>
-<td>6802</td>
-</tr>
-<tr>
-<td>9</td>
-<td>ГУ Аппарат акима Петропавловского сельского округа</td>
-<td>12350</td>
-</tr>
-<tr>
-<td>10</td>
-<td>ГУ Аппарат акима Подборного сельского округа</td>
-<td>4837</td>
-</tr>
-<tr>
-<td>11</td>
-<td>ГУ Аппарат акима Степного сельского округа</td>
-<td>2407</td>
-</tr>
-<tr>
-<td>12</td>
-<td>ГУ Аппарат акима Таврического сельского округа</td>
-<td>3304</td>
-</tr>
-<tr>
-<td></td>
-<td>ИТОГО</td>
-<td>61508</td>
-</tr>
-</table>
-
-> *Приложение 7*  
-> *к решению Бородулихинского*  
-> *районного маслихата*  
-> *от 21 декабря 2018 года № 31-2-VI*
-
-## Перечень решений Бородулихинского районного маслихата, признанных утратившими силу
-
-1. Решение Бородулихинского районного маслихата от 22 декабря 2017 года № 17-2-VI «О районном бюджете на 2018-2020 годы» (зарегистрировано в Реестре государственной регистрации нормативных правовых актов за номером 5362, опубликовано в Эталонном контрольном банке нормативных правовых актов Республики Казахстан в электронном виде 4 января 2018 года).
-
-2. Решение Бородулихинского районного маслихата от 13 марта 2018 года № 19-2-VI «О внесении изменений в решение Бородулихинского районного маслихата от 22 декабря 2017 года № 17-2-VI «О районном бюджете на 2018-2020 годы» (зарегистрировано в Реестре государственной регистрации нормативных правовых актов за номером 5552,опубликовано в Эталонном контрольном банке нормативных правовых актов Республики Казахстан в электронном виде 2 апреля 2018 года).
-
-3. Решение Бородулихинского районного маслихата от 27 апреля 2018 года № 21-2-VI «О внесении изменений в решение Бородулихинского районного маслихата от 22 декабря 2017 года № 17-2-VI «О районном бюджете на 2018-2020 годы» (зарегистрировано в Реестре государственной регистрации нормативных правовых актов за номером 5-8-155, опубликовано в Эталонном контрольном банке нормативных правовых актов Республики Казахстан в электронном виде 23 мая 2018 года).
-
-4. Решение Бородулихинского районного маслихата от 28 июня 2018 года № 23-10-VI «О внесении изменений и дополнения в решение Бородулихинского районного маслихата от 22 декабря 2017 года № 17-2-VI «О районном бюджете на 2018-2020 годы» (зарегистрировано в Реестре государственной регистрации нормативных правовых актов за номером 5-8-166, опубликовано в Эталонном контрольном банке нормативных правовых актов Республики Казахстан в электронном виде 16 июля 2018 года).
-
-5. Решение Бородулихинского районного маслихата от 12 сентября 2018 года № 25-2-VI «О внесении изменений в решение Бородулихинского районного маслихата от 22 декабря 2017 года № 17-2-VI «О районном бюджете на 2018-2020 годы» (зарегистрировано в Реестре государственной регистрации нормативных правовых актов за номером 5-8-170, опубликовано в Эталонном контрольном банке нормативных правовых актов Республики Казахстан в электронном виде 25 сентября 2018 года).
-
-6. Решение Бородулихинского районного маслихата от 19 октября 2018 года № 28-2-VI «О внесении изменений в решение Бородулихинского районного маслихата от 22 декабря 2017 года № 17-2-VI «О районном бюджете на 2018-2020 годы» (зарегистрировано в Реестре государственной регистрации нормативных правовых актов за номером 5-8-175, опубликовано в Эталонном контрольном банке нормативных правовых актов Республики Казахстан в электронном виде 6 ноября 2018 года).
-
-7. Решение Бородулихинского районного маслихата от 14 декабря 2018 года № 28-2-VI «О внесении изменений в решение Бородулихинского районного маслихата от 22 декабря 2017 года № 17-2-VI «О районном бюджете на 2018-2020 годы» (зарегистрировано в Реестре государственной регистрации нормативных правовых актов за номером 5-8-188).
