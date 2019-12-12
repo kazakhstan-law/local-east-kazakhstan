@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127943/kaz/01.11.2019
+source: https://zan.gov.kz/client/#!/doc/127943/kaz/12.12.2019
 ---
 
 > *Бесқарағай аудандық*  
