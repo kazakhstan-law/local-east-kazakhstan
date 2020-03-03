@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137766/kaz/23.12.2019
+source: https://zan.gov.kz/client/#!/doc/137766/kaz/03.03.2020
 ---
 
 > *2019 жылғы __ желтоқсандағы*  
@@ -30,11 +30,11 @@ source: https://zan.gov.kz/client/#!/doc/137766/kaz/23.12.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -304,12 +304,12 @@ source: https://zan.gov.kz/client/#!/doc/137766/kaz/23.12.2019
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td colspan="2">6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th colspan="2">6</th>
 </tr>
 </table>
 
@@ -1749,10 +1749,10 @@ source: https://zan.gov.kz/client/#!/doc/137766/kaz/23.12.2019
 
 <table>
 <tr>
-<td>1</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>4</td>
