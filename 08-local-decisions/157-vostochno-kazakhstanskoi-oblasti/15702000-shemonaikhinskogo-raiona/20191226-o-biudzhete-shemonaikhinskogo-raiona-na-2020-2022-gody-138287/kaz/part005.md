@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138287/kaz/26.12.2019
+source: https://zan.gov.kz/client/#!/doc/138287/kaz/01.04.2020
 ---
 
 > *Шемонаиха аудандық мәслихаты 2019 жылғы 26 желтоқсаны № 48/2-VI*  
