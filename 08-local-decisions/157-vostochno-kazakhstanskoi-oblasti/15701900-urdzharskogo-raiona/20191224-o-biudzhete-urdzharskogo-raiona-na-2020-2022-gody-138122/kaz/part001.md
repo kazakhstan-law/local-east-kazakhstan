@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138122/kaz/26.02.2020
+source: https://zan.gov.kz/client/#!/doc/138122/kaz/16.04.2020
 ---
 
 > *Үржар аудандық*  
