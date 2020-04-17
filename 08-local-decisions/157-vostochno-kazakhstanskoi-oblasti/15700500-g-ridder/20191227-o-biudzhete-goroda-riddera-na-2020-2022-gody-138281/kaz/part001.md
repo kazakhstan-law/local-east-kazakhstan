@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138281/kaz/20.03.2020
+source: https://zan.gov.kz/client/#!/doc/138281/kaz/17.04.2020
 ---
 
 > *«Риддер қаласы мәслихатының аппараты» ММ 2019 жылғы 27 желтоқсаны № 38/2-VI*  
