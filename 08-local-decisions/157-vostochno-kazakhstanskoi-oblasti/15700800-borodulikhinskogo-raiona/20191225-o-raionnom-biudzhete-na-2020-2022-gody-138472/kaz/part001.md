@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138472/kaz/31.03.2020
+source: https://zan.gov.kz/client/#!/doc/138472/kaz/20.04.2020
 ---
 
 > *«Шығыс Қазақстан облысы*  
