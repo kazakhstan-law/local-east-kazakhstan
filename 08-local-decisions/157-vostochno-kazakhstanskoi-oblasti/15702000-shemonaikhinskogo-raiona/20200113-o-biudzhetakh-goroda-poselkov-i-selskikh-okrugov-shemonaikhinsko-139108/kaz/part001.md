@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
+source: https://zan.gov.kz/client/#!/doc/139108/kaz/18.05.2020
 ---
 
 > *Шемонаиха аудандық мәслихатының*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 
 ## 2020 жылға арналған Шемонаиха ауданы Шемонаиха қаласының бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 17.04.2020 № 51/2-VI (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 17.04.2020 № 51/2-VI (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 18.05.2020 № 52/2-VI (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -40,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>I. КІРІСТЕР</td>
-<td>527265</td>
+<td>521247</td>
 </tr>
 <tr>
 <td>1</td>
@@ -110,21 +110,21 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>386941</td>
+<td>380923</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>386941</td>
+<td>380923</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>386941</td>
+<td>380923</td>
 </tr>
 </table>
 
@@ -164,7 +164,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>II.ШЫҒЫНДАР</td>
-<td colspan="2">545568</td>
+<td colspan="2">700302</td>
 </tr>
 <tr>
 <td>01</td>
@@ -172,7 +172,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">46824</td>
+<td colspan="2">45088</td>
 </tr>
 <tr>
 <td></td>
@@ -180,7 +180,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">46824</td>
+<td colspan="2">45088</td>
 </tr>
 <tr>
 <td></td>
@@ -188,7 +188,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">46824</td>
+<td colspan="2">45088</td>
 </tr>
 <tr>
 <td></td>
@@ -196,7 +196,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">43120</td>
+<td colspan="2">41384</td>
 </tr>
 <tr>
 <td></td>
@@ -212,7 +212,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td colspan="2">249926</td>
+<td colspan="2">244689</td>
 </tr>
 <tr>
 <td></td>
@@ -220,7 +220,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td colspan="2">249926</td>
+<td colspan="2">244689</td>
 </tr>
 <tr>
 <td></td>
@@ -228,7 +228,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">249926</td>
+<td colspan="2">244689</td>
 </tr>
 <tr>
 <td></td>
@@ -244,15 +244,15 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td>041</td>
 <td>Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td colspan="2">221324</td>
+<td colspan="2">216087</td>
 </tr>
 <tr>
 <td>07</td>
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">93129</td>
+<td>Тұрғынүй-коммуналдық шаруашылық</td>
+<td colspan="2">94084</td>
 </tr>
 <tr>
 <td></td>
@@ -260,7 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td colspan="2">93129</td>
+<td colspan="2">94084</td>
 </tr>
 <tr>
 <td></td>
@@ -268,7 +268,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">93129</td>
+<td colspan="2">94084</td>
 </tr>
 <tr>
 <td></td>
@@ -276,7 +276,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2"></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">35000</td>
+<td colspan="2">35955</td>
 </tr>
 <tr>
 <td></td>
@@ -340,7 +340,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Көлiк және коммуникация</td>
-<td>151090</td>
+<td>311842</td>
 </tr>
 <tr>
 <td></td>
@@ -348,7 +348,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Автомобиль көлiгi</td>
-<td>151090</td>
+<td>311842</td>
 </tr>
 <tr>
 <td></td>
@@ -356,7 +356,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2">124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>151090</td>
+<td>311842</td>
 </tr>
 <tr>
 <td></td>
@@ -371,8 +371,8 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td colspan="2"></td>
 <td>045</td>
-<td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
-<td>106825</td>
+<td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарынкүрделіжәнеорташажөндеу</td>
+<td>267577</td>
 </tr>
 <tr>
 <td>15</td>
@@ -460,7 +460,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td colspan="2">-18303</td>
+<td colspan="2">-179055</td>
 </tr>
 <tr>
 <td></td>
@@ -468,7 +468,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитiн пайдалану)</td>
-<td colspan="2">18303</td>
+<td colspan="2">179055</td>
 </tr>
 <tr>
 <td></td>
@@ -476,7 +476,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Қарыздар түсімдері</td>
-<td colspan="2">0</td>
+<td colspan="2">160752</td>
 </tr>
 <tr>
 <td></td>
@@ -484,7 +484,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2">Мемлекеттік ішкі қарыздар</td>
-<td colspan="2">0</td>
+<td colspan="2">160752</td>
 </tr>
 <tr>
 <td></td>
@@ -492,7 +492,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="2">Қарыз алу келісім- шарттары</td>
-<td colspan="2">0</td>
+<td colspan="2">160752</td>
 </tr>
 <tr>
 <td>16</td>
@@ -515,7 +515,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td colspan="2">01</td>
 <td></td>
-<td colspan="2">Бюджет қаражатының қалдықтары</td>
+<td colspan="2">Бюджет қаражаты қалдықтары</td>
 <td colspan="2">18303</td>
 </tr>
 <tr>
@@ -1433,7 +1433,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 
 ## 2020 жылға арналған Шемонаиха ауданы Первомайский кентінің бюджеті
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 17.04.2020 № 51/2-VI (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 4-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 17.04.2020 № 51/2-VI (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 18.05.2020 № 52/2-VI (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -1450,7 +1450,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Iшкiсыныбы</td>
+<td colspan="2">Iшкi сыныбы</td>
 </tr>
 <tr>
 <td></td>
@@ -1463,7 +1463,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>I. КІРІСТЕР</td>
-<td>43786</td>
+<td>43193</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1491,7 +1491,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td>04</td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
-<td>15345</td>
+<td>18046</td>
 </tr>
 <tr>
 <td></td>
@@ -1533,21 +1533,21 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>19180</td>
+<td>18587</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>19180</td>
+<td>18587</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>19180</td>
+<td>18587</td>
 </tr>
 </table>
 
@@ -1587,7 +1587,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">II.ШЫҒЫНДАР</td>
-<td colspan="2">46510,2</td>
+<td colspan="2">45917,2</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1595,7 +1595,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">28858</td>
+<td colspan="2">27561</td>
 </tr>
 <tr>
 <td></td>
@@ -1603,7 +1603,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">28858</td>
+<td colspan="2">27561</td>
 </tr>
 <tr>
 <td></td>
@@ -1611,7 +1611,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">28858</td>
+<td colspan="2">27561</td>
 </tr>
 <tr>
 <td></td>
@@ -1619,7 +1619,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">28609</td>
+<td colspan="2">27312</td>
 </tr>
 <tr>
 <td></td>
@@ -1635,7 +1635,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">9213</td>
+<td colspan="2">9917</td>
 </tr>
 <tr>
 <td></td>
@@ -1643,7 +1643,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td colspan="2">9213</td>
+<td colspan="2">9917</td>
 </tr>
 <tr>
 <td></td>
@@ -1651,7 +1651,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">9213</td>
+<td colspan="2">9917</td>
 </tr>
 <tr>
 <td></td>
@@ -1659,7 +1659,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">3585</td>
+<td colspan="2">4289</td>
 </tr>
 <tr>
 <td></td>
@@ -1890,7 +1890,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
-<td colspan="2">Бюджет қаражатының қалдықтары</td>
+<td colspan="2">Бюджет қаражаты қалдықтары</td>
 <td>2724,2</td>
 </tr>
 <tr>
@@ -2684,7 +2684,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 
 ## 2020 жылға арналған Шемонаиха ауданы Усть-Таловка кентінің бюджеті
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 17.04.2020 № 51/2-VI (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 7-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 17.04.2020 № 51/2-VI (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 18.05.2020 № 52/2-VI (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -2714,7 +2714,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>I. КІРІСТЕР</td>
-<td>282081</td>
+<td>278909</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2805,21 +2805,21 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>255916</td>
+<td>252744</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>255916</td>
+<td>252744</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>255916</td>
+<td>252744</td>
 </tr>
 </table>
 
@@ -2859,7 +2859,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">II.ШЫҒЫНДАР</td>
-<td colspan="2">287871,4</td>
+<td colspan="2">284699,4</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2867,7 +2867,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">17148</td>
+<td colspan="2">31025</td>
 </tr>
 <tr>
 <td></td>
@@ -2875,7 +2875,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">17148</td>
+<td colspan="2">31025</td>
 </tr>
 <tr>
 <td></td>
@@ -2883,7 +2883,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">17148</td>
+<td colspan="2">31025</td>
 </tr>
 <tr>
 <td></td>
@@ -2891,7 +2891,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">12748</td>
+<td colspan="2">26625</td>
 </tr>
 <tr>
 <td></td>
@@ -2907,7 +2907,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">Бiлiм беру</td>
-<td colspan="2">129082</td>
+<td colspan="2">97239</td>
 </tr>
 <tr>
 <td></td>
@@ -2915,7 +2915,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">Мектепке дейiнгi тәрбие және оқыту</td>
-<td colspan="2">129082</td>
+<td colspan="2">97239</td>
 </tr>
 <tr>
 <td></td>
@@ -2923,7 +2923,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">129082</td>
+<td colspan="2">97239</td>
 </tr>
 <tr>
 <td></td>
@@ -2931,7 +2931,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td>004</td>
 <td colspan="2">Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыру</td>
-<td colspan="2">12043</td>
+<td colspan="2">12673</td>
 </tr>
 <tr>
 <td></td>
@@ -2939,7 +2939,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td>041</td>
 <td colspan="2">Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td colspan="2">117039</td>
+<td colspan="2">84566</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2947,7 +2947,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">6473</td>
+<td colspan="2">7730</td>
 </tr>
 <tr>
 <td></td>
@@ -2955,7 +2955,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td colspan="2">6473</td>
+<td colspan="2">7730</td>
 </tr>
 <tr>
 <td></td>
@@ -2963,7 +2963,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">6473</td>
+<td colspan="2">7730</td>
 </tr>
 <tr>
 <td></td>
@@ -2979,7 +2979,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="2">1285</td>
+<td colspan="2">2335</td>
 </tr>
 <tr>
 <td></td>
@@ -2987,7 +2987,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">1975</td>
+<td colspan="2">2182</td>
 </tr>
 <tr>
 <td>08</td>
@@ -2995,7 +2995,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td colspan="2">13013</td>
+<td colspan="2">26550</td>
 </tr>
 <tr>
 <td></td>
@@ -3003,7 +3003,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td colspan="2">12692</td>
+<td colspan="2">26229</td>
 </tr>
 <tr>
 <td></td>
@@ -3011,7 +3011,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">12692</td>
+<td colspan="2">26229</td>
 </tr>
 <tr>
 <td></td>
@@ -3019,7 +3019,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмысын қолдау</td>
-<td colspan="2">12692</td>
+<td colspan="2">26229</td>
 </tr>
 <tr>
 <td></td>
@@ -3226,7 +3226,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
-<td colspan="2">Бюджет қаражатының қалдықтары</td>
+<td colspan="2">Бюджет қаражаты қалдықтары</td>
 <td>5790,4</td>
 </tr>
 <tr>
@@ -4142,7 +4142,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 
 ## Шемонаиха ауданы Вавилон ауылдық округінің 2020 жылға арналған бюджеті
 
-> *Ескерту. 10-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 17.04.2020 № 51/2-VI (01.01.2020 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 10-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 17.04.2020 № 51/2-VI (01.01.2020 бастап қолданысқа енгізіледі); жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 18.05.2020 № 52/2-VI (01.01.2020 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -4172,7 +4172,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>1.КІРІСТЕР</td>
-<td>29380</td>
+<td>29045</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4263,21 +4263,21 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>5653</td>
+<td>5318</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>5653</td>
+<td>5318</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>5653</td>
+<td>5318</td>
 </tr>
 </table>
 
@@ -4317,7 +4317,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">II. ШЫҒЫНДАР</td>
-<td colspan="2">31912,1</td>
+<td colspan="2">31577,1</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4325,7 +4325,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">22579</td>
+<td colspan="2">22244</td>
 </tr>
 <tr>
 <td></td>
@@ -4333,7 +4333,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">22579</td>
+<td colspan="2">22244</td>
 </tr>
 <tr>
 <td></td>
@@ -4341,7 +4341,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">22579</td>
+<td colspan="2">22244</td>
 </tr>
 <tr>
 <td></td>
@@ -4349,7 +4349,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">22141</td>
+<td colspan="2">21806</td>
 </tr>
 <tr>
 <td></td>
@@ -4428,7 +4428,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td colspan="2">124</td>
 <td colspan="2"></td>
-<td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
+<td>Аудандықмаңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
 <td colspan="2">315</td>
 </tr>
 <tr>
@@ -4612,7 +4612,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/kaz/17.04.2020
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
-<td colspan="2">Бюджет қаражатының қалдықтары</td>
+<td colspan="2">Бюджет қаражаты қалдықтары</td>
 <td>2532,1</td>
 </tr>
 <tr>
