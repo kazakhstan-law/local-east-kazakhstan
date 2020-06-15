@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/137309/rus/22.04.2020
+source: https://zan.gov.kz/client/#!/doc/137309/rus/15.06.2020
 ---
 
 > *Приложение 2 к решению*  
@@ -39,12 +39,12 @@ source: https://zan.gov.kz/client/#!/doc/137309/rus/22.04.2020
 <td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -364,12 +364,12 @@ source: https://zan.gov.kz/client/#!/doc/137309/rus/22.04.2020
 <td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
