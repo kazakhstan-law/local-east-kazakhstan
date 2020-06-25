@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137764/kaz/21.05.2020
+source: https://zan.gov.kz/client/#!/doc/137764/kaz/25.06.2020
 ---
 
 > *Глубокое аудандық мәслихатының*  
