@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
+source: https://zan.gov.kz/client/#!/doc/139108/rus/02.07.2020
 ---
 
 > *Приложение 13 к решению*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 
 ## Бюджет Верх-Убинского сельского округа Шемонаихинского района на 2020 год
 
-> *Сноска. Приложение 13 в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 17.04.2020 № 51/2-VI (вводится в действие с 01.01.2020); в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 18.05.2020 № 52/2-VI (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 13 в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 17.04.2020 № 51/2-VI (вводится в действие с 01.01.2020); в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 18.05.2020 № 52/2-VI (вводится в действие с 01.01.2020); в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 02.07.2020 № 54/2-VI (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -37,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td>1.ДОХОДЫ</td>
-<td>27058</td>
+<td>27842</td>
 </tr>
 <tr>
 <td>1</td>
@@ -107,28 +107,31 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>19781</td>
+<td>20565</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты вышестоящих органов государственного управления</td>
-<td>19781</td>
+<td>20565</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>19781</td>
+<td>20565</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="7">Функциональная группа</td>
-<td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="5">
+Сумма
+(тысяч тенге)
+</td>
 </tr>
 <tr>
 <td></td>
@@ -158,7 +161,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2">II. ЗАТРАТЫ</td>
-<td colspan="2">27080,7</td>
+<td colspan="2">27864,7</td>
 </tr>
 <tr>
 <td>01</td>
@@ -166,7 +169,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">19982</td>
+<td colspan="2">20766</td>
 </tr>
 <tr>
 <td></td>
@@ -174,7 +177,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">19982</td>
+<td colspan="2">20766</td>
 </tr>
 <tr>
 <td></td>
@@ -182,7 +185,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">19982</td>
+<td colspan="2">20766</td>
 </tr>
 <tr>
 <td></td>
@@ -190,7 +193,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">19856</td>
+<td colspan="2">20640</td>
 </tr>
 <tr>
 <td></td>
@@ -349,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">III. Чистое бюджетное кредитование</td>
+<td colspan="2">III.Чистое бюджетное кредитование</td>
 <td>0</td>
 </tr>
 <tr>
@@ -373,7 +376,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">IV. Сальдо по операциям с финансовыми активами</td>
+<td colspan="2">IV.Сальдо по операциям с финансовыми активами</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1207,7 +1210,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 
 ## Бюджет Волчанского сельского округа Шемонаихинского района на 2020 год
 
-> *Сноска. Приложение 16 в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 17.04.2020 № 51/2-VI (вводится в действие с 01.01.2020); в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 18.05.2020 № 52/2-VI (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 16 в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 17.04.2020 № 51/2-VI (вводится в действие с 01.01.2020); в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 18.05.2020 № 52/2-VI (вводится в действие с 01.01.2020); в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 02.07.2020 № 54/2-VI (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -1234,7 +1237,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td>1.ДОХОДЫ</td>
-<td>27361</td>
+<td>37008</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1289,7 +1292,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td>05</td>
 <td></td>
-<td>Внутренние налоги на товары , работы и услуги</td>
+<td>Внутренние налоги на товары, работы и услуги</td>
 <td>20</td>
 </tr>
 <tr>
@@ -1325,21 +1328,21 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>20012</td>
+<td>29659</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты вышестоящих органов государственного управления</td>
-<td>20012</td>
+<td>29659</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>20012</td>
+<td>29659</td>
 </tr>
 </table>
 
@@ -1379,7 +1382,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2">II. ЗАТРАТЫ</td>
-<td colspan="2">27361</td>
+<td colspan="2">37008</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1387,7 +1390,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">20366</td>
+<td colspan="2">21599</td>
 </tr>
 <tr>
 <td></td>
@@ -1395,7 +1398,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">20366</td>
+<td colspan="2">21599</td>
 </tr>
 <tr>
 <td></td>
@@ -1403,7 +1406,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">20366</td>
+<td colspan="2">21599</td>
 </tr>
 <tr>
 <td></td>
@@ -1411,7 +1414,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">19416</td>
+<td colspan="2">20649</td>
 </tr>
 <tr>
 <td></td>
@@ -1427,7 +1430,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">4195</td>
+<td colspan="2">3609</td>
 </tr>
 <tr>
 <td></td>
@@ -1435,7 +1438,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td colspan="2">4195</td>
+<td colspan="2">3609</td>
 </tr>
 <tr>
 <td></td>
@@ -1443,7 +1446,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">4195</td>
+<td colspan="2">3609</td>
 </tr>
 <tr>
 <td></td>
@@ -1475,7 +1478,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">1215</td>
+<td colspan="2">629</td>
 </tr>
 <tr>
 <td>08</td>
@@ -1515,7 +1518,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Транспорт и коммуникации</td>
-<td colspan="2">2500</td>
+<td colspan="2">11500</td>
 </tr>
 <tr>
 <td></td>
@@ -1523,7 +1526,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Автомобильный транспорт</td>
-<td colspan="2">2500</td>
+<td colspan="2">11500</td>
 </tr>
 <tr>
 <td></td>
@@ -1531,7 +1534,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">2500</td>
+<td colspan="2">11500</td>
 </tr>
 <tr>
 <td></td>
@@ -1545,8 +1548,16 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2">045</td>
+<td colspan="2">Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
+<td>9000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2">III. Чистое бюджетное кредитование</td>
+<td colspan="2"></td>
+<td colspan="2">III.Чистое бюджетное кредитование</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2404,7 +2415,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 
 ## Бюджет Выдрихинского сельского округа Шемонаихинского района на 2020 год
 
-> *Сноска. Приложение 19 в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 17.04.2020 № 51/2-VI (вводится в действие с 01.01.2020); в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 18.05.2020 № 52/2-VI (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 19 в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 17.04.2020 № 51/2-VI (вводится в действие с 01.01.2020); в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 18.05.2020 № 52/2-VI (вводится в действие с 01.01.2020); в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 02.07.2020 № 54/2-VI (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -2431,7 +2442,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td>1.ДОХОДЫ</td>
-<td>42766</td>
+<td>43948</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2501,93 +2512,96 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>33364</td>
+<td>34546</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты вышестоящих органов государственного управления</td>
-<td>33364</td>
+<td>34546</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>33364</td>
+<td>34546</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="11">Функциональная группа</td>
-<td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="10">Функциональная группа</td>
+<td colspan="2" rowspan="5">
+Сумма
+(тысяч тенге)
+</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="9">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3"></td>
 <td colspan="6">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3"></td>
 <td></td>
 <td colspan="5">Программа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">II. ЗАТРАТЫ</td>
-<td colspan="2">43593,3</td>
+<td colspan="2">44775,3</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td colspan="3"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Государственные услуги общего характера</td>
-<td colspan="2">21703</td>
+<td colspan="2">22885</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3">1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">21703</td>
+<td colspan="2">22885</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">21703</td>
+<td colspan="2">22885</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">001</td>
 <td colspan="3">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">21703</td>
+<td colspan="2">22885</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td colspan="3"></td>
 <td></td>
 <td colspan="2"></td>
@@ -2595,7 +2609,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">17053</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3">2</td>
 <td></td>
 <td colspan="2"></td>
@@ -2603,7 +2617,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">11260</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3"></td>
 <td>124</td>
 <td colspan="2"></td>
@@ -2611,7 +2625,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">11260</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3"></td>
 <td></td>
 <td colspan="2">014</td>
@@ -2619,7 +2633,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">11260</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3">3</td>
 <td></td>
 <td colspan="2"></td>
@@ -2627,7 +2641,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">5793</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3"></td>
 <td>124</td>
 <td colspan="2"></td>
@@ -2635,7 +2649,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">5793</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">008</td>
@@ -2643,7 +2657,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">3894</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">009</td>
@@ -2651,7 +2665,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">1001</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">011</td>
@@ -2659,7 +2673,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">898</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
+<td>08</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -2667,7 +2681,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">334</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -2675,7 +2689,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">334</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="3"></td>
@@ -2683,7 +2697,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">334</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">028</td>
@@ -2691,7 +2705,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">334</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -2699,7 +2713,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>4503</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -2707,7 +2721,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>4503</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="3"></td>
@@ -2718,7 +2732,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>4503</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">013</td>
@@ -2726,7 +2740,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>4503</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
+<td>15</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -2734,7 +2748,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>0,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -2742,7 +2756,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>0,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td colspan="3"></td>
@@ -2750,7 +2764,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>0,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">048</td>
@@ -2758,15 +2772,15 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>0,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3">III. Чистое бюджетное кредитование</td>
+<td colspan="3">III .Чистое бюджетное кредитование</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -2774,7 +2788,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -2782,15 +2796,15 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3">IV. Сальдо по операциям с финансовыми активами</td>
+<td colspan="3">IV.Сальдо по операциям с финансовыми активами</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -2798,7 +2812,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -2806,7 +2820,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -2814,16 +2828,13 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>-827,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3">VI. Финансирование дефицита (использование профицита) бюджета</td>
 <td>827,3</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">7</td>
@@ -2856,11 +2867,8 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2">Погашение займов</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">8</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -2868,7 +2876,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>827,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="3"></td>
@@ -2876,7 +2884,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>827,3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">1</td>
@@ -4961,7 +4969,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 
 ## Бюджет Каменевского сельского округа Шемонаихинского района на 2020 год
 
-> *Сноска. Приложение 25 в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 17.04.2020 № 51/2-VI (вводится в действие с 01.01.2020); в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 18.05.2020 № 52/2-VI (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 25 в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 17.04.2020 № 51/2-VI (вводится в действие с 01.01.2020); в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 18.05.2020 № 52/2-VI (вводится в действие с 01.01.2020); в редакции решения Шемонаихинского районного маслихата Восточно-Казахстанской области от 02.07.2020 № 54/2-VI (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
@@ -4988,35 +4996,35 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td>1.ДОХОДЫ</td>
-<td>28775</td>
+<td>29401</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>15135</td>
+<td>10335</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Подоходный налог</td>
-<td>6530</td>
+<td>4017</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>6530</td>
+<td>4017</td>
 </tr>
 <tr>
 <td></td>
 <td>04</td>
 <td></td>
 <td>Налоги на собственность</td>
-<td>8585</td>
+<td>6298</td>
 </tr>
 <tr>
 <td></td>
@@ -5030,14 +5038,14 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td>3</td>
 <td>Земельный налог</td>
-<td>2889</td>
+<td>941</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Налог на транспортные средства</td>
-<td>5614</td>
+<td>5275</td>
 </tr>
 <tr>
 <td></td>
@@ -5079,28 +5087,31 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>13391</td>
+<td>18817</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты вышестоящих органов государственного управления</td>
-<td>13391</td>
+<td>18817</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
-<td>Трансферты из районного ( города областного значения) бюджета</td>
-<td>13391</td>
+<td>Трансферты из районного (города областного значения) бюджета</td>
+<td>18817</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="7">Функциональная группа</td>
-<td colspan="2" rowspan="5">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="5">
+Сумма
+(тысяч тенге)
+</td>
 </tr>
 <tr>
 <td></td>
@@ -5130,7 +5141,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2">II. ЗАТРАТЫ</td>
-<td colspan="2">28775</td>
+<td colspan="2">29401</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5138,7 +5149,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2">Государственные услуги общего характера</td>
-<td colspan="2">18125</td>
+<td colspan="2">19406</td>
 </tr>
 <tr>
 <td></td>
@@ -5146,7 +5157,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">18125</td>
+<td colspan="2">19406</td>
 </tr>
 <tr>
 <td></td>
@@ -5154,7 +5165,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">18125</td>
+<td colspan="2">19406</td>
 </tr>
 <tr>
 <td></td>
@@ -5162,7 +5173,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">17718</td>
+<td colspan="2">18999</td>
 </tr>
 <tr>
 <td></td>
@@ -5178,7 +5189,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">5350</td>
+<td colspan="2">4695</td>
 </tr>
 <tr>
 <td></td>
@@ -5186,7 +5197,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td colspan="2">5350</td>
+<td colspan="2">4695</td>
 </tr>
 <tr>
 <td></td>
@@ -5194,7 +5205,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td>124</td>
 <td></td>
 <td colspan="2">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">5350</td>
+<td colspan="2">4695</td>
 </tr>
 <tr>
 <td></td>
@@ -5202,7 +5213,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td colspan="2">3610</td>
+<td colspan="2">2955</td>
 </tr>
 <tr>
 <td></td>
@@ -5292,7 +5303,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">III. Чистое бюджетное кредитование</td>
+<td colspan="2">III.Чистое бюджетное кредитование</td>
 <td>0</td>
 </tr>
 <tr>
@@ -5316,7 +5327,7 @@ source: https://zan.gov.kz/client/#!/doc/139108/rus/18.05.2020
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">IV. Сальдо по операциям с финансовыми активами</td>
+<td colspan="2">IV.Сальдо по операциям с финансовыми активами</td>
 <td>0</td>
 </tr>
 <tr>
