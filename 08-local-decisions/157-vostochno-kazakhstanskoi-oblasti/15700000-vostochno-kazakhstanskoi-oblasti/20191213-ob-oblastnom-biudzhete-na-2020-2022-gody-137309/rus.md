@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/137309/rus/17.07.2020
+source: https://zan.gov.kz/client/#!/doc/137309/rus/21.08.2020
 ---
 
 # Об областном бюджете на 2020-2022 годы

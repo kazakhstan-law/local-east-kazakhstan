@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/137309/kaz/17.07.2020
+source: https://zan.gov.kz/client/#!/doc/137309/kaz/21.08.2020
 ---
 
 # 2020-2022 жылдарға арналған облыстық бюджет туралы
