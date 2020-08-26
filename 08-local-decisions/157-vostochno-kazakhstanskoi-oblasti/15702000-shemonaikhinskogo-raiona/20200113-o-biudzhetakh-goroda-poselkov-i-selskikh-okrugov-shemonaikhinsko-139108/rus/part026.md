@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/139108/rus/02.07.2020
+source: https://zan.gov.kz/client/#!/doc/139108/rus/26.08.2020
 ---
 
 > *Приложение 26 к решению Шемонаихинский районный маслихат от 13 января 2020 года № 49/2-VI*
