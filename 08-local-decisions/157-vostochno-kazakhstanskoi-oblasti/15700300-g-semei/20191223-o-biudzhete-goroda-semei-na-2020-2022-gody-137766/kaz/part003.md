@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137766/kaz/07.08.2020
+source: https://zan.gov.kz/client/#!/doc/137766/kaz/24.09.2020
 ---
 
 > *2019 жылғы __ желтоқсандағы*  
