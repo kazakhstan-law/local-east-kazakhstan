@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138541/kaz/29.09.2020
+source: https://zan.gov.kz/client/#!/doc/138541/kaz/17.11.2020
 ---
 
 > *Глубокое аудандық мәслихатының 2019 жылғы 31 желтоқсандағы № 38/2-VІ шешіміне 51 қосымша*
