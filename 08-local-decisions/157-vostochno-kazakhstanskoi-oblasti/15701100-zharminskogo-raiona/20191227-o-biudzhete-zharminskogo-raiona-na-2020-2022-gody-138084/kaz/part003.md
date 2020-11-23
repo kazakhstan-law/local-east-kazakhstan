@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/138084/kaz/09.11.2020
+source: https://zan.gov.kz/client/#!/doc/138084/kaz/23.11.2020
 ---
 
 > *Жарма аудандық мәслихатының*  
