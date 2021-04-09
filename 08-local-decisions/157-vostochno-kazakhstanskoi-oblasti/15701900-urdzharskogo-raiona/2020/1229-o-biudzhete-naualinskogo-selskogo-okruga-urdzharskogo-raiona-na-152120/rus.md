@@ -16,11 +16,15 @@
 
       поступления трансфертов – 22 559,0 тысяч тенге;
 
-   2) затраты – 26 998,0 тысяч тенге;
+   2) затраты – 27 394,5 тысяч тенге;
 
-   3) дефицит (профицит) бюджета – 0,0 тысяч тенге;
+   3) дефицит (профицит) бюджета – - 396,5 тысяч тенге;
 
-   4) финансирование дефицита (использование профицита) бюджета –0,0 тысяч тенге.
+   4) финансирование дефицита (использование профицита) бюджета –396,5 тысяч тенге;
+
+      используемые остатки бюджетных средств –396,5 тысяч тенге.
+
+> *Сноска. Пункт 1 в редакции решения Урджарского районного маслихата Восточно-Казахстанской области от 09.04.2021 № 4-58/VII (вводится в действие с 01.01.2021).*
 
 <a id="p2"></a>
 
@@ -39,11 +43,14 @@
 **К. Карашев**
 
 > *Приложение 1 к решению*  
-> *Урджарского районного маслихата*  
+> *Урджарского районного*  
+> *маслихата*  
 > *от 29 декабря 2020 года*  
 > *№ 57-778/VI*
 
 ## Бюджет Науалинского сельского округа Урджарского района на 2021 год
+
+> *Сноска. Приложение 1 в редакции решения Урджарского районного маслихата Восточно-Казахстанской области от 09.04.2021 № 4-58/VII (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -76,7 +83,7 @@
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3">Доходы</td>
+<td colspan="3">I.Доходы</td>
 <td>26 998,0</td>
 </tr>
 <tr>
@@ -133,6 +140,27 @@
 <td colspan="2"></td>
 <td colspan="3">1</td>
 <td colspan="3">Прочие неналоговые поступления</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="3">3</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">Поступления от продажи основного капитала</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
+<td colspan="3">Продажа государственного имущества, закрепленного за государственными учреждениями</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="3">Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td>0,0</td>
 </tr>
 <tr>
@@ -196,8 +224,8 @@
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td>Затраты</td>
-<td>26 998,0</td>
+<td>II.Затраты</td>
+<td>27 394,5</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -205,7 +233,7 @@
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Государственные услуги общего характера</td>
-<td>21 189,0</td>
+<td>21 585,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -213,7 +241,7 @@
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>21 189,0</td>
+<td>21 585,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -221,7 +249,7 @@
 <td colspan="3">124</td>
 <td colspan="3"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>21 189,0</td>
+<td>21 585,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -229,7 +257,7 @@
 <td colspan="3"></td>
 <td colspan="3">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>20 739,0</td>
+<td>21 135,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -435,8 +463,64 @@
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="3">048</td>
-<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td colspan="3"></td>
+<td>III. Чистое бюджетное кредитование</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>Бюджетные кредиты</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">5</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="3"></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">1</td>
+<td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>IV. Сальдо по операциям с финансовыми активами</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>Приобретение финансовых активов</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>Поступления от продажи финансовых активов государства</td>
 <td>0,0</td>
 </tr>
 <tr>
@@ -445,7 +529,7 @@
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>V.Дефицит ( профицит) бюджета</td>
-<td>0,0</td>
+<td>-396,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -453,6 +537,38 @@
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>VI.Финансирование дефицита (использование профицита) бюджета</td>
+<td>396,5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>Поступления займов</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">7</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>Поступления займов</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="3"></td>
+<td>Внутренние государственные займы</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">2</td>
+<td>Договоры займа</td>
 <td>0,0</td>
 </tr>
 <tr>
@@ -509,7 +625,7 @@
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0,0</td>
+<td>396,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -517,7 +633,7 @@
 <td colspan="3">01</td>
 <td colspan="3"></td>
 <td>Остатки бюджетных средств</td>
-<td>0,0</td>
+<td>396,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -525,7 +641,7 @@
 <td colspan="3"></td>
 <td colspan="3">1</td>
 <td>Свободные остатки бюджетных средств</td>
-<td>0,0</td>
+<td>396,5</td>
 </tr>
 </table>
 
@@ -557,11 +673,11 @@
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-<td>5</td>
+<th colspan="3">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="3">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -675,12 +791,12 @@
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="3">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1040,11 +1156,11 @@
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-<td>5</td>
+<th colspan="3">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="3">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1158,12 +1274,12 @@
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="3">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>

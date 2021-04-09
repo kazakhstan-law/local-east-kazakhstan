@@ -16,11 +16,15 @@
 
       трансферттер түсімі – 22 559,0 мың теңге;
 
-   2) шығындар – 26 998,0 мың теңге;
+   2) шығындар – 27 394,5 мың теңге;
 
-   3) бюджет тапшылығы (профициті) – 0,0 мың теңге;
+   3) бюджет тапшылығы (профициті) – - 396,5 мың теңге;
 
-   4) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 0,0 мың теңге.
+   4) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 396,5 мың теңге;
+
+      бюджет қаражатының пайдаланылатын қалдықтары – 396,5 мың теңге.
+
+> *Ескерту. 1-тармақ жаңа редакцияда - Шығыс Қазақстан облысы Үржар аудандық мәслихатының 09.04.2021 № 4-58/VII (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
 
 <a id="p2"></a>
 
@@ -39,11 +43,13 @@
 **К. Карашев**
 
 > *Үржар аудандық мәслихатының*  
-> *2020 жылғы 29 желтоқсандағы*  
+> *2020 жылғы 29 қаңтардағы*  
 > *№ 57-778/VI шешіміне*  
 > *1 қосымша*
 
-## Үржар ауданы Науалы ауылдық округінің 2021 жылға арналған бюджеті
+## Үржар ауданы Науалы ауылдық округінің 2021 жылға арналған бюджеті туралы
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Үржар аудандық мәслихатының 09.04.2021 № 4-58/VII (01.01.2021 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -76,7 +82,7 @@
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="3">Кірістер</td>
+<td colspan="3">I.Кірістер</td>
 <td>26 998,0</td>
 </tr>
 <tr>
@@ -136,6 +142,27 @@
 <td>0,0</td>
 </tr>
 <tr>
+<td colspan="3">3</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">Негізгі капиталды сатудан түсетін түсімдер</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td colspan="3">Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td colspan="3">Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
+<td>0,0</td>
+</tr>
+<tr>
 <td colspan="3">4</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
@@ -159,7 +186,7 @@
 </tr>
 <tr>
 <td colspan="11">Функционалдық топ</td>
-<td rowspan="5">Барлық шығындар(мың теңге)</td>
+<td rowspan="5">Барлық шығындар (мың теңге)</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -196,8 +223,8 @@
 <td colspan="3"></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td>Шығындар</td>
-<td>26 998,0</td>
+<td>II.Шығындар</td>
+<td>27 394,5</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -205,7 +232,7 @@
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>21 189,0</td>
+<td>21 585,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -213,7 +240,7 @@
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>21 189,0</td>
+<td>21 585,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -221,7 +248,7 @@
 <td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>21 302,0</td>
+<td>21 585,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -229,7 +256,7 @@
 <td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>20 739,0</td>
+<td>21 135,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -308,7 +335,7 @@
 <td colspan="3">3</td>
 <td colspan="3"></td>
 <td colspan="2"></td>
-<td>Елді мекендерді көркейту</td>
+<td>Елді-мекендерді көркейту</td>
 <td>1 830,0</td>
 </tr>
 <tr>
@@ -435,8 +462,64 @@
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="2">048</td>
-<td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td colspan="2"></td>
+<td>III. Таза бюджеттік кредиттеу</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Бюджеттік кредиттер</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">5</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td>Бюджеттік кредиттерді өтеу</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Қаржы активтерін сатып алу</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Мемлекеттік қаржы активтерін сатудан түсетін түсімдер</td>
 <td>0,0</td>
 </tr>
 <tr>
@@ -445,7 +528,7 @@
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>V.Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-396,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -453,6 +536,38 @@
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>VI.Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td>396,5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Қарыздар түсімі</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">7</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Қарыздар түсімдері</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td>Мемлекеттік ішкі қарыздар</td>
+<td>0,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="2">2</td>
+<td>Қарыз алу келісім-шарттары</td>
 <td>0,0</td>
 </tr>
 <tr>
@@ -509,7 +624,7 @@
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
-<td>0,0</td>
+<td>396,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -517,7 +632,7 @@
 <td colspan="3">01</td>
 <td colspan="2"></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0,0</td>
+<td>396,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -525,7 +640,7 @@
 <td colspan="3"></td>
 <td colspan="2">1</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0,0</td>
+<td>396,5</td>
 </tr>
 </table>
 
@@ -557,11 +672,11 @@
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="3">2</td>
-<td colspan="2">3</td>
-<td colspan="3">4</td>
-<td>5</td>
+<th colspan="3">1</th>
+<th colspan="3">2</th>
+<th colspan="2">3</th>
+<th colspan="3">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -675,12 +790,12 @@
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="3">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
+<th colspan="3">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1040,11 +1155,11 @@
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="3">2</td>
-<td colspan="2">3</td>
-<td colspan="3">4</td>
-<td>5</td>
+<th colspan="3">1</th>
+<th colspan="3">2</th>
+<th colspan="2">3</th>
+<th colspan="3">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1153,12 +1268,12 @@
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="3">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
+<th colspan="3">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
