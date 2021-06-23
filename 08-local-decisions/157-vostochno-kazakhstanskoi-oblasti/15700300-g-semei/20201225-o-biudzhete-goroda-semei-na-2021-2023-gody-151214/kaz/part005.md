@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/151214/kaz/05.05.2021
+source: https://zan.gov.kz/client/#!/doc/151214/kaz/23.06.2021
 ---
 
 > *Семей қаласының мәслихаты*  
