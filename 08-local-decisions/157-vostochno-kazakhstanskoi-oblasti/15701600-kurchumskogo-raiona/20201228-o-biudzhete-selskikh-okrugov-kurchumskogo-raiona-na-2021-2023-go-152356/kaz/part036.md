@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/152356/kaz/07.04.2021
+source: https://zan.gov.kz/client/#!/doc/152356/kaz/27.07.2021
 ---
 
 > *Күршім аудандық мәслихатының*  
