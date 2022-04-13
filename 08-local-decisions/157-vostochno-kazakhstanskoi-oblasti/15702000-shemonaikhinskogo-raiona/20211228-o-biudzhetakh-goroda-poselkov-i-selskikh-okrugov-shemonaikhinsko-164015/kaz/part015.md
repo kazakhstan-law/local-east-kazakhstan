@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
+source: https://zan.gov.kz/client/#!/doc/164015/kaz/13.04.2022
 ---
 
 > *Шемонаиха аудандық мәслихатының*  
@@ -389,6 +389,8 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 
 ## Шемонаиха ауданы Волчанка ауылдық округінің 2022 жылға арналған бюджеті
 
+> *Ескерту. 16-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 13.04.2022 № 17/2-VII (01.01.2022 бастап қолданысқа енгiзiледi) шешімімен.*
+
 <table>
 <tr>
 <td colspan="4">Санаты</td>
@@ -410,14 +412,14 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td></td>
-<td>Кірістер атауы</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>1.КІРІСТЕР</td>
-<td>170 961,0</td>
+<td>I. КІРІСТЕР</td>
+<td>173 222,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -494,21 +496,21 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>156 387,0</td>
+<td>158 648,0</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>156 387,0</td>
+<td>158 648,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>156 387,0</td>
+<td>158 648,0</td>
 </tr>
 </table>
 
@@ -548,7 +550,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">II. ШЫҒЫНДАР</td>
-<td colspan="2">170 961,0</td>
+<td colspan="2">175 481,8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -556,7 +558,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">36 264,0</td>
+<td colspan="2">36 544,0</td>
 </tr>
 <tr>
 <td></td>
@@ -564,7 +566,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">36 264,0</td>
+<td colspan="2">36 544,0</td>
 </tr>
 <tr>
 <td></td>
@@ -572,7 +574,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">36 264,0</td>
+<td colspan="2">36 544,0</td>
 </tr>
 <tr>
 <td></td>
@@ -580,7 +582,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">36 264,0</td>
+<td colspan="2">36 544,0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -588,7 +590,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Түрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">17 826,0</td>
+<td colspan="2">19 841,8</td>
 </tr>
 <tr>
 <td></td>
@@ -596,7 +598,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td colspan="2">17 826,0</td>
+<td colspan="2">19 841,8</td>
 </tr>
 <tr>
 <td></td>
@@ -604,7 +606,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">17 826,0</td>
+<td colspan="2">19 841,8</td>
 </tr>
 <tr>
 <td></td>
@@ -612,7 +614,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">5 830,0</td>
+<td colspan="2">6 209,8</td>
 </tr>
 <tr>
 <td></td>
@@ -620,7 +622,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2">009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="2">694,0</td>
+<td colspan="2">730,0</td>
 </tr>
 <tr>
 <td></td>
@@ -636,7 +638,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">11 200,0</td>
+<td colspan="2">12 800,0</td>
 </tr>
 <tr>
 <td>12</td>
@@ -644,7 +646,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Көлік және коммуникация</td>
-<td>6 871,0</td>
+<td>9 096,0</td>
 </tr>
 <tr>
 <td></td>
@@ -652,7 +654,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Автомобиль көлігі</td>
-<td>6 871,0</td>
+<td>9 096,0</td>
 </tr>
 <tr>
 <td></td>
@@ -660,7 +662,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>6 871,0</td>
+<td>9 096,0</td>
 </tr>
 <tr>
 <td></td>
@@ -669,6 +671,14 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2">013</td>
 <td colspan="2">Аудандық маңызы қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
 <td>6 871,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">045</td>
+<td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
+<td>2 225,0</td>
 </tr>
 <tr>
 <td>13</td>
@@ -708,7 +718,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">ІІІ. Таза бюджеттік кредиттеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -716,7 +726,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттер</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -724,7 +734,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -732,7 +742,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">ІV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -740,7 +750,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Қаржы активтерін сатып алу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -748,7 +758,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -756,7 +766,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-2 259,8</td>
 </tr>
 <tr>
 <td></td>
@@ -764,7 +774,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитiн пайдалану)</td>
-<td>0,0</td>
+<td>2 259,8</td>
 </tr>
 <tr>
 <td></td>
@@ -772,7 +782,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздар түсімі</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -780,7 +790,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздарды өтеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -788,7 +798,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0,0</td>
+<td>2 259,8</td>
 </tr>
 <tr>
 <td></td>
@@ -796,7 +806,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0,0</td>
+<td>2 259,8</td>
 </tr>
 <tr>
 <td></td>
@@ -804,7 +814,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td colspan="2">1</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0,0</td>
+<td>2 259,8</td>
 </tr>
 </table>
 
@@ -1631,6 +1641,8 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 
 ## Шемонаиха ауданы Выдриха ауылдық округінің 2022 жылға арналған бюджеті
 
+> *Ескерту. 19-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 13.04.2022 № 17/2-VII (01.01.2022 бастап қолданысқа енгiзiледi) шешімімен.*
+
 <table>
 <tr>
 <td colspan="4">Санаты</td>
@@ -1652,14 +1664,14 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td></td>
-<td>Кірістер атауы</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>1.КІРІСТЕР</td>
-<td>85 104,0</td>
+<td>I. КІРІСТЕР</td>
+<td>88 416,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1715,21 +1727,21 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>70 137,0</td>
+<td>73 449,0</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>70 137,0</td>
+<td>73 449,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>70 137,0</td>
+<td>73 449,0</td>
 </tr>
 </table>
 
@@ -1769,7 +1781,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">II. ШЫҒЫНДАР</td>
-<td colspan="2">85 104,0</td>
+<td colspan="2">90 075,7</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1777,7 +1789,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">34 914,0</td>
+<td colspan="2">35 655,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1785,7 +1797,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">34 914,0</td>
+<td colspan="2">35 655,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1793,7 +1805,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">34 914,0</td>
+<td colspan="2">35 655,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1801,7 +1813,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">34 914,0</td>
+<td colspan="2">35 655,7</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1809,7 +1821,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Түрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">13 110,0</td>
+<td colspan="2">15 040,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1841,7 +1853,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Елді - мекендерді көркейту</td>
-<td colspan="2">9 629,0</td>
+<td colspan="2">11 559,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1849,7 +1861,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">9 629,0</td>
+<td colspan="2">11 559,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1857,7 +1869,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">5 467,0</td>
+<td colspan="2">5 797,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1873,7 +1885,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">3 100,0</td>
+<td colspan="2">4 700,0</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1881,7 +1893,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Көлік және коммуникация</td>
-<td>37 080,0</td>
+<td>39 380,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1889,7 +1901,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Автомобиль көлігі</td>
-<td>37 080,0</td>
+<td>39 380,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1897,7 +1909,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>37 080,0</td>
+<td>39 380,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1905,7 +1917,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2">013</td>
 <td colspan="2">Аудандық маңызы қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>2 967,0</td>
+<td>3 767,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1913,7 +1925,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2">045</td>
 <td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
-<td>34 113,0</td>
+<td>35 613,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1921,7 +1933,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">ІІІ. Таза бюджеттік кредиттеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1929,7 +1941,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттер</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1937,7 +1949,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1945,7 +1957,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">ІV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1953,7 +1965,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қаржы активтерін сатып алу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1961,7 +1973,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1969,7 +1981,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-1 659,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1977,7 +1989,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитiн пайдалану)</td>
-<td>0,0</td>
+<td>1 659,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1985,7 +1997,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздар түсімі</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1993,7 +2005,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздарды өтеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -2001,7 +2013,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0,0</td>
+<td>1 659,7</td>
 </tr>
 <tr>
 <td></td>
@@ -2009,7 +2021,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0,0</td>
+<td>1 659,7</td>
 </tr>
 <tr>
 <td></td>
@@ -2017,7 +2029,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0,0</td>
+<td>1 659,7</td>
 </tr>
 </table>
 
@@ -2834,6 +2846,8 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 
 ## Шемонаиха ауданы Зевакино ауылдық округінің 2022 жылға арналған бюджеті
 
+> *Ескерту. 22-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 13.04.2022 № 17/2-VII (01.01.2022 бастап қолданысқа енгiзiледi) шешімімен.*
+
 <table>
 <tr>
 <td colspan="4">Санаты</td>
@@ -2855,14 +2869,14 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td></td>
-<td>Кірістер атауы</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>1.КІРІСТЕР</td>
-<td>78 139,0</td>
+<td>І.КІРІСТЕР</td>
+<td>80 639,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2953,21 +2967,21 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>65 489,0</td>
+<td>67 989,0</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>65 489,0</td>
+<td>67 989,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>65 489,0</td>
+<td>67 989,0</td>
 </tr>
 </table>
 
@@ -3007,7 +3021,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">II. ШЫҒЫНДАР</td>
-<td colspan="2">78 139,0</td>
+<td colspan="2">82 801,7</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3047,7 +3061,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Түрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">8 878,0</td>
+<td colspan="2">13 540,7</td>
 </tr>
 <tr>
 <td></td>
@@ -3055,7 +3069,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td colspan="2">8 878,0</td>
+<td colspan="2">13 540,7</td>
 </tr>
 <tr>
 <td></td>
@@ -3063,7 +3077,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">8 878,0</td>
+<td colspan="2">13 540,7</td>
 </tr>
 <tr>
 <td></td>
@@ -3071,7 +3085,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">4 124,0</td>
+<td colspan="2">8 086,7</td>
 </tr>
 <tr>
 <td></td>
@@ -3087,7 +3101,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">3 100,0</td>
+<td colspan="2">3 800,0</td>
 </tr>
 <tr>
 <td>12</td>
@@ -3135,7 +3149,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">ІІІ. Таза бюджеттік кредиттеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3143,7 +3157,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттер</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3151,7 +3165,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3159,7 +3173,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">ІV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3167,7 +3181,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қаржы активтерін сатып алу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3175,7 +3189,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3183,7 +3197,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-2 162,7</td>
 </tr>
 <tr>
 <td></td>
@@ -3191,7 +3205,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитiн пайдалану)</td>
-<td>0,0</td>
+<td>2 162,7</td>
 </tr>
 <tr>
 <td></td>
@@ -3199,7 +3213,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздар түсімі</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3207,7 +3221,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздарды өтеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -3215,7 +3229,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0,0</td>
+<td>2 162,7</td>
 </tr>
 <tr>
 <td></td>
@@ -3223,7 +3237,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0,0</td>
+<td>2 162,7</td>
 </tr>
 <tr>
 <td></td>
@@ -3231,7 +3245,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0,0</td>
+<td>2 162,7</td>
 </tr>
 </table>
 
@@ -4042,6 +4056,8 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 
 ## Шемонаиха ауданы Каменевский ауылдық округінің 2022 жылға арналған бюджеті
 
+> *Ескерту. 25-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 13.04.2022 № 17/2-VII (01.01.2022 бастап қолданысқа енгiзiледi) шешімімен.*
+
 <table>
 <tr>
 <td colspan="4">Санаты</td>
@@ -4063,14 +4079,14 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td></td>
-<td>Кірістер атауы</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>1.КІРІСТЕР</td>
-<td>58 200,0</td>
+<td>І.КІРІСТЕР</td>
+<td>65 995,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -4140,21 +4156,21 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>42 737,0</td>
+<td>50 532,0</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>42 737,0</td>
+<td>50 532,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>42 737,0</td>
+<td>50 532,0</td>
 </tr>
 </table>
 
@@ -4194,7 +4210,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">II. ШЫҒЫНДАР</td>
-<td colspan="2">58 200,0</td>
+<td colspan="2">67 662,4</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4202,7 +4218,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">33 515,0</td>
+<td colspan="2">38 590,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4210,7 +4226,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">33 515,0</td>
+<td colspan="2">38 590,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4218,7 +4234,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">32 821,0</td>
+<td colspan="2">38 590,0</td>
 </tr>
 <tr>
 <td></td>
@@ -4226,7 +4242,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">33 515,0</td>
+<td colspan="2">38 590,0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -4234,7 +4250,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Түрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">20 082,0</td>
+<td colspan="2">24 469,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4242,7 +4258,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td colspan="2">20 082,0</td>
+<td colspan="2">24 469,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4250,7 +4266,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">20 082,0</td>
+<td colspan="2">24 469,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4258,7 +4274,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">6 053,0</td>
+<td colspan="2">6 440,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4282,7 +4298,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">13 100,0</td>
+<td colspan="2">17 100,0</td>
 </tr>
 <tr>
 <td>12</td>
@@ -4322,7 +4338,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">ІІІ. Таза бюджеттік кредиттеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -4330,7 +4346,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттер</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -4338,7 +4354,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -4346,7 +4362,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">ІV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -4354,7 +4370,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қаржы активтерін сатып алу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -4362,7 +4378,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -4370,7 +4386,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-1 667,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4378,7 +4394,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитiн пайдалану)</td>
-<td>0,0</td>
+<td>1 667,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4386,7 +4402,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздар түсімі</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -4394,7 +4410,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздарды өтеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -4402,7 +4418,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0,0</td>
+<td>1 667,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4410,7 +4426,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0,0</td>
+<td>1 667,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4418,7 +4434,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0,0</td>
+<td>1 667,4</td>
 </tr>
 </table>
 
@@ -5211,6 +5227,8 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 
 ## Шемонаиха ауданы Октябрское ауылдық округінің 2022 жылға арналған бюджеті
 
+> *Ескерту. 28-қосымша жаңа редакцияда - Шығыс Қазақстан облысы Шемонаиха аудандық мәслихатының 13.04.2022 № 17/2-VII (01.01.2022 бастап қолданысқа енгiзiледi) шешімімен.*
+
 <table>
 <tr>
 <td colspan="4">Санаты</td>
@@ -5232,14 +5250,14 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td></td>
-<td>Кірістер атауы</td>
+<td>Атауы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>1.КІРІСТЕР</td>
-<td>46 088,0</td>
+<td>І.КІРІСТЕР</td>
+<td>50 580,0</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5309,21 +5327,21 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>38 701,0</td>
+<td>43 193,0</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>38 701,0</td>
+<td>43 193,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Аудандардың (облыстық маңызы бар қаланың) бюджетінен трансферттер</td>
-<td>38 701,0</td>
+<td>43 193,0</td>
 </tr>
 </table>
 
@@ -5363,7 +5381,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">II. ШЫҒЫНДАР</td>
-<td colspan="2">46 088,0</td>
+<td colspan="2">51 324,0</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5371,7 +5389,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">30 711,0</td>
+<td colspan="2">30 911,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5379,7 +5397,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">30 711,0</td>
+<td colspan="2">30 911,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5387,7 +5405,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">30 711,0</td>
+<td colspan="2">30 911,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5395,7 +5413,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">30 711,0</td>
+<td colspan="2">30 911,0</td>
 </tr>
 <tr>
 <td>07</td>
@@ -5403,7 +5421,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Түрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">7527,0</td>
+<td colspan="2">7 527,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5411,7 +5429,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td></td>
 <td></td>
 <td colspan="2">Елді-мекендерді көркейту</td>
-<td colspan="2">7527,0</td>
+<td colspan="2">7 527,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5419,7 +5437,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">7527,0</td>
+<td colspan="2">7 527,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5451,7 +5469,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Көлік және коммуникация</td>
-<td>7 850,0</td>
+<td>12 886,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5459,7 +5477,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Автомобиль көлігі</td>
-<td>7 850,0</td>
+<td>12 886,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5467,7 +5485,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2">124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>7 850,0</td>
+<td>12 886,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5475,7 +5493,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2">013</td>
 <td colspan="2">Аудандық маңызы қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>7 850,0</td>
+<td>12 886,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5483,7 +5501,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">ІІІ. Таза бюджеттік кредиттеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5491,7 +5509,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттер</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5499,7 +5517,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5507,7 +5525,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">ІV. Қаржы активтерімен операциялар бойынша сальдо</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5515,7 +5533,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қаржы активтерін сатып алу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5523,7 +5541,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5531,7 +5549,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профициті)</td>
-<td>0,0</td>
+<td>-744,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5539,7 +5557,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитiн пайдалану)</td>
-<td>0,0</td>
+<td>744,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5547,7 +5565,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздар түсімі</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5555,7 +5573,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздарды өтеу</td>
-<td>0,0</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -5563,7 +5581,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>0,0</td>
+<td>744,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5571,7 +5589,7 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>0,0</td>
+<td>744,0</td>
 </tr>
 <tr>
 <td></td>
@@ -5579,6 +5597,6 @@ source: https://zan.gov.kz/client/#!/doc/164015/kaz/28.12.2021
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>0,0</td>
+<td>744,0</td>
 </tr>
 </table>
