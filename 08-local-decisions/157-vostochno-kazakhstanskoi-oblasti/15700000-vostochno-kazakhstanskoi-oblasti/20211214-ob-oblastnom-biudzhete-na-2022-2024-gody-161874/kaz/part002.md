@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/161874/kaz/16.09.2022
+source: https://zan.gov.kz/client/#!/doc/161874/kaz/04.11.2022
 ---
 
 > *Шығыс Қазақстан облыстық мәслихатының*  
@@ -453,22 +453,9 @@ source: https://zan.gov.kz/client/#!/doc/161874/kaz/16.09.2022
 <td>Республикалық бюджеттен өзге де шығыстарға берілетін субвенциялар</td>
 <td>7 556 525,0</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td rowspan="5">Барлығы шығындар (мың теңге)</td>
