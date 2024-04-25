@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/191065/kaz/06.03.2024
+source: https://zan.gov.kz/client/#!/doc/191065/kaz/25.04.2024
 ---
 
 > *Алтай ауданының мәслихатының*  
