@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/192193/kaz/24.10.2024
+source: https://zan.gov.kz/client/#!/doc/192193/kaz/09.12.2024
 ---
 
 > *Ұлан аудандық мәслихаттың*  
