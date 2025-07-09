@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/136931/kaz/21.06.2024
+source: https://zan.gov.kz/client/#!/doc/136931/kaz/09.07.2025
 ---
 
 # Семей қаласы аумағында сайлау учаскелерін құру туралы
@@ -35,4 +35,4 @@ source: https://zan.gov.kz/client/#!/doc/136931/kaz/21.06.2024
 | Часть | Название |
 |---|---|
 | [`part001`](kaz/part001.md) | № 1 сайлау учаскесі |
-| [`part098`](kaz/part098.md) | № 96 сайлау учаскесі |
+| [`part096`](kaz/part096.md) | № 94 сайлау учаскесі |
