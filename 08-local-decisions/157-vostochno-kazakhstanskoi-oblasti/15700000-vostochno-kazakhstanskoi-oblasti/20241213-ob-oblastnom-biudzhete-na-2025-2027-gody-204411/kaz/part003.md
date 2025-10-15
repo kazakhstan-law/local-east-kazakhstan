@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/204411/kaz/11.08.2025
+source: https://zan.gov.kz/client/#!/doc/204411/kaz/15.10.2025
 ---
 
 > *Шығыс Қазақстан*  
